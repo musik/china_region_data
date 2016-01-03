@@ -4,6 +4,7 @@ require 'pp'
 require 'chinese_pinyin'
 # require 'active_support/hash'
 require 'active_support/hash_with_indifferent_access'
+$custom = YAML.load_file("custom.yml")
 def parse_city k,val
   # puts k
   val[:cities] = parse_cities(val[:cities]) if val.key?(:cities)
@@ -24,9 +25,9 @@ def parse_city k,val
     # p [val[:nicename],k,val[:pinyin],val[:pinyin_abbr]]
   end
   #特殊处理 
-  if k == '乐清市'
-    val[:pinyin] = "yueqing"
-    val[:pinyin_abbr] = "yq"
+  if $custom.key?(k)
+    val[:pinyin] = $custom[k]["pinyin"]
+    val[:pinyin_abbr] = $custom[k]["abbr"]
   end
   if rewrite_pinyin
     val[:pinyin] = Pinyin.t(k,splitter: '')

@@ -3134,8 +3134,8 @@
           nicename: "杜尔伯特"
       nicename: "大庆"
     "伊春市":
-      pinyin: yichun
-      pinyin_abbr: yc
+      pinyin: yichun2
+      pinyin_abbr: yc2
       zip_code: '152300'
       level: 4
       districts:
@@ -3993,8 +3993,8 @@
           nicename: "句容"
       nicename: "镇江"
     "泰州市":
-      pinyin: taizhou
-      pinyin_abbr: tz
+      pinyin: taizhou2
+      pinyin_abbr: tz2
       zip_code: '225300'
       level: 4
       districts:
@@ -4883,8 +4883,8 @@
           nicename: "界首"
       nicename: "阜阳"
     "宿州市":
-      pinyin: suzhou
-      pinyin_abbr: sz
+      pinyin: suzhou2
+      pinyin_abbr: sz2
       zip_code: '234100'
       level: 4
       districts:
@@ -5837,8 +5837,8 @@
           nicename: "高安"
       nicename: "宜春"
     "抚州市":
-      pinyin: fuzhou
-      pinyin_abbr: fz
+      pinyin: fuzhou2
+      pinyin_abbr: fz2
       zip_code: '332900'
       level: 4
       districts:
@@ -12270,8 +12270,8 @@
       nicename: "林芝"
   nicename: "西藏"
 "陕西省":
-  pinyin: shanxi
-  pinyin_abbr: _sx
+  pinyin: shaanxi
+  pinyin_abbr: sx2
   cities:
     "西安市":
       pinyin: xian
@@ -12639,8 +12639,8 @@
           nicename: "佛坪"
       nicename: "汉中"
     "榆林市":
-      pinyin: yulin
-      pinyin_abbr: yl
+      pinyin: yulin2
+      pinyin_abbr: yl2
       zip_code: '719000'
       level: 4
       districts:
