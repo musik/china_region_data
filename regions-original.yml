@@ -8877,9 +8877,9 @@
       zip_code: '665000'
       level: 4
       districts:
-        翠云区:
-          pinyin: cuiyun
-          pinyin_abbr: cy
+        思茅区:
+          pinyin: simao
+          pinyin_abbr: sm
         普洱哈尼族彝族自治县:
           pinyin: puerhanizuyizu
           pinyin_abbr: pehnzyz

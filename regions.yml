@@ -11548,16 +11548,16 @@
           pinyin_abbr: nl
           nicename: "宁蒗"
       nicename: "丽江"
-    "思茅市":
-      pinyin: simao
-      pinyin_abbr: sm
+    "普洱市":
+      pinyin: puer
+      pinyin_abbr: pe
       zip_code: '665000'
       level: 4
       districts:
-        "翠云区":
-          pinyin: cuiyun
-          pinyin_abbr: cy
-          nicename: "翠云"
+        "思茅区":
+          pinyin: simao
+          pinyin_abbr: sm
+          nicename: "思茅"
         "普洱哈尼族彝族自治县":
           pinyin: puer
           pinyin_abbr: pe
@@ -11594,7 +11594,7 @@
           pinyin: ximeng
           pinyin_abbr: xm
           nicename: "西盟"
-      nicename: "思茅"
+      nicename: "普洱"
     "临沧市":
       pinyin: lincang
       pinyin_abbr: lc

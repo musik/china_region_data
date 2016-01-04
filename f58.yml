@@ -1,0 +1,9010 @@
+---
+bj:
+  name: "北京"
+  url: http://bj.58.com/
+  slug: bj
+  children:
+  - name: "朝阳"
+    slug: chaoyang
+  - name: "海淀"
+    slug: haidian
+  - name: "东城"
+    slug: dongcheng
+  - name: "西城"
+    slug: xicheng
+  - name: "崇文"
+    slug: chongwen
+  - name: "宣武"
+    slug: xuanwu
+  - name: "丰台"
+    slug: fengtai
+  - name: "通州"
+    slug: tongzhouqu
+  - name: "石景山"
+    slug: shijingshan
+  - name: "房山"
+    slug: fangshan
+  - name: "昌平"
+    slug: changping
+  - name: "大兴"
+    slug: daxing
+  - name: "顺义"
+    slug: shunyi
+  - name: "密云"
+    slug: miyun
+  - name: "怀柔"
+    slug: huairou
+  - name: "延庆"
+    slug: yanqing
+  - name: "平谷"
+    slug: pinggu
+  - name: "门头沟"
+    slug: mentougou
+  - name: "燕郊"
+    slug: bjyanjiao
+  - name: "北京周边"
+    slug: beijingzhoubian
+sh:
+  name: "上海"
+  url: http://sh.58.com/
+  slug: sh
+  children:
+  - name: "黄浦"
+    slug: huangpu
+  - name: "卢湾"
+    slug: luwan
+  - name: "静安"
+    slug: jingan
+  - name: "徐汇"
+    slug: xuhui
+  - name: "浦东"
+    slug: pudongxinqu
+  - name: "长宁"
+    slug: changning
+  - name: "虹口"
+    slug: hongkou
+  - name: "杨浦"
+    slug: yangpu
+  - name: "普陀"
+    slug: putuo
+  - name: "闸北"
+    slug: zhabei
+  - name: "闵行"
+    slug: minxing
+  - name: "宝山"
+    slug: baoshan
+  - name: "嘉定"
+    slug: jiading
+  - name: "青浦"
+    slug: qingpu
+  - name: "奉贤"
+    slug: fengxiansh
+  - name: "南汇"
+    slug: nanhui
+  - name: "崇明"
+    slug: chongming
+  - name: "金山"
+    slug: jinshan
+  - name: "松江"
+    slug: songjiang
+  - name: "上海周边"
+    slug: shanghaizhoubian
+gz:
+  name: "广州"
+  url: http://gz.58.com/
+  slug: gz
+  children:
+  - name: "天河"
+    slug: tianhe
+  - name: "海珠"
+    slug: haizhu
+  - name: "越秀"
+    slug: yuexiu
+  - name: "白云"
+    slug: baiyun
+  - name: "荔湾"
+    slug: liwan
+  - name: "番禺"
+    slug: panyu
+  - name: "黄埔"
+    slug: huangpugz
+  - name: "花都"
+    slug: huadugz
+  - name: "增城"
+    slug: zengcheng
+  - name: "萝岗"
+    slug: luoganggz
+  - name: "东莞"
+    slug: dongguanqu
+  - name: "佛山"
+    slug: foshanqu
+  - name: "从化"
+    slug: conghua
+  - name: "南沙"
+    slug: nanshagz
+  - name: "经济开发区"
+    slug: jingjikaifaqu
+  - name: "广州周边"
+    slug: guangzhouzhoubian
+sz:
+  name: "深圳"
+  url: http://sz.58.com/
+  slug: sz
+  children:
+  - name: "罗湖"
+    slug: luohu
+  - name: "福田"
+    slug: futian
+  - name: "南山"
+    slug: nanshan
+  - name: "盐田"
+    slug: yantian
+  - name: "宝安"
+    slug: baoan
+  - name: "龙岗区"
+    slug: longgang
+  - name: "布吉"
+    slug: buji
+  - name: "坪山新区"
+    slug: pingshanxinqu
+  - name: "光明新区"
+    slug: guangmingxinqu
+  - name: "龙华新区"
+    slug: szlhxq
+  - name: "大鹏新区"
+    slug: dapengxq
+  - name: "深圳周边"
+    slug: shenzhenzhoubian
+cd:
+  name: "成都"
+  url: http://cd.58.com/
+  slug: cd
+  children:
+  - name: "金堂"
+    slug: jintang
+  - name: "天府新区"
+    slug: cdtfxq
+  - name: "武侯"
+    slug: wuhou
+  - name: "锦江"
+    slug: jinjiang
+  - name: "成华"
+    slug: chenghua
+  - name: "金牛"
+    slug: jinniu
+  - name: "青羊"
+    slug: qingyangqu
+  - name: "都江堰"
+    slug: dujiangyanshi
+  - name: "新都"
+    slug: xindu
+  - name: "郫县"
+    slug: pixian
+  - name: "温江"
+    slug: wenjiang
+  - name: "龙泉驿"
+    slug: longquanyi
+  - name: "双流"
+    slug: shuangliu
+  - name: "高新区"
+    slug: cdgaoxin
+  - name: "高新西区"
+    slug: gaoxinxiqu
+  - name: "新津"
+    slug: xinjin
+  - name: "邛崃市"
+    slug: cdqls
+  - name: "成都周边"
+    slug: chengdu
+  - name: "崇州"
+    slug: cdchongzhou
+  - name: "大邑"
+    slug: cddayi
+  - name: "蒲江"
+    slug: cdpujiang
+hz:
+  name: "杭州"
+  url: http://hz.58.com/
+  slug: hz
+  children:
+  - name: "西湖"
+    slug: xihuqu
+  - name: "拱墅"
+    slug: gongshu
+  - name: "江干"
+    slug: jianggan
+  - name: "下城"
+    slug: xiacheng
+  - name: "上城"
+    slug: hzshangcheng
+  - name: "余杭"
+    slug: yuhang
+  - name: "萧山"
+    slug: xiaoshan
+  - name: "滨江"
+    slug: binjiang
+  - name: "建德"
+    slug: jiandeshi
+  - name: "富阳"
+    slug: fuyangshi
+  - name: "临安"
+    slug: linanshi
+  - name: "桐庐"
+    slug: tonglu
+  - name: "淳安"
+    slug: chunan
+  - name: "杭州周边"
+    slug: hangzhou
+nj:
+  name: "南京"
+  url: http://nj.58.com/
+  slug: nj
+  children:
+  - name: "玄武"
+    slug: xuanwuqu
+  - name: "鼓楼"
+    slug: gulouqu
+  - name: "建邺"
+    slug: jianye
+  - name: "白下"
+    slug: baixia
+  - name: "秦淮"
+    slug: qinhuai
+  - name: "下关"
+    slug: xiaguan
+  - name: "雨花台"
+    slug: yuhuatai
+  - name: "浦口"
+    slug: pukouqu
+  - name: "栖霞"
+    slug: qixiaqu
+  - name: "江宁"
+    slug: jiangning
+  - name: "六合"
+    slug: liuhequ
+  - name: "高淳"
+    slug: gaochunxian
+  - name: "溧水"
+    slug: lishuixian
+  - name: "大厂"
+    slug: dachangqu
+  - name: "南京周边"
+    slug: nanjing
+tj:
+  name: "天津"
+  url: http://tj.58.com/
+  slug: tj
+  children:
+  - name: "南开"
+    slug: nankai
+  - name: "河西"
+    slug: hexi
+  - name: "河东"
+    slug: hedong
+  - name: "和平"
+    slug: heping
+  - name: "河北"
+    slug: hebeiqu
+  - name: "红桥"
+    slug: hongqiaotj
+  - name: "塘沽"
+    slug: tanggu
+  - name: "东丽"
+    slug: donglitj
+  - name: "西青"
+    slug: xiqingtj
+  - name: "北辰"
+    slug: beichentj
+  - name: "津南"
+    slug: jinnantj
+  - name: "开发区"
+    slug: tjkaifaqu
+  - name: "大港"
+    slug: dagang
+  - name: "汉沽"
+    slug: hangu
+  - name: "武清"
+    slug: wuqing
+  - name: "宝坻"
+    slug: baodi
+  - name: "静海"
+    slug: jinghaiqu
+  - name: "宁河"
+    slug: ninghexian
+  - name: "蓟县"
+    slug: jianxiantj
+  - name: "天津周边"
+    slug: tianjin
+wh:
+  name: "武汉"
+  url: http://wh.58.com/
+  slug: wh
+  children:
+  - name: "武昌"
+    slug: wuchang
+  - name: "洪山"
+    slug: hongshan
+  - name: "黄陂"
+    slug: huangpo
+  - name: "江岸"
+    slug: jiangan
+  - name: "东西湖"
+    slug: dongxihu
+  - name: "江汉"
+    slug: jianghan
+  - name: "蔡甸"
+    slug: caidian
+  - name: "汉阳"
+    slug: hanyang
+  - name: "沌口开发区"
+    slug: whtkfq
+  - name: "硚口"
+    slug: qiaokou
+  - name: "江夏"
+    slug: jiangxia
+  - name: "青山"
+    slug: whqingshanqu
+  - name: "新洲"
+    slug: xinzhouqu
+  - name: "汉南"
+    slug: hannan
+  - name: "武汉周边"
+    slug: wuhan
+cq:
+  name: "重庆"
+  url: http://cq.58.com/
+  slug: cq
+  children:
+  - name: "江北"
+    slug: jiangbei
+  - name: "万州"
+    slug: wanzhou
+  - name: "渝中"
+    slug: yuzhong
+  - name: "九龙坡"
+    slug: jiulongpo
+  - name: "涪陵"
+    slug: fuling
+  - name: "长寿"
+    slug: changshou
+  - name: "沙坪坝"
+    slug: shapingba
+  - name: "合川"
+    slug: hechuan
+  - name: "南岸"
+    slug: nanan
+  - name: "渝北"
+    slug: yubei
+  - name: "巴南"
+    slug: banan
+  - name: "北碚"
+    slug: beibei
+  - name: "大渡口"
+    slug: dadukou
+  - name: "永川"
+    slug: yongchuan
+  - name: "两江新区"
+    slug: liangjiangxinqu
+  - name: "璧山"
+    slug: bishanxian
+  - name: "重庆周边"
+    slug: chongqing
+  - name: "石柱"
+    slug: cqshizhu
+qd:
+  name: "青岛"
+  url: http://qd.58.com/
+  slug: qd
+  children:
+  - name: "市南"
+    slug: shinan
+  - name: "市北"
+    slug: shibei
+  - name: "四方"
+    slug: sifang
+  - name: "黄岛"
+    slug: huangdao
+  - name: "崂山"
+    slug: laoshan
+  - name: "李沧"
+    slug: licang
+  - name: "城阳"
+    slug: chengyang
+  - name: "即墨"
+    slug: jimo
+  - name: "平度"
+    slug: pingdu
+  - name: "胶南"
+    slug: jiaonan
+  - name: "莱西"
+    slug: laixi
+  - name: "胶州"
+    slug: jiaozhou
+  - name: "青岛周边"
+    slug: qingdao
+jn:
+  name: "济南"
+  url: http://jn.58.com/
+  slug: jn
+  children:
+  - name: "历下"
+    slug: lixia
+  - name: "市中"
+    slug: jnshizhong
+  - name: "天桥"
+    slug: tianqiao
+  - name: "历城"
+    slug: licheng
+  - name: "槐荫"
+    slug: huaiyinqu
+  - name: "高新"
+    slug: gaoxinqujn
+  - name: "长清"
+    slug: changqingqv
+  - name: "章丘"
+    slug: zhangqiushi
+  - name: "平阴"
+    slug: pingyin
+  - name: "济阳"
+    slug: jiyang
+  - name: "商河"
+    slug: shanghe
+  - name: "济南周边"
+    slug: jinanzhoubian
+yt:
+  name: "烟台"
+  url: http://yt.58.com/
+  slug: yt
+  children:
+  - name: "芝罘"
+    slug: zhifu
+  - name: "龙口"
+    slug: longkou
+  - name: "莱山"
+    slug: laishan
+  - name: "福山"
+    slug: fushan
+  - name: "牟平"
+    slug: mouping
+  - name: "开发区"
+    slug: ytkaifaqu
+  - name: "大学城"
+    slug: ytdaxue
+  - name: "高新区"
+    slug: ytgaoxin
+  - name: "莱州"
+    slug: laizhou
+  - name: "蓬莱"
+    slug: penglai
+  - name: "莱阳"
+    slug: laiyang
+  - name: "招远"
+    slug: zhaoyuan
+  - name: "栖霞"
+    slug: qixia
+  - name: "长岛"
+    slug: changdao
+  - name: "海阳"
+    slug: hyang
+  - name: "烟台周边"
+    slug: yantan
+wf:
+  name: "潍坊"
+  url: http://wf.58.com/
+  slug: wf
+  children:
+  - name: "奎文"
+    slug: kuiwen
+  - name: "潍城"
+    slug: weicheng
+  - name: "坊子"
+    slug: fangzi
+  - name: "寒亭"
+    slug: hanting
+  - name: "高新区"
+    slug: wfgaoxinqu
+  - name: "滨海新区"
+    slug: wfbinhaixinqu
+  - name: "寿光"
+    slug: shouguangqu
+  - name: "经开区"
+    slug: jingkaiq
+  - name: "安丘"
+    slug: anqiu
+  - name: "昌乐"
+    slug: changle
+  - name: "高密"
+    slug: gaomi
+  - name: "临朐"
+    slug: linqu
+  - name: "诸城"
+    slug: zhucheng
+  - name: "昌邑"
+    slug: changyishi
+  - name: "青州"
+    slug: qingzhou
+  - name: "潍坊周边"
+    slug: weifang
+linyi:
+  name: "临沂"
+  url: http://linyi.58.com/
+  slug: linyi
+  children:
+  - name: "兰山"
+    slug: lanshanqu
+  - name: "罗庄"
+    slug: luozhuang
+  - name: "河东"
+    slug: hedongqu
+  - name: "郯城"
+    slug: tancheng
+  - name: "费县"
+    slug: feixian
+  - name: "临沭"
+    slug: linshu
+  - name: "沂南"
+    slug: yinanxian
+  - name: "蒙阴"
+    slug: mengyinxian
+  - name: "平邑"
+    slug: pingyi
+  - name: "沂水"
+    slug: yishui
+  - name: "兰陵"
+    slug: cangshanxian
+  - name: "莒南"
+    slug: junan
+  - name: "临沂周边"
+    slug: linyishi
+  - name: "北城新区"
+    slug: lybcxqu
+  - name: "开发区"
+    slug: lykaifaqu
+  - name: "高新区"
+    slug: lygaoxinqu
+zb:
+  name: "淄博"
+  url: http://zb.58.com/
+  slug: zb
+  children:
+  - name: "张店"
+    slug: zhangdian
+  - name: "临淄"
+    slug: linzi
+  - name: "淄川"
+    slug: zichuan
+  - name: "周村"
+    slug: zhoucun
+  - name: "博山"
+    slug: boshan
+  - name: "开发区"
+    slug: kaifaquyu
+  - name: "沂源"
+    slug: yiyuanxian
+  - name: "桓台"
+    slug: huantaixian
+  - name: "高青"
+    slug: gaoqingxian
+  - name: "其他"
+    slug: zibo
+jining:
+  name: "济宁"
+  url: http://jining.58.com/
+  slug: jining
+  children:
+  - name: "市中"
+    slug: jnshizhongqu
+  - name: "任城"
+    slug: rencheng
+  - name: "曲阜"
+    slug: qufu
+  - name: "金乡"
+    slug: jinxiang
+  - name: "邹城"
+    slug: zoucheng
+  - name: "兖州"
+    slug: yanzhou
+  - name: "梁山"
+    slug: liangshanx
+  - name: "汶上"
+    slug: wenshang
+  - name: "泗水"
+    slug: sishui
+  - name: "嘉祥"
+    slug: jiaxiang
+  - name: "微山"
+    slug: weishan
+  - name: "鱼台"
+    slug: yutai
+  - name: "北湖新区"
+    slug: jiningbhxq
+  - name: "高新区"
+    slug: jininggxq
+  - name: "济宁周边"
+    slug: jiningshi
+ta:
+  name: "泰安"
+  url: http://ta.58.com/
+  slug: ta
+  children:
+  - name: "泰山区"
+    slug: taishanqu
+  - name: "岱岳区"
+    slug: daiyue
+  - name: "新泰"
+    slug: xintai
+  - name: "肥城"
+    slug: feicheng
+  - name: "宁阳"
+    slug: ningyang
+  - name: "东平"
+    slug: dongping
+  - name: "泰安周边"
+    slug: taian
+lc:
+  name: "聊城"
+  url: http://lc.58.com/
+  slug: lc
+  children:
+  - name: "东昌府"
+    slug: dongchangfu
+  - name: "茌平"
+    slug: chiping
+  - name: "临清"
+    slug: linqing
+  - name: "冠县"
+    slug: guanxian
+  - name: "高唐"
+    slug: gaotang
+  - name: "阳谷"
+    slug: yanggu
+  - name: "东阿"
+    slug: donga
+  - name: "莘县"
+    slug: shenxian
+  - name: "开发区"
+    slug: lckfq
+  - name: "其他"
+    slug: liaocheng
+weihai:
+  name: "威海"
+  url: http://weihai.58.com/
+  slug: weihai
+  children:
+  - name: "环翠"
+    slug: huancui
+  - name: "乳山"
+    slug: rushan
+  - name: "荣成"
+    slug: rongcheng
+  - name: "文登"
+    slug: wendeng
+  - name: "高区"
+    slug: gaoqu
+  - name: "经区"
+    slug: jingqu
+  - name: "其他"
+    slug: weihaishi
+zaozhuang:
+  name: "枣庄"
+  url: http://zaozhuang.58.com/
+  slug: zaozhuang
+  children:
+  - name: "市中区"
+    slug: shizhongqu
+  - name: "薛城"
+    slug: xuecheng
+  - name: "峄城"
+    slug: zzyicheng
+  - name: "台儿庄"
+    slug: taierzhuang
+  - name: "山亭"
+    slug: shanting
+  - name: "滕州"
+    slug: tengzhou
+  - name: "其他"
+    slug: zaozhuangshi
+dz:
+  name: "德州"
+  url: http://dz.58.com/
+  slug: dz
+  children:
+  - name: "德城"
+    slug: decheng
+  - name: "乐陵"
+    slug: leling
+  - name: "禹城"
+    slug: yuchengshi
+  - name: "宁津"
+    slug: ningjin
+  - name: "平原"
+    slug: pingyuan
+  - name: "临邑"
+    slug: linyixianq
+  - name: "齐河"
+    slug: qihe
+  - name: "武城"
+    slug: wucheng
+  - name: "夏津"
+    slug: xiajin
+  - name: "陵县"
+    slug: lingxian
+  - name: "庆云"
+    slug: qingyun
+  - name: "其他"
+    slug: dezhou
+rizhao:
+  name: "日照"
+  url: http://rizhao.58.com/
+  slug: rizhao
+  children:
+  - name: "东港"
+    slug: donggangqu
+  - name: "岚山"
+    slug: lanshan
+  - name: "莒县"
+    slug: juxian
+  - name: "五莲"
+    slug: wulian
+  - name: "其它"
+    slug: rizhaoshi
+dy:
+  name: "东营"
+  url: http://dy.58.com/
+  slug: dy
+  children:
+  - name: "东营区"
+    slug: dongying
+  - name: "河口"
+    slug: hekou
+  - name: "广饶"
+    slug: guangrao
+  - name: "垦利县"
+    slug: kenli
+  - name: "利津"
+    slug: lijin
+  - name: "其他"
+    slug: dongyingshi
+heze:
+  name: "菏泽"
+  url: http://heze.58.com/
+  slug: heze
+  children:
+  - name: "牡丹"
+    slug: mudanqu
+  - name: "鄄城"
+    slug: juancheng
+  - name: "单县"
+    slug: shanxian
+  - name: "郓城"
+    slug: hzyc
+  - name: "曹县"
+    slug: caoxian
+  - name: "定陶"
+    slug: dingtao
+  - name: "巨野"
+    slug: juye
+  - name: "东明"
+    slug: dongming
+  - name: "成武"
+    slug: chengwu
+  - name: "开发区"
+    slug: hzkaifaqu
+  - name: "其它"
+    slug: hezeshi
+bz:
+  name: "滨州"
+  url: http://bz.58.com/
+  slug: bz
+  children:
+  - name: "滨城"
+    slug: bincheng
+  - name: "邹平"
+    slug: juping
+  - name: "沾化"
+    slug: zhanhua
+  - name: "博兴"
+    slug: boxing
+  - name: "无棣"
+    slug: wudi
+  - name: "惠民"
+    slug: huiminxian
+  - name: "阳信"
+    slug: yangxin
+  - name: "其他"
+    slug: binzhou
+lw:
+  name: "莱芜"
+  url: http://lw.58.com/
+  slug: lw
+  children:
+  - name: "莱城"
+    slug: laichengqu
+  - name: "钢城"
+    slug: gangchengqu
+  - name: "高新区"
+    slug: gaoxinquq
+  - name: "雪野旅游区"
+    slug: xueyelvyou
+zhangqiu:
+  name: "章丘"
+  url: http://zhangqiu.58.com/
+  slug: zhangqiu
+  children:
+  - name: "章丘"
+    slug: zhangqiushiqu
+  - name: "普集镇"
+    slug: pujizhen
+  - name: "绣惠镇"
+    slug: xiuhuizhen
+  - name: "相公庄镇"
+    slug: xianggongzhuang
+  - name: "水寨镇"
+    slug: shuizhaizhen
+  - name: "刁镇"
+    slug: diaozhen
+  - name: "高官寨镇"
+    slug: gaoguanzhai
+  - name: "官庄乡"
+    slug: guanzhuangxiang
+  - name: "辛寨乡"
+    slug: xinzhaixiang
+  - name: "其他"
+    slug: zhangqiuqita
+kl:
+  name: "垦利"
+  url: http://kl.58.com/
+  slug: kl
+  children:
+  - name: "胜坨"
+    slug: shengtuo
+  - name: "郝家"
+    slug: haojia
+  - name: "永安"
+    slug: yongankl
+  - name: "黄河口"
+    slug: huanghekou
+  - name: "董集"
+    slug: dongjixiang
+  - name: "垦利街"
+    slug: kenlijie
+  - name: "兴隆街"
+    slug: xinglongjie
+  - name: "垦利周边"
+    slug: kenlizhoubian
+zc:
+  name: "诸城"
+  url: http://zc.58.com/
+  slug: zc
+  children:
+  - name: "密州街道"
+    slug: mizhouj
+  - name: "龙都街道"
+    slug: longduj
+  - name: "舜王街道"
+    slug: shunwangj
+  - name: "桃林乡"
+    slug: taolinx
+  - name: "相州镇"
+    slug: xiangzhouz
+  - name: "百尺河镇"
+    slug: baichihe
+  - name: "昌城镇"
+    slug: changchengz
+  - name: "皇华镇"
+    slug: huanghuaz
+  - name: "贾悦镇"
+    slug: jiayuez
+  - name: "石桥子镇"
+    slug: shiqiaozi
+  - name: "程戈庄镇"
+    slug: chenggezhuang
+  - name: "枳沟镇"
+    slug: zhigou
+  - name: "辛兴镇"
+    slug: xinxingz
+shouguang:
+  name: "寿光"
+  url: http://shouguang.58.com/
+  slug: shouguang
+  children:
+  - name: "文家"
+    slug: wenjia
+  - name: "留吕"
+    slug: liulv
+  - name: "台头"
+    slug: taitou
+  - name: "其它"
+    slug: shouguangshi
+su:
+  name: "苏州"
+  url: http://su.58.com/
+  slug: su
+  children:
+  - name: "沧浪"
+    slug: canglang
+  - name: "相城"
+    slug: xiangchengqua
+  - name: "平江"
+    slug: pingjiangqu
+  - name: "金阊"
+    slug: jinchangquyu
+  - name: "工业园"
+    slug: gongyeyuan
+  - name: "吴中"
+    slug: wuzhongqu
+  - name: "昆山"
+    slug: szkunshan
+  - name: "常熟"
+    slug: changshushi
+  - name: "张家港"
+    slug: zhangjiagangshi
+  - name: "太仓"
+    slug: taicangshi
+  - name: "高新区"
+    slug: sugaoxinqu
+  - name: "吴江"
+    slug: wujiangshi
+  - name: "苏州周边"
+    slug: suzhouqita
+wx:
+  name: "无锡"
+  url: http://wx.58.com/
+  slug: wx
+  children:
+  - name: "崇安"
+    slug: chongan
+  - name: "南长"
+    slug: nanchangqu
+  - name: "北塘"
+    slug: beitang
+  - name: "锡山"
+    slug: xishanqu
+  - name: "惠山"
+    slug: huishanq
+  - name: "滨湖"
+    slug: binhu
+  - name: "新区"
+    slug: wxxinqu
+  - name: "江阴"
+    slug: jiangyin
+  - name: "宜兴"
+    slug: yixingshi
+  - name: "无锡周边"
+    slug: wuxi
+cz:
+  name: "常州"
+  url: http://cz.58.com/
+  slug: cz
+  children:
+  - name: "天宁"
+    slug: tianning
+  - name: "武进"
+    slug: wujin
+  - name: "钟楼"
+    slug: zhonglou
+  - name: "戚墅堰"
+    slug: qishuyan
+  - name: "新北"
+    slug: xinbei
+  - name: "金坛"
+    slug: jintan
+  - name: "溧阳"
+    slug: liyangqu
+  - name: "常州周边"
+    slug: changzhou
+xz:
+  name: "徐州"
+  url: http://xz.58.com/
+  slug: xz
+  children:
+  - name: "云龙"
+    slug: yunlong
+  - name: "鼓楼"
+    slug: xzgulou
+  - name: "九里"
+    slug: jiuli
+  - name: "贾汪"
+    slug: jiawang
+  - name: "泉山"
+    slug: quanshan
+  - name: "新沂"
+    slug: xinyiqu
+  - name: "邳州"
+    slug: pizhouqu
+  - name: "沛县"
+    slug: peixianqu
+  - name: "铜山"
+    slug: xztongshan
+  - name: "睢宁"
+    slug: xzsuining
+  - name: "丰县"
+    slug: xzfengx
+  - name: "金山桥开发区"
+    slug: jsqkfq
+  - name: "新城区"
+    slug: xchengqu
+  - name: "徐州周边"
+    slug: xuzhou
+nt:
+  name: "南通"
+  url: http://nt.58.com/
+  slug: nt
+  children:
+  - name: "崇川"
+    slug: chongchuan
+  - name: "通州"
+    slug: tongzhou
+  - name: "港闸"
+    slug: gangzha
+  - name: "如皋"
+    slug: rugaoqu
+  - name: "启东"
+    slug: qidongqu
+  - name: "海门"
+    slug: haimenqu
+  - name: "如东"
+    slug: rudongqu
+  - name: "海安"
+    slug: haianqu
+  - name: "开发区"
+    slug: kfaqu
+  - name: "南通周边"
+    slug: nantong
+yz:
+  name: "扬州"
+  url: http://yz.58.com/
+  slug: yz
+  children:
+  - name: "广陵"
+    slug: guangling
+  - name: "维扬"
+    slug: weiyangqu
+  - name: "邗江"
+    slug: hanjiang
+  - name: "江都"
+    slug: jiangdou
+  - name: "仪征"
+    slug: yizheng
+  - name: "高邮"
+    slug: gaoyou
+  - name: "宝应县"
+    slug: baoyingx
+  - name: "扬州周边"
+    slug: yangzhouqita
+yancheng:
+  name: "盐城"
+  url: http://yancheng.58.com/
+  slug: yancheng
+  children:
+  - name: "亭湖"
+    slug: tinghu
+  - name: "盐都"
+    slug: yandou
+  - name: "大丰"
+    slug: dafengshi
+  - name: "阜宁"
+    slug: funingxian
+  - name: "射阳"
+    slug: sheyang
+  - name: "滨海"
+    slug: binhai
+  - name: "响水"
+    slug: xiangshui
+  - name: "建湖"
+    slug: jianhuqu
+  - name: "东台"
+    slug: dongtaiqu
+  - name: "其他"
+    slug: yanchengshi
+ha:
+  name: "淮安"
+  url: http://ha.58.com/
+  slug: ha
+  children:
+  - name: "清河"
+    slug: haqinghe
+  - name: "清浦"
+    slug: qingpuqu
+  - name: "淮阴"
+    slug: huaiyin
+  - name: "淮安区"
+    slug: chuzhouqu
+  - name: "涟水"
+    slug: lianshui
+  - name: "洪泽"
+    slug: hongze
+  - name: "金湖"
+    slug: jinhu
+  - name: "盱眙"
+    slug: xuyi
+  - name: "其他"
+    slug: huaian
+  - name: "经济开发区"
+    slug: hajjkfq
+lyg:
+  name: "连云港"
+  url: http://lyg.58.com/
+  slug: lyg
+  children:
+  - name: "新浦"
+    slug: xinpu
+  - name: "连云"
+    slug: lianyun
+  - name: "海州"
+    slug: haizhou
+  - name: "赣榆"
+    slug: ganyu
+  - name: "灌云"
+    slug: guanyun
+  - name: "灌南"
+    slug: guannan
+  - name: "其它"
+    slug: lianyungang
+  - name: "东海"
+    slug: donghaiqu
+taizhou:
+  name: "泰州"
+  url: http://taizhou.58.com/
+  slug: taizhou
+  children:
+  - name: "海陵"
+    slug: hailing
+  - name: "高港"
+    slug: gaogang
+  - name: "姜堰"
+    slug: jiangyan
+  - name: "兴化"
+    slug: xinghuaqu
+  - name: "靖江"
+    slug: jingjiangqu
+  - name: "泰兴"
+    slug: taixinqu
+  - name: "其他"
+    slug: taizhouqita
+suqian:
+  name: "宿迁"
+  url: http://suqian.58.com/
+  slug: suqian
+  children:
+  - name: "宿豫/宿城"
+    slug: sucheng
+  - name: "泗洪"
+    slug: sihong
+  - name: "泗阳"
+    slug: siyang
+  - name: "沭阳"
+    slug: sqshuyang
+zj:
+  name: "镇江"
+  url: http://zj.58.com/
+  slug: zj
+  children:
+  - name: "京口"
+    slug: jingkou
+  - name: "润州"
+    slug: runzhou
+  - name: "丹徒"
+    slug: dantu
+  - name: "句容"
+    slug: jurong
+  - name: "扬中"
+    slug: yangzhongsq
+  - name: "丹阳"
+    slug: danyangqu
+  - name: "镇江新区"
+    slug: zhenjiangxinqu
+  - name: "其他"
+    slug: zhenjiangqita
+shuyang:
+  name: "沭阳"
+  url: http://shuyang.58.com/
+  slug: shuyang
+  children:
+  - name: "沭城镇"
+    slug: lysczhen
+dafeng:
+  name: "大丰"
+  url: http://dafeng.58.com/
+  slug: dafeng
+  children:
+  - name: "草堰"
+    slug: caoyan
+  - name: "白驹"
+    slug: baiju
+  - name: "刘庄"
+    slug: liuzhuang
+  - name: "西团"
+    slug: xituan
+  - name: "小海"
+    slug: xiaohai
+  - name: "大桥"
+    slug: daqiao
+  - name: "南阳"
+    slug: nanyangz
+  - name: "万盈"
+    slug: wanying
+  - name: "裕华"
+    slug: yuhuaz
+  - name: "三龙"
+    slug: sanlong
+  - name: "方强"
+    slug: fangqiang
+  - name: "新丰"
+    slug: xinfengz
+  - name: "大中"
+    slug: dfdazhong
+  - name: "大丰港"
+    slug: dafenggang
+  - name: "开发区"
+    slug: kaifaquz
+  - name: "大丰周边"
+    slug: dafengzb
+rugao:
+  name: "如皋"
+  url: http://rugao.58.com/
+  slug: rugao
+  children:
+  - name: "如皋市区"
+    slug: rugaoshiqu
+  - name: "其它"
+    slug: rugaoqita
+qidong:
+  name: "启东"
+  url: http://qidong.58.com/
+  slug: qidong
+  children:
+  - name: "启东市区"
+    slug: qidongshiqu
+  - name: "其它"
+    slug: qidongqita
+liyang:
+  name: "溧阳"
+  url: http://liyang.58.com/
+  slug: liyang
+  children:
+  - name: "溧阳市区"
+    slug: liyangshiqu
+  - name: "其它"
+    slug: liyangqita
+haimen:
+  name: "海门"
+  url: http://haimen.58.com/
+  slug: haimen
+  children:
+  - name: "海门市区"
+    slug: haimenshiqu
+  - name: "其它"
+    slug: haimenqita
+donghai:
+  name: "东海"
+  url: http://donghai.58.com/
+  slug: donghai
+  children:
+  - name: "东海市区"
+    slug: donghaishiqu
+  - name: "其它"
+    slug: donghaiqita
+yangzhong:
+  name: "扬中"
+  url: http://yangzhong.58.com/
+  slug: yangzhong
+  children:
+  - name: "扬中市区"
+    slug: yangzhongshiqu
+  - name: "其它"
+    slug: yangzhongqita
+xinghuashi:
+  name: "兴化"
+  url: http://xinghuashi.58.com/
+  slug: xinghuashi
+  children:
+  - name: "兴化市区"
+    slug: xinghuashiqu
+  - name: "其它"
+    slug: xinghuaqita
+xinyishi:
+  name: "新沂"
+  url: http://xinyishi.58.com/
+  slug: xinyishi
+  children:
+  - name: "新沂市区"
+    slug: xinyishiqu
+  - name: "其它"
+    slug: xinyiqita
+taixing:
+  name: "泰兴"
+  url: http://taixing.58.com/
+  slug: taixing
+  children:
+  - name: "泰兴市区"
+    slug: taixinshiqu
+  - name: "其它"
+    slug: taixinqita
+rudong:
+  name: "如东"
+  url: http://rudong.58.com/
+  slug: rudong
+  children:
+  - name: "如东市区"
+    slug: rudongshiqu
+  - name: "其它"
+    slug: rudongqita
+pizhou:
+  name: "邳州"
+  url: http://pizhou.58.com/
+  slug: pizhou
+  children:
+  - name: "邳州市区"
+    slug: pizhoushiqu
+  - name: "其它"
+    slug: pizhouqita
+xzpeixian:
+  name: "沛县"
+  url: http://xzpeixian.58.com/
+  slug: xzpeixian
+  children:
+  - name: "沛县市区"
+    slug: peixianshiqu
+  - name: "其它"
+    slug: peixianqita
+jingjiang:
+  name: "靖江"
+  url: http://jingjiang.58.com/
+  slug: jingjiang
+  children:
+  - name: "靖江市区"
+    slug: jingjiangshiqu
+  - name: "其它"
+    slug: jingjiangqita
+jianhu:
+  name: "建湖"
+  url: http://jianhu.58.com/
+  slug: jianhu
+  children:
+  - name: "建湖市区"
+    slug: jianhushiqu
+  - name: "其它"
+    slug: jianghuqita
+haian:
+  name: "海安"
+  url: http://haian.58.com/
+  slug: haian
+  children:
+  - name: "海安市区"
+    slug: haianshiqu
+  - name: "其它"
+    slug: haianqita
+dongtai:
+  name: "东台"
+  url: http://dongtai.58.com/
+  slug: dongtai
+  children:
+  - name: "东台市区"
+    slug: dongtaishiqu
+  - name: "其它"
+    slug: dongtaiqita
+danyang:
+  name: "丹阳"
+  url: http://danyang.58.com/
+  slug: danyang
+  children:
+  - name: "丹阳市区"
+    slug: danyangshiqu
+  - name: "其它"
+    slug: danyangqita
+nb:
+  name: "宁波"
+  url: http://nb.58.com/
+  slug: nb
+  children:
+  - name: "海曙"
+    slug: haishu
+  - name: "江东"
+    slug: jiangdong
+  - name: "江北"
+    slug: jiangbeiqu
+  - name: "鄞州"
+    slug: yinzhou
+  - name: "北仑"
+    slug: beilun
+  - name: "镇海"
+    slug: zhenhai
+  - name: "高新区"
+    slug: nbgxq
+  - name: "余姚"
+    slug: yuyaoqu
+  - name: "慈溪"
+    slug: cixiqu
+  - name: "象山"
+    slug: xiangshanqunew
+  - name: "奉化"
+    slug: fenghua
+  - name: "宁海"
+    slug: ninghaixian
+  - name: "宁波周边"
+    slug: ningbo
+wz:
+  name: "温州"
+  url: http://wz.58.com/
+  slug: wz
+  children:
+  - name: "鹿城"
+    slug: lucheng
+  - name: "龙湾"
+    slug: longwan
+  - name: "瓯海"
+    slug: ouhai
+  - name: "乐清"
+    slug: yueqing
+  - name: "瑞安"
+    slug: ruian
+  - name: "永嘉"
+    slug: yongjiaxian
+  - name: "洞头"
+    slug: dongtouxian
+  - name: "平阳"
+    slug: pingyangxian
+  - name: "苍南"
+    slug: cangnanxian
+  - name: "泰顺"
+    slug: taishunxian
+  - name: "文成"
+    slug: wenchengxian
+  - name: "温州周边"
+    slug: wenzhou
+jh:
+  name: "金华"
+  url: http://jh.58.com/
+  slug: jh
+  children:
+  - name: "金华市区"
+    slug: wuchengqu
+  - name: "义乌"
+    slug: yiwushi
+  - name: "永康"
+    slug: yongkang
+  - name: "东阳"
+    slug: dongyang
+  - name: "兰溪"
+    slug: lanxi
+  - name: "浦江县"
+    slug: pujiang
+  - name: "磐安"
+    slug: panan
+  - name: "武义县"
+    slug: wuyix
+  - name: "其他"
+    slug: jinhua
+jx:
+  name: "嘉兴"
+  url: http://jx.58.com/
+  slug: jx
+  children:
+  - name: "南湖"
+    slug: nanhu
+  - name: "秀洲"
+    slug: xiuzhou
+  - name: "经济开发区"
+    slug: jingjikfq
+  - name: "平湖"
+    slug: pinghushi
+  - name: "海盐"
+    slug: haiyan
+  - name: "嘉兴市区"
+    slug: jiaxsq
+  - name: "桐乡"
+    slug: tongxiangqu
+  - name: "海宁"
+    slug: hainingqu
+  - name: "嘉善"
+    slug: jiashanqu
+  - name: "嘉兴周边"
+    slug: jiaxing
+tz:
+  name: "台州"
+  url: http://tz.58.com/
+  slug: tz
+  children:
+  - name: "椒江"
+    slug: jiaojiang
+  - name: "路桥"
+    slug: luqiao
+  - name: "黄岩"
+    slug: huangyan
+  - name: "临海"
+    slug: linhai
+  - name: "玉环"
+    slug: yuhuan
+  - name: "仙居"
+    slug: xianju
+  - name: "天台"
+    slug: tiantai
+  - name: "三门"
+    slug: sanmen
+  - name: "温岭"
+    slug: wenlingqu
+  - name: "其他"
+    slug: taizhoushi
+sx:
+  name: "绍兴"
+  url: http://sx.58.com/
+  slug: sx
+  children:
+  - name: "越城"
+    slug: yuecheng
+  - name: "镜湖"
+    slug: sxjh
+  - name: "袍江"
+    slug: paojiang
+  - name: "滨海"
+    slug: bhai
+  - name: "柯桥"
+    slug: keqiao
+  - name: "上虞"
+    slug: shangyu
+  - name: "嵊州"
+    slug: shengzhou
+  - name: "新昌"
+    slug: xinchang
+  - name: "诸暨"
+    slug: chujiqu
+  - name: "其他"
+    slug: shaoxing
+huzhou:
+  name: "湖州"
+  url: http://huzhou.58.com/
+  slug: huzhou
+  children:
+  - name: "吴兴"
+    slug: wuxing
+  - name: "南浔"
+    slug: nanxun
+  - name: "安吉"
+    slug: anji
+  - name: "长兴"
+    slug: changxingqu
+  - name: "德清"
+    slug: deqingqu
+  - name: "其他"
+    slug: huzhoushi
+lishui:
+  name: "丽水"
+  url: http://lishui.58.com/
+  slug: lishui
+  children:
+  - name: "莲都"
+    slug: lianduqu
+  - name: "龙泉"
+    slug: longquanqu
+  - name: "青田"
+    slug: qingtianqu
+  - name: "缙云"
+    slug: jinyunqu
+  - name: "遂昌"
+    slug: suiyangqu
+  - name: "松阳"
+    slug: songyangqu
+  - name: "景宁"
+    slug: jingningqu
+  - name: "云和"
+    slug: yunhequ
+  - name: "庆元"
+    slug: qingyuanquyu
+quzhou:
+  name: "衢州"
+  url: http://quzhou.58.com/
+  slug: quzhou
+  children:
+  - name: "柯城"
+    slug: kechengqu
+  - name: "衢江"
+    slug: qujiangqu
+  - name: "巨化"
+    slug: juhuaxian
+  - name: "江山"
+    slug: jiangshanshi
+  - name: "常山"
+    slug: changshanxian
+  - name: "开化"
+    slug: kaihuaxian
+  - name: "龙游"
+    slug: longyouxian
+zhoushan:
+  name: "舟山"
+  url: http://zhoushan.58.com/
+  slug: zhoushan
+  children:
+  - name: "定海"
+    slug: dinghaiqu
+  - name: "普陀"
+    slug: putuoqu
+  - name: "岱山"
+    slug: daishanxian
+  - name: "嵊泗"
+    slug: shengsixian
+yueqingcity:
+  name: "乐清"
+  url: http://yueqingcity.58.com/
+  slug: yueqingcity
+  children:
+  - name: "乐成"
+    slug: yqlecheng
+  - name: "柳市"
+    slug: yqliushi
+  - name: "磐石"
+    slug: yqpanshi
+  - name: "黄华"
+    slug: yqhuanghua
+  - name: "白石"
+    slug: yqbaishi
+  - name: "象阳"
+    slug: yqxiangyang
+  - name: "翁垟"
+    slug: yqwengxiang
+  - name: "虹桥"
+    slug: yqhongqiao
+  - name: "蒲岐"
+    slug: yqpuqi
+  - name: "南岳"
+    slug: yqnanyue
+  - name: "清江"
+    slug: yqqingjiang
+  - name: "芙蓉"
+    slug: yqfurong
+  - name: "南塘"
+    slug: yqnantang
+  - name: "雁荡"
+    slug: yqyandang
+  - name: "大荆"
+    slug: yqdajing
+  - name: "仙溪"
+    slug: yqxianxi
+  - name: "湖雾"
+    slug: yqhuwu
+  - name: "石帆"
+    slug: yqshifan
+  - name: "淡溪"
+    slug: yqdanxi
+  - name: "七里港"
+    slug: yqqiligang
+  - name: "北白象"
+    slug: yqbeibaixiang
+  - name: "乐清周边"
+    slug: yqyueqingzhoubian
+ruiancity:
+  name: "瑞安"
+  url: http://ruiancity.58.com/
+  slug: ruiancity
+  children:
+  - name: "安阳"
+    slug: raanyang
+  - name: "锦湖"
+    slug: rajinhu
+  - name: "玉海"
+    slug: rayuhai
+  - name: "潘岱"
+    slug: rapandai
+  - name: "东山"
+    slug: radongshan
+  - name: "上望"
+    slug: rashangwang
+  - name: "塘下"
+    slug: ratangxia
+  - name: "汀田"
+    slug: ratingtian
+  - name: "莘塍"
+    slug: raxinsheng
+  - name: "飞云"
+    slug: rafeiyun
+  - name: "仙降"
+    slug: raxianjiang
+  - name: "马屿"
+    slug: ramayu
+  - name: "曹村"
+    slug: racaocun
+  - name: "龙湖"
+    slug: ralonghu
+  - name: "陶山"
+    slug: rataoshan
+  - name: "碧山"
+    slug: rabishan
+  - name: "湖岭"
+    slug: rahuling
+  - name: "平阳坑"
+    slug: rapingyangkeng
+  - name: "瑞安周边"
+    slug: raruianzhoubian
+yiwu:
+  name: "义乌"
+  url: http://yiwu.58.com/
+  slug: yiwu
+  children:
+  - name: "稠城"
+    slug: choucheng
+  - name: "北苑"
+    slug: ywbeiyuan
+  - name: "稠江"
+    slug: choujiang
+  - name: "江东"
+    slug: ywjiangdong
+  - name: "后宅"
+    slug: houzhai
+  - name: "城西"
+    slug: ywchengxi
+  - name: "廿三里"
+    slug: ersanli
+  - name: "义乌市区"
+    slug: yiwsq
+  - name: "义乌周边"
+    slug: yiwuzhoub
+yuyao:
+  name: "余姚"
+  url: http://yuyao.58.com/
+  slug: yuyao
+  children:
+  - name: "余姚市区"
+    slug: yuyaoshiqu
+  - name: "其它"
+    slug: yuyaoqita
+zhuji:
+  name: "诸暨"
+  url: http://zhuji.58.com/
+  slug: zhuji
+  children:
+  - name: "诸暨市区"
+    slug: shujishiqu
+  - name: "其它"
+    slug: zhujiqita
+xiangshanxian:
+  name: "象山"
+  url: http://xiangshanxian.58.com/
+  slug: xiangshanxian
+  children:
+  - name: "象山市区"
+    slug: xiangshanshiqu
+  - name: "其它"
+    slug: xiangshanqita
+wenling:
+  name: "温岭"
+  url: http://wenling.58.com/
+  slug: wenling
+  children:
+  - name: "温岭市区"
+    slug: wenlingshiqu
+  - name: "其它"
+    slug: wenlingqita
+tongxiang:
+  name: "桐乡"
+  url: http://tongxiang.58.com/
+  slug: tongxiang
+  children:
+  - name: "乌镇"
+    slug: wuzh
+  - name: "博物馆"
+    slug: bowwg
+  - name: "桐乡周边"
+    slug: tongxzb
+  - name: "东栅"
+    slug: dongsh
+  - name: "西栅"
+    slug: xish
+  - name: "桐乡市区"
+    slug: tongxsq
+  - name: "濮院"
+    slug: jxpy
+cixi:
+  name: "慈溪"
+  url: http://cixi.58.com/
+  slug: cixi
+  children:
+  - name: "慈溪市区"
+    slug: cixishiqu
+  - name: "其它"
+    slug: cixiqita
+changxing:
+  name: "长兴"
+  url: http://changxing.58.com/
+  slug: changxing
+  children:
+  - name: "长兴市区"
+    slug: changxingshiqu
+  - name: "其它"
+    slug: chongxingqita
+jiashanx:
+  name: "嘉善"
+  url: http://jiashanx.58.com/
+  slug: jiashanx
+  children:
+  - name: "西塘"
+    slug: xitangnew
+  - name: "梅花庵"
+    slug: meihuannew
+  - name: "大云温泉"
+    slug: dywqnew
+  - name: "丁栅湿地"
+    slug: dssd
+haining:
+  name: "海宁"
+  url: http://haining.58.com/
+  slug: haining
+  children:
+  - name: "海宁潮"
+    slug: hainc
+  - name: "盐官古城"
+    slug: yanggc
+  - name: "钱塘江北岸"
+    slug: qiantjba
+  - name: "西山公园"
+    slug: xsgy
+  - name: "海宁周边"
+    slug: hainzb
+deqing:
+  name: "德清"
+  url: http://deqing.58.com/
+  slug: deqing
+  children:
+  - name: "德清市区"
+    slug: deqingshiqu
+  - name: "其它"
+    slug: deqingqita
+hf:
+  name: "合肥"
+  url: http://hf.58.com/
+  slug: hf
+  children:
+  - name: "蜀山"
+    slug: shushanqu
+  - name: "庐阳"
+    slug: luyang
+  - name: "包河"
+    slug: baohe
+  - name: "瑶海"
+    slug: yaohai
+  - name: "经开"
+    slug: hfjingkai
+  - name: "高新"
+    slug: hfgaoxin
+  - name: "新站"
+    slug: hfxinzhan
+  - name: "滨湖新区"
+    slug: hfbinghu
+  - name: "北城新区"
+    slug: hfbcxq
+  - name: "政务"
+    slug: hfzhengwu
+  - name: "合肥周边"
+    slug: hefei
+wuhu:
+  name: "芜湖"
+  url: http://wuhu.58.com/
+  slug: wuhu
+  children:
+  - name: "镜湖"
+    slug: jinghu
+  - name: "鸠江"
+    slug: jiujiangqu
+  - name: "弋江"
+    slug: yijiang
+  - name: "无为"
+    slug: wuweixian
+  - name: "三山"
+    slug: sanshan
+  - name: "南陵"
+    slug: nanling
+  - name: "芜湖县"
+    slug: wuhuxian
+  - name: "繁昌"
+    slug: fanchang
+  - name: "其他"
+    slug: wuhuqita
+bengbu:
+  name: "蚌埠"
+  url: http://bengbu.58.com/
+  slug: bengbu
+  children:
+  - name: "蚌山"
+    slug: bangshan
+  - name: "龙子湖"
+    slug: longzihu
+  - name: "禹会"
+    slug: yuhui
+  - name: "淮上"
+    slug: huaishang
+  - name: "怀远"
+    slug: huaiyuan
+  - name: "固镇"
+    slug: guzhen
+  - name: "五河"
+    slug: wuhe
+  - name: "其他"
+    slug: bengbuqita
+fy:
+  name: "阜阳"
+  url: http://fy.58.com/
+  slug: fy
+  children:
+  - name: "颍州"
+    slug: yingzhouqu
+  - name: "颍泉"
+    slug: yingquanqu
+  - name: "颍东"
+    slug: yingdongqu
+  - name: "经济开发区"
+    slug: jingjiq
+  - name: "界首"
+    slug: jieshoushi
+  - name: "阜南"
+    slug: funanxian
+  - name: "太和"
+    slug: taihex
+  - name: "颍上"
+    slug: yingshangxian
+  - name: "临泉"
+    slug: linquanxian
+hn:
+  name: "淮南"
+  url: http://hn.58.com/
+  slug: hn
+  children:
+  - name: "田家庵"
+    slug: tianjiaan
+  - name: "大通"
+    slug: datongquq
+  - name: "谢家集"
+    slug: xiejiaji
+  - name: "八公山"
+    slug: bagongshan
+  - name: "潘集"
+    slug: panjiqu
+  - name: "凤台"
+    slug: fengtaixian
+  - name: "毛集实验区"
+    slug: maojiqu
+anqing:
+  name: "安庆"
+  url: http://anqing.58.com/
+  slug: anqing
+  children:
+  - name: "大观"
+    slug: daguanqu
+  - name: "迎江"
+    slug: yingjiang
+  - name: "宜秀"
+    slug: yixiu
+  - name: "桐城"
+    slug: tongchengshi
+  - name: "枞阳"
+    slug: zongyang
+  - name: "怀宁"
+    slug: huaining
+  - name: "潜山"
+    slug: qianshanxian
+  - name: "宿松"
+    slug: susong
+  - name: "岳西"
+    slug: yuexi
+  - name: "其他"
+    slug: anqingqita
+suzhou:
+  name: "宿州"
+  url: http://suzhou.58.com/
+  slug: suzhou
+  children:
+  - name: "墉桥"
+    slug: yongqiao
+  - name: "泗县"
+    slug: sixian
+  - name: "灵璧"
+    slug: lingbi
+  - name: "萧县"
+    slug: xiaoxian
+  - name: "砀山"
+    slug: dangshan
+  - name: "其他"
+    slug: suzhoushi
+la:
+  name: "六安"
+  url: http://la.58.com/
+  slug: la
+  children:
+  - name: "六安市区"
+    slug: liuanshiqu
+  - name: "金安"
+    slug: jinanquq
+  - name: "裕安"
+    slug: yuanquq
+  - name: "寿县"
+    slug: shouxian
+  - name: "舒城"
+    slug: shuchengxian
+  - name: "霍邱县"
+    slug: huoqiuxian
+  - name: "金寨"
+    slug: jinzhaixian
+  - name: "霍山"
+    slug: huoshanxian
+huaibei:
+  name: "淮北"
+  url: http://huaibei.58.com/
+  slug: huaibei
+  children:
+  - name: "相山"
+    slug: xiangshanqu
+  - name: "烈山"
+    slug: lieshanqu
+  - name: "杜集"
+    slug: dujiqu
+  - name: "濉溪"
+    slug: suixix
+  - name: "淮北周边"
+    slug: huaibeizb
+chuzhou:
+  name: "滁州"
+  url: http://chuzhou.58.com/
+  slug: chuzhou
+  children:
+  - name: "琅琊"
+    slug: langya
+  - name: "南谯"
+    slug: nanqiaoq
+  - name: "来安"
+    slug: laian
+  - name: "全椒"
+    slug: quanshu
+  - name: "定远"
+    slug: dingyuan
+  - name: "凤阳"
+    slug: fengyangx
+  - name: "明光"
+    slug: mingguan
+  - name: "天长"
+    slug: tianchangqu
+  - name: "滁州周边"
+    slug: chuzhouzhoubian
+mas:
+  name: "马鞍山"
+  url: http://mas.58.com/
+  slug: mas
+  children:
+  - name: "花山"
+    slug: huashanqu
+  - name: "雨山"
+    slug: yushan
+  - name: "金家庄"
+    slug: jinjiazhuang
+  - name: "当涂"
+    slug: dangtu
+  - name: "和县"
+    slug: hexians
+  - name: "博望区"
+    slug: masbwq
+  - name: "其它"
+    slug: maanshan
+tongling:
+  name: "铜陵"
+  url: http://tongling.58.com/
+  slug: tongling
+  children:
+  - name: "铜官山"
+    slug: tongguanshan
+  - name: "狮子山"
+    slug: shizishan
+  - name: "郊区"
+    slug: jiaoq
+  - name: "铜陵县"
+    slug: tonglingx
+  - name: "铜陵周边"
+    slug: tonglingzhoubian
+xuancheng:
+  name: "宣城"
+  url: http://xuancheng.58.com/
+  slug: xuancheng
+  children:
+  - name: "宣州"
+    slug: xuanzhou
+  - name: "郎溪"
+    slug: langxi
+  - name: "广德"
+    slug: guangde
+  - name: "泾县"
+    slug: hzjingxian
+  - name: "绩溪"
+    slug: jixixian
+  - name: "旌德"
+    slug: jingde
+  - name: "其它"
+    slug: xuanchengshi
+  - name: "宁国"
+    slug: ningguoqu
+bozhou:
+  name: "亳州"
+  url: http://bozhou.58.com/
+  slug: bozhou
+  children:
+  - name: "利辛"
+    slug: lixinxian
+  - name: "蒙城"
+    slug: mengchengxian
+  - name: "涡阳"
+    slug: woyangxian
+  - name: "谯城"
+    slug: qiaochengqu
+huangshan:
+  name: "黄山"
+  url: http://huangshan.58.com/
+  slug: huangshan
+  children:
+  - name: "黄山"
+    slug: huangshanq
+  - name: "徽州"
+    slug: huizhouq
+  - name: "屯溪"
+    slug: taipq
+  - name: "黄山风景区"
+    slug: huangshanfjq
+  - name: "祁门"
+    slug: qimen
+  - name: "休宁"
+    slug: xiuning
+  - name: "黟县"
+    slug: yix
+  - name: "歙县"
+    slug: shex
+  - name: "黄山周边"
+    slug: huangshanzhoubian
+chizhou:
+  name: "池州"
+  url: http://chizhou.58.com/
+  slug: chizhou
+  children:
+  - name: "贵池"
+    slug: guichi
+  - name: "东至"
+    slug: dongzhi
+  - name: "石台"
+    slug: shitai
+  - name: "青阳"
+    slug: qingyangx
+  - name: "池州周边"
+    slug: chizhouzhoubian
+ch:
+  name: "巢湖"
+  url: http://ch.58.com/
+  slug: ch
+  children:
+  - name: "居巢"
+    slug: juchao
+  - name: "庐江"
+    slug: lujiang
+  - name: "含山"
+    slug: hanshanx
+  - name: "巢湖周边"
+    slug: chaohuzhoubian
+hexian:
+  name: "和县"
+  url: http://hexian.58.com/
+  slug: hexian
+  children:
+  - name: "历阳镇"
+    slug: liyangzhen
+  - name: "沈巷镇"
+    slug: shengangzhen
+  - name: "白桥镇"
+    slug: baiqiaozhen
+  - name: "姥桥镇"
+    slug: laoqiaozhen
+  - name: "功桥镇"
+    slug: gongqiaozhen
+  - name: "西埠镇"
+    slug: xibuzhen
+  - name: "香泉镇"
+    slug: xiangquanzhen
+  - name: "乌江镇"
+    slug: wujiangzhen
+  - name: "善厚镇"
+    slug: shanhouzhen
+  - name: "石杨镇"
+    slug: shiyangzhens
+hq:
+  name: "霍邱"
+  url: http://hq.58.com/
+  slug: hq
+  children:
+  - name: "城关"
+    slug: chengguanz
+  - name: "河口"
+    slug: hekouz
+  - name: "周集"
+    slug: zhouji
+  - name: "姚李"
+    slug: yaoli
+  - name: "众兴"
+    slug: zongxing
+  - name: "新店"
+    slug: xindianz
+  - name: "长集"
+    slug: changjiz
+  - name: "马店"
+    slug: madianz
+  - name: "户胡"
+    slug: huhu
+  - name: "霍邱周边"
+    slug: huoqiuzb
+tongcheng:
+  name: "桐城"
+  url: http://tongcheng.58.com/
+  slug: tongcheng
+  children:
+  - name: "文昌"
+    slug: wenchangs
+  - name: "龙眠"
+    slug: longmian
+  - name: "开发区"
+    slug: kaifaqutc
+  - name: "兴尔旺"
+    slug: xingerwang
+  - name: "金神"
+    slug: jinshen
+  - name: "范岗"
+    slug: fangang
+  - name: "大关"
+    slug: daguantc
+  - name: "吕亭"
+    slug: lvting
+  - name: "孔城"
+    slug: kongcheng
+  - name: "青草"
+    slug: qingcao
+  - name: "新渡"
+    slug: xindutc
+  - name: "黄甲"
+    slug: huangjia
+  - name: "双港"
+    slug: shuanggangtc
+  - name: "唐湾"
+    slug: tangwan
+  - name: "嬉子湖"
+    slug: xizihu
+  - name: "桐城周边"
+    slug: tongchengzb
+ningguo:
+  name: "宁国"
+  url: http://ningguo.58.com/
+  slug: ningguo
+  children:
+  - name: "宁国市区"
+    slug: ningguoshiqu
+  - name: "其它"
+    slug: ningguoqita
+tianchang:
+  name: "天长"
+  url: http://tianchang.58.com/
+  slug: tianchang
+  children:
+  - name: "天长市区"
+    slug: tianchangshiqu
+  - name: "其它"
+    slug: tianchangqita
+dg:
+  name: "东莞"
+  url: http://dg.58.com/
+  slug: dg
+  children:
+  - name: "莞城"
+    slug: guanchengshi
+  - name: "长安"
+    slug: changanqv
+  - name: "南城"
+    slug: nancheng
+  - name: "东城"
+    slug: dongchengqv
+  - name: "虎门"
+    slug: humen
+  - name: "万江"
+    slug: wanjiang
+  - name: "寮步"
+    slug: liaobu
+  - name: "大朗"
+    slug: dalang
+  - name: "塘厦"
+    slug: tangsha
+  - name: "常平"
+    slug: changpingshi
+  - name: "大岭山"
+    slug: dalingshan
+  - name: "樟木头"
+    slug: zhangmutou
+  - name: "石龙"
+    slug: shilongs
+  - name: "松山湖"
+    slug: songsh
+  - name: "凤岗"
+    slug: fenggang
+  - name: "厚街"
+    slug: houjie
+  - name: "黄江"
+    slug: huangjiang
+  - name: "高埗"
+    slug: gaobus
+  - name: "石碣"
+    slug: shijie
+  - name: "横沥"
+    slug: hengl
+  - name: "石排"
+    slug: ship
+  - name: "茶山"
+    slug: chashans
+  - name: "东莞周边"
+    slug: dongguan
+fs:
+  name: "佛山"
+  url: http://fs.58.com/
+  slug: fs
+  children:
+  - name: "禅城"
+    slug: chancheng
+  - name: "南海"
+    slug: nanhai
+  - name: "顺德"
+    slug: shundeshiqu
+  - name: "三水"
+    slug: sanshui
+  - name: "高明"
+    slug: gaoming
+  - name: "佛山周边"
+    slug: foshan
+zs:
+  name: "中山"
+  url: http://zs.58.com/
+  slug: zs
+  children:
+  - name: "石岐"
+    slug: shiqi
+  - name: "东凤"
+    slug: zsdongfeng
+  - name: "东区"
+    slug: zsdongqu
+  - name: "西区"
+    slug: zsxiqu
+  - name: "南区"
+    slug: nanqu
+  - name: "五桂山"
+    slug: wuguishan
+  - name: "南朗"
+    slug: zsnanlang
+  - name: "小榄"
+    slug: zsxiaolan
+  - name: "东升"
+    slug: zsdongsheng
+  - name: "古镇"
+    slug: zsguzhen
+  - name: "三乡"
+    slug: zssanxiang
+  - name: "坦洲"
+    slug: zstanzhou
+  - name: "港口"
+    slug: zsgangkou
+  - name: "火炬开发区"
+    slug: huojukfq
+  - name: "大涌"
+    slug: zsdayong
+  - name: "黄圃"
+    slug: zshuangpu
+  - name: "横栏"
+    slug: zshenglan
+  - name: "南头"
+    slug: zsnantou
+  - name: "沙溪"
+    slug: zsshaxi
+  - name: "中山周边"
+    slug: zhongshan
+zh:
+  name: "珠海"
+  url: http://zh.58.com/
+  slug: zh
+  children:
+  - name: "香洲"
+    slug: xiangzhou
+  - name: "斗门"
+    slug: doumen
+  - name: "金湾"
+    slug: jinwan
+  - name: "坦洲"
+    slug: zhtanzhou
+  - name: "横琴"
+    slug: zhhq
+  - name: "高新区"
+    slug: zhgxq
+  - name: "珠海周边"
+    slug: zhuhai
+huizhou:
+  name: "惠州"
+  url: http://huizhou.58.com/
+  slug: huizhou
+  children:
+  - name: "惠城"
+    slug: huicheng
+  - name: "大亚湾"
+    slug: dayawan
+  - name: "仲恺"
+    slug: zkai
+  - name: "龙门"
+    slug: longmen
+  - name: "惠阳"
+    slug: huiyang
+  - name: "惠东"
+    slug: huidongqu
+  - name: "博罗"
+    slug: boluoqu
+  - name: "惠州周边"
+    slug: huizhoushi
+jm:
+  name: "江门"
+  url: http://jm.58.com/
+  slug: jm
+  children:
+  - name: "蓬江"
+    slug: pengjiang
+  - name: "新会"
+    slug: xinhui
+  - name: "江海"
+    slug: jianghai
+  - name: "台山"
+    slug: taishanshi
+  - name: "鹤山"
+    slug: heshan
+  - name: "开平"
+    slug: kaipingshi
+  - name: "恩平"
+    slug: enping
+  - name: "南新"
+    slug: nanxin
+  - name: "北新"
+    slug: beixin
+  - name: "江门周边"
+    slug: jiangmen
+st:
+  name: "汕头"
+  url: http://st.58.com/
+  slug: st
+  children:
+  - name: "金平"
+    slug: jinping
+  - name: "龙湖"
+    slug: longhu
+  - name: "澄海"
+    slug: chenghai
+  - name: "潮阳"
+    slug: stchaoyang
+  - name: "潮南"
+    slug: chaonan
+  - name: "濠江"
+    slug: haojiang
+  - name: "南澳"
+    slug: nanao
+  - name: "其他"
+    slug: shantou
+zhanjiang:
+  name: "湛江"
+  url: http://zhanjiang.58.com/
+  slug: zhanjiang
+  children:
+  - name: "霞山"
+    slug: xiashan
+  - name: "赤坎"
+    slug: chikan
+  - name: "坡头"
+    slug: potou
+  - name: "开发区"
+    slug: kaifaq
+  - name: "麻章"
+    slug: mazhang
+  - name: "廉江"
+    slug: lianjiang
+  - name: "雷州"
+    slug: leizhou
+  - name: "遂溪"
+    slug: suixixian
+  - name: "徐闻"
+    slug: xuwenxian
+  - name: "吴川"
+    slug: wuchuanshi
+  - name: "其他"
+    slug: zhanjiangshi
+zq:
+  name: "肇庆"
+  url: http://zq.58.com/
+  slug: zq
+  children:
+  - name: "端州"
+    slug: duanzhou
+  - name: "鼎湖"
+    slug: dinghu
+  - name: "四会"
+    slug: sihui
+  - name: "高要"
+    slug: gaoyao
+  - name: "德庆"
+    slug: deqingxian
+  - name: "广宁"
+    slug: guangning
+  - name: "封开"
+    slug: fengkai
+  - name: "怀集"
+    slug: huaiji
+  - name: "其他"
+    slug: zhaoqing
+mm:
+  name: "茂名"
+  url: http://mm.58.com/
+  slug: mm
+  children:
+  - name: "茂南"
+    slug: maonan
+  - name: "茂港"
+    slug: maogang
+  - name: "高州"
+    slug: gaozhou
+  - name: "化州"
+    slug: huazhou
+  - name: "信宜"
+    slug: xinyi
+  - name: "电白"
+    slug: dianbai
+  - name: "其他"
+    slug: maoming
+jy:
+  name: "揭阳"
+  url: http://jy.58.com/
+  slug: jy
+  children:
+  - name: "榕城"
+    slug: rongchengqu
+  - name: "普宁"
+    slug: puning
+  - name: "揭东"
+    slug: jiedong
+  - name: "惠来"
+    slug: huilai
+  - name: "揭西"
+    slug: jiexi
+  - name: "其他"
+    slug: jieyang
+mz:
+  name: "梅州"
+  url: http://mz.58.com/
+  slug: mz
+  children:
+  - name: "梅江"
+    slug: meijiangqu
+  - name: "兴宁"
+    slug: xingningshi
+  - name: "梅县"
+    slug: meixianm
+  - name: "大埔"
+    slug: dapuxian
+  - name: "丰顺"
+    slug: fengshunxian
+  - name: "五华"
+    slug: wuhuaxian
+  - name: "平远"
+    slug: pingyuanxian
+  - name: "蕉岭"
+    slug: jiaolingxian
+  - name: "梅州周边"
+    slug: meizhouzb
+qingyuan:
+  name: "清远"
+  url: http://qingyuan.58.com/
+  slug: qingyuan
+  children:
+  - name: "清城"
+    slug: qingchengqu
+  - name: "清新"
+    slug: qingxinxian
+  - name: "英德"
+    slug: yingdeshi
+  - name: "连州"
+    slug: lianzhoushi
+  - name: "佛冈"
+    slug: fogangxian
+  - name: "阳山"
+    slug: yangshanxian
+  - name: "连南"
+    slug: liannanxian
+  - name: "连山"
+    slug: lianshanxian
+yj:
+  name: "阳江"
+  url: http://yj.58.com/
+  slug: yj
+  children:
+  - name: "江城"
+    slug: jiangchengqu
+  - name: "阳春"
+    slug: yangchunshi
+  - name: "阳东"
+    slug: yangdongxian
+  - name: "阳西"
+    slug: yangxixian
+  - name: "海陵"
+    slug: hailingqu
+  - name: "岗侨"
+    slug: gangqiaoqu
+  - name: "高新区"
+    slug: gaoxinquw
+sg:
+  name: "韶关"
+  url: http://sg.58.com/
+  slug: sg
+  children:
+  - name: "武江"
+    slug: wujiangqu
+  - name: "浈江"
+    slug: zhenjiang
+  - name: "北江"
+    slug: beijiang
+  - name: "曲江"
+    slug: qujiang
+  - name: "乐昌"
+    slug: lechang
+  - name: "南雄"
+    slug: nanxiong
+  - name: "新丰"
+    slug: xinfeng
+  - name: "仁化"
+    slug: renhua
+  - name: "始兴"
+    slug: shixing
+  - name: "乳源"
+    slug: ruyuan
+  - name: "其它"
+    slug: shaoguan
+  - name: "翁源县"
+    slug: sgwyx
+heyuan:
+  name: "河源"
+  url: http://heyuan.58.com/
+  slug: heyuan
+  children:
+  - name: "源城"
+    slug: yuancheng
+  - name: "紫金"
+    slug: zijin
+  - name: "龙川"
+    slug: longchuan
+  - name: "连平"
+    slug: lianping
+  - name: "和平县"
+    slug: hepingx
+  - name: "东源"
+    slug: dongyuanx
+  - name: "河源周边"
+    slug: heyuanzhoubian
+yf:
+  name: "云浮"
+  url: http://yf.58.com/
+  slug: yf
+  children:
+  - name: "云城"
+    slug: yuanchengq
+  - name: "罗定"
+    slug: luoding
+  - name: "云安"
+    slug: yuanan
+  - name: "新兴"
+    slug: xinxingx
+  - name: "郁南"
+    slug: yunan
+  - name: "云浮周边"
+    slug: yuanfuzhoubian
+sw:
+  name: "汕尾"
+  url: http://sw.58.com/
+  slug: sw
+  children:
+  - name: "汕尾城区"
+    slug: shanweicq
+  - name: "海丰"
+    slug: haifengxian
+  - name: "陆丰"
+    slug: lufengshi
+  - name: "陆河"
+    slug: luhexian
+  - name: "汕尾周边"
+    slug: shanweizb
+chaozhou:
+  name: "潮州"
+  url: http://chaozhou.58.com/
+  slug: chaozhou
+  children:
+  - name: "湘桥"
+    slug: xiangqiao
+  - name: "枫溪"
+    slug: fengxi
+  - name: "潮安"
+    slug: chaoan
+  - name: "饶平"
+    slug: raoping
+  - name: "潮州周边"
+    slug: chaozhouzhoubian
+taishan:
+  name: "台山"
+  url: http://taishan.58.com/
+  slug: taishan
+  children:
+  - name: "大江"
+    slug: dajiang
+  - name: "四九"
+    slug: sijiu
+  - name: "都斛"
+    slug: duhu
+  - name: "赤溪"
+    slug: chixi
+  - name: "冲蒌"
+    slug: chongwei
+  - name: "斗山"
+    slug: doushan
+  - name: "广海"
+    slug: guanghai
+  - name: "川岛"
+    slug: chuandao
+  - name: "端芬"
+    slug: duanfen
+  - name: "海宴"
+    slug: haiyanz
+  - name: "三合"
+    slug: sanhez
+  - name: "北陡"
+    slug: beidou
+  - name: "深井"
+    slug: shenjing
+  - name: "白沙"
+    slug: baishaz
+  - name: "台山周边"
+    slug: taishanzb
+yangchun:
+  name: "阳春"
+  url: http://yangchun.58.com/
+  slug: yangchun
+  children:
+  - name: "春城镇"
+    slug: chuncheng
+  - name: "河塱镇"
+    slug: helangzhen
+  - name: "松柏镇"
+    slug: songbaizhen
+  - name: "陂面镇"
+    slug: pomianzhen
+  - name: "合水镇"
+    slug: heshuizhen
+  - name: "春湾镇"
+    slug: chunwanzhen
+  - name: "岗美镇"
+    slug: gangmeizhen
+  - name: "河口镇"
+    slug: hekouzhen
+  - name: "潭水镇"
+    slug: tanshuizhen
+  - name: "八甲镇"
+    slug: bajiazhen
+  - name: "双窖镇"
+    slug: shuangjiaozhen
+  - name: "永宁镇"
+    slug: yongningzhen
+  - name: "圭岗镇"
+    slug: guigangzhen
+  - name: "石望镇"
+    slug: shiwangzhen
+  - name: "马水镇"
+    slug: mashuizhen
+  - name: "三甲镇"
+    slug: sanjiazhen
+sd:
+  name: "顺德"
+  url: http://sd.58.com/
+  slug: sd
+  children:
+  - name: "顺德"
+    slug: shunde
+  - name: "大良"
+    slug: daliang
+  - name: "均安"
+    slug: junyan
+  - name: "乐从"
+    slug: luochong
+  - name: "北滘"
+    slug: beijiao
+  - name: "陈村"
+    slug: chencun
+  - name: "勒流"
+    slug: leliu
+  - name: "伦教"
+    slug: lunjiao
+  - name: "杏坛"
+    slug: xintan
+  - name: "龙江"
+    slug: longjiangz
+  - name: "容桂"
+    slug: yonggui
+huidong:
+  name: "惠东"
+  url: http://huidong.58.com/
+  slug: huidong
+  children:
+  - name: "大岭"
+    slug: daling
+  - name: "黄埠"
+    slug: huangbu
+  - name: "平山"
+    slug: hzpingshan
+  - name: "巽寮"
+    slug: xunliao
+  - name: "惠东周边"
+    slug: huidongzb
+boluo:
+  name: "博罗"
+  url: http://boluo.58.com/
+  slug: boluo
+  children:
+  - name: "龙溪"
+    slug: hzlongxi
+  - name: "罗阳"
+    slug: hzluoyang
+  - name: "石湾"
+    slug: hzshiwan
+  - name: "园洲"
+    slug: hzyuanzhou
+  - name: "博罗周边"
+    slug: boluozb
+fz:
+  name: "福州"
+  url: http://fz.58.com/
+  slug: fz
+  children:
+  - name: "台江"
+    slug: taijiang
+  - name: "鼓楼"
+    slug: fzgulou
+  - name: "仓山"
+    slug: cangshan
+  - name: "晋安"
+    slug: jinanqu
+  - name: "马尾"
+    slug: mayi
+  - name: "闽侯"
+    slug: minhouxian
+  - name: "长乐"
+    slug: changleshi
+  - name: "福清"
+    slug: fuqingshi
+  - name: "平潭"
+    slug: pingtanxian
+  - name: "连江"
+    slug: lianjiangxian
+  - name: "永泰"
+    slug: yongtaixian
+  - name: "闽清"
+    slug: minqingxian
+  - name: "罗源"
+    slug: luoyuanxian
+  - name: "福州周边"
+    slug: fuzhouzb
+xm:
+  name: "厦门"
+  url: http://xm.58.com/
+  slug: xm
+  children:
+  - name: "思明"
+    slug: siming
+  - name: "湖里"
+    slug: huli
+  - name: "集美"
+    slug: jimei
+  - name: "杏林"
+    slug: xmxl
+  - name: "海沧"
+    slug: haicang
+  - name: "同安"
+    slug: tongan
+  - name: "翔安"
+    slug: xiangan
+  - name: "厦门周边"
+    slug: xiamenzhoubian
+qz:
+  name: "泉州"
+  url: http://qz.58.com/
+  slug: qz
+  children:
+  - name: "台商投资区"
+    slug: qztstzq
+  - name: "洛江"
+    slug: luojiang
+  - name: "泉港"
+    slug: quangang
+  - name: "惠安"
+    slug: huianxian
+  - name: "安溪"
+    slug: anxixian
+  - name: "永春"
+    slug: yongchunxian
+  - name: "德化"
+    slug: dehuaxian
+  - name: "南安"
+    slug: nananqunew
+  - name: "石狮"
+    slug: shishiqu
+  - name: "晋江"
+    slug: jinjiangqunew
+  - name: "鲤城"
+    slug: qzlicheng
+  - name: "丰泽"
+    slug: fengze
+  - name: "金门县"
+    slug: qzjmx
+  - name: "泉州周边"
+    slug: quanzhouzb
+pt:
+  name: "莆田"
+  url: http://pt.58.com/
+  slug: pt
+  children:
+  - name: "城厢"
+    slug: chengxiangqu
+  - name: "荔城"
+    slug: lichengqu
+  - name: "秀屿"
+    slug: xiuyuqu
+  - name: "涵江"
+    slug: hanjiangqu
+  - name: "仙游"
+    slug: xianyouxian
+  - name: "湄洲岛"
+    slug: meizhoudao
+  - name: "南日岛"
+    slug: nanridao
+  - name: "黄瓜岛"
+    slug: huangguadao
+zhangzhou:
+  name: "漳州"
+  url: http://zhangzhou.58.com/
+  slug: zhangzhou
+  children:
+  - name: "芗城"
+    slug: xiangchengqu
+  - name: "龙文"
+    slug: longwen
+  - name: "龙海"
+    slug: longhai
+  - name: "漳浦"
+    slug: zhangpu
+  - name: "平和"
+    slug: pinghe
+  - name: "东山"
+    slug: dongshanxian
+  - name: "诏安"
+    slug: zhaoan
+  - name: "其他"
+    slug: zhangzhoushi
+  - name: "角美"
+    slug: zzlckfq
+  - name: "长泰县"
+    slug: zzctx
+  - name: "云霄县"
+    slug: zzyxx
+  - name: "南靖县"
+    slug: zznjx
+  - name: "华安县"
+    slug: zzhax
+nd:
+  name: "宁德"
+  url: http://nd.58.com/
+  slug: nd
+  children:
+  - name: "蕉城"
+    slug: jiaochengqu
+  - name: "福安"
+    slug: fuanshi
+  - name: "福鼎"
+    slug: fudingshi
+  - name: "霞浦"
+    slug: xiapuxian
+  - name: "柘荣"
+    slug: zhenrongxian
+  - name: "寿宁"
+    slug: shouningxian
+  - name: "古田"
+    slug: gutianxian
+  - name: "屏南"
+    slug: pingnanxianq
+  - name: "周宁"
+    slug: zhouningxian
+sm:
+  name: "三明"
+  url: http://sm.58.com/
+  slug: sm
+  children:
+  - name: "梅列"
+    slug: meilie
+  - name: "三元"
+    slug: sanyuan
+  - name: "永安"
+    slug: yongan
+  - name: "沙县"
+    slug: shaxian
+  - name: "尤溪"
+    slug: youxi
+  - name: "大田"
+    slug: datianxian
+  - name: "明溪"
+    slug: mingxi
+  - name: "清流"
+    slug: qingliuxian
+  - name: "宁化"
+    slug: ninghua
+  - name: "泰宁"
+    slug: tainingxian
+  - name: "建宁"
+    slug: jianningxian
+  - name: "将乐"
+    slug: jianglexian
+  - name: "三明周边"
+    slug: sanming
+np:
+  name: "南平"
+  url: http://np.58.com/
+  slug: np
+  children:
+  - name: "延平"
+    slug: yanping
+  - name: "邵武"
+    slug: shaowu
+  - name: "武夷山"
+    slug: wuyishanshi
+  - name: "建瓯"
+    slug: jianou
+  - name: "建阳"
+    slug: jianyangs
+  - name: "顺昌"
+    slug: shunchang
+  - name: "南平周边"
+    slug: nanpingzhoubian
+ly:
+  name: "龙岩"
+  url: http://ly.58.com/
+  slug: ly
+  children:
+  - name: "新罗"
+    slug: xinluoqu
+  - name: "漳平"
+    slug: zhangpingshi
+  - name: "长汀"
+    slug: changtingxian
+  - name: "永定"
+    slug: yongdingxian
+  - name: "上杭"
+    slug: shanghangxian
+  - name: "武平"
+    slug: wupingxian
+  - name: "连城"
+    slug: lianchengxian
+wuyishan:
+  name: "武夷山"
+  url: http://wuyishan.58.com/
+  slug: wuyishan
+  children:
+  - name: "崇安"
+    slug: chonganjie
+  - name: "武夷"
+    slug: wuyijie
+  - name: "新丰"
+    slug: xinfengjie
+  - name: "星村镇"
+    slug: xingcunzhen
+  - name: "兴田镇"
+    slug: xingtianzhen
+  - name: "五夫镇"
+    slug: wufuzhen
+  - name: "武夷山周边"
+    slug: wuyishanzhoubian
+shishi:
+  name: "石狮"
+  url: http://shishi.58.com/
+  slug: shishi
+  children:
+  - name: "石狮服装城"
+    slug: shishifzc
+  - name: "石狮周边"
+    slug: shishizb
+jinjiangshi:
+  name: "晋江"
+  url: http://jinjiangshi.58.com/
+  slug: jinjiangshi
+  children:
+  - name: "阳光广场"
+    slug: yangguanggc
+  - name: SM广场
+    slug: smguangchang
+  - name: "晋江周边"
+    slug: jinjiangzb
+  - name: "体育中心"
+    slug: qztyzx
+nananshi:
+  name: "南安"
+  url: http://nananshi.58.com/
+  slug: nananshi
+  children:
+  - name: "南安市区"
+    slug: nananshiqu
+  - name: "其它"
+    slug: nananqita
+nn:
+  name: "南宁"
+  url: http://nn.58.com/
+  slug: nn
+  children:
+  - name: "青秀"
+    slug: qingxiu
+  - name: "兴宁"
+    slug: xingning
+  - name: "江南"
+    slug: jiangnan
+  - name: "西乡塘"
+    slug: xixiangtang
+  - name: "邕宁"
+    slug: yongning
+  - name: "良庆"
+    slug: liangqing
+  - name: "南宁周边"
+    slug: nanning
+liuzhou:
+  name: "柳州"
+  url: http://liuzhou.58.com/
+  slug: liuzhou
+  children:
+  - name: "城中"
+    slug: chengzhongqu
+  - name: "鱼峰"
+    slug: yufengqu
+  - name: "柳北"
+    slug: liubeiqu
+  - name: "柳南"
+    slug: liunanqu
+  - name: "柳城"
+    slug: liuchengxian
+  - name: "柳江"
+    slug: liujiangxian
+  - name: "鹿寨"
+    slug: luzhaixian
+  - name: "融安"
+    slug: ronganxian
+  - name: "融水"
+    slug: rongshuixian
+  - name: "三江"
+    slug: sanjiangxian
+gl:
+  name: "桂林"
+  url: http://gl.58.com/
+  slug: gl
+  children:
+  - name: "七星"
+    slug: qixing
+  - name: "象山"
+    slug: xiangshan
+  - name: "秀峰"
+    slug: xiufeng
+  - name: "叠彩"
+    slug: diecai
+  - name: "雁山"
+    slug: yanshan
+  - name: "临桂"
+    slug: linguic
+  - name: "灵川"
+    slug: lingchuanc
+  - name: "阳朔县"
+    slug: yangsx
+  - name: "兴安县"
+    slug: xanxian
+  - name: "八里街"
+    slug: balijie
+  - name: "桂林周边"
+    slug: guilin
+yulin:
+  name: "玉林"
+  url: http://yulin.58.com/
+  slug: yulin
+  children:
+  - name: "玉州"
+    slug: yuzhouqu
+  - name: "福绵"
+    slug: fumianqu
+  - name: "北流"
+    slug: beiliushi
+  - name: "容县"
+    slug: rongxianq
+  - name: "兴业"
+    slug: xingyexian
+  - name: "博白"
+    slug: bobaixian
+  - name: "陆川"
+    slug: luchuanxian
+  - name: "玉林周边"
+    slug: yulinzhoubian
+wuzhou:
+  name: "梧州"
+  url: http://wuzhou.58.com/
+  slug: wuzhou
+  children:
+  - name: "蝶山"
+    slug: dieshan
+  - name: "万秀"
+    slug: wanxiu
+  - name: "长洲"
+    slug: changzhouqv
+  - name: "岑溪"
+    slug: cenxi
+  - name: "苍梧"
+    slug: cangwu
+  - name: "藤县"
+    slug: tengxian
+  - name: "蒙山"
+    slug: mengshan
+  - name: "其它"
+    slug: wuzhoushi
+bh:
+  name: "北海"
+  url: http://bh.58.com/
+  slug: bh
+  children:
+  - name: "海城"
+    slug: haichengqu
+  - name: "银海"
+    slug: yinhaiqu
+  - name: "铁山港区"
+    slug: tieshangangqu
+  - name: "合浦"
+    slug: hepuxian
+  - name: "北海周边"
+    slug: beihaizhoubian
+gg:
+  name: "贵港"
+  url: http://gg.58.com/
+  slug: gg
+  children:
+  - name: "港北"
+    slug: gangbeiqu
+  - name: "港南"
+    slug: gangnanqu
+  - name: "覃塘"
+    slug: qintangqu
+  - name: "桂平"
+    slug: guipingqu
+  - name: "平南"
+    slug: pingnanxian
+qinzhou:
+  name: "钦州"
+  url: http://qinzhou.58.com/
+  slug: qinzhou
+  children:
+  - name: "市区"
+    slug: qzshiqu
+  - name: "钦南"
+    slug: qinnanqu
+  - name: "钦北"
+    slug: qinbeiqu
+  - name: "灵山"
+    slug: lingshanxian
+  - name: "浦北"
+    slug: pubeixian
+baise:
+  name: "百色"
+  url: http://baise.58.com/
+  slug: baise
+  children:
+  - name: "右江"
+    slug: youjiangqu
+  - name: "隆林"
+    slug: longlinxian
+  - name: "田阳"
+    slug: tianyangxian
+  - name: "田东"
+    slug: tiandongxian
+  - name: "平果"
+    slug: pingguoxian
+  - name: "德保"
+    slug: debaoxian
+  - name: "百色周边"
+    slug: baisezhoubian
+hc:
+  name: "河池"
+  url: http://hc.58.com/
+  slug: hc
+  children:
+  - name: "金城江"
+    slug: jinchengjianqu
+  - name: "宜州"
+    slug: yizhoushi
+  - name: "南丹"
+    slug: nandanxian
+  - name: "天峨"
+    slug: tianexian
+  - name: "凤山"
+    slug: fengshanxian
+  - name: "东兰"
+    slug: donglanxian
+  - name: "罗城"
+    slug: luochengxian
+  - name: "环江"
+    slug: huanjiangxian
+  - name: "巴马"
+    slug: bamaxian
+  - name: "都安"
+    slug: duanxian
+  - name: "大化"
+    slug: dahuaxian
+  - name: "河池学院"
+    slug: hechixueyuan
+lb:
+  name: "来宾"
+  url: http://lb.58.com/
+  slug: lb
+  children:
+  - name: "兴宾"
+    slug: xingbingqu
+  - name: "合山"
+    slug: heshanshi
+  - name: "象州"
+    slug: xiangzhouxian
+  - name: "武宣"
+    slug: wuxuanxian
+  - name: "忻城"
+    slug: qichengxian
+  - name: "金秀"
+    slug: jinxiuxian
+  - name: "来宾周边"
+    slug: laibinzhoubian
+hezhou:
+  name: "贺州"
+  url: http://hezhou.58.com/
+  slug: hezhou
+  children:
+  - name: "八步"
+    slug: babu
+  - name: "平桂"
+    slug: pinggui
+  - name: "昭平"
+    slug: zhaoping
+  - name: "钟山"
+    slug: zhongshanx
+  - name: "富川"
+    slug: fuchuan
+  - name: "贺州周边"
+    slug: hezhouzhoubian
+fcg:
+  name: "防城港"
+  url: http://fcg.58.com/
+  slug: fcg
+  children:
+  - name: "港口"
+    slug: gangkou
+  - name: "防城"
+    slug: fangcheng
+  - name: "上思"
+    slug: shangshi
+  - name: "东兴"
+    slug: dongxings
+  - name: "防城港周边"
+    slug: fangchenggangzhoubian
+chongzuo:
+  name: "崇左"
+  url: http://chongzuo.58.com/
+  slug: chongzuo
+  children:
+  - name: "江州"
+    slug: jiangzhou
+  - name: "凭祥"
+    slug: pingxiangs
+  - name: "扶绥"
+    slug: fusui
+  - name: "大新"
+    slug: daxinx
+  - name: "天等"
+    slug: tiandeng
+  - name: "宁明"
+    slug: ningming
+  - name: "龙州"
+    slug: longzhou
+  - name: "崇左周边"
+    slug: chongzuozhoubian
+haikou:
+  name: "海口"
+  url: http://haikou.58.com/
+  slug: haikou
+  children:
+  - name: "龙华"
+    slug: longhuaqu
+  - name: "秀英"
+    slug: xiuying
+  - name: "琼山"
+    slug: qiongshan
+  - name: "美兰"
+    slug: meilan
+  - name: "海口周边"
+    slug: haikouqita
+sanya:
+  name: "三亚"
+  url: http://sanya.58.com/
+  slug: sanya
+  children:
+  - name: "河西"
+    slug: hexiquyu
+  - name: "凤凰镇"
+    slug: fenghuangzhen
+  - name: "吉阳区"
+    slug: syjyq
+  - name: "天涯区"
+    slug: sytyq
+  - name: "海棠区"
+    slug: syhtq
+  - name: "崖州区"
+    slug: syyzq
+  - name: "三亚周边"
+    slug: syzb
+wzs:
+  name: "五指山"
+  url: http://wzs.58.com/
+  slug: wzs
+  children:
+  - name: "冲山镇"
+    slug: chongshan
+  - name: "南圣镇"
+    slug: nansheng
+  - name: "毛阳镇"
+    slug: maoyang
+  - name: "番阳镇"
+    slug: fanyang
+  - name: "五指山周边"
+    slug: wuzhishanzb
+sansha:
+  name: "三沙"
+  url: http://sansha.58.com/
+  slug: sansha
+  children:
+  - name: "南沙群岛"
+    slug: nsqd
+  - name: "西沙群岛"
+    slug: xsqd
+  - name: "中沙群岛"
+    slug: zsqd
+qh:
+  name: "琼海"
+  url: http://qh.58.com/
+  slug: qh
+  children:
+  - name: "嘉积镇"
+    slug: jiaji
+  - name: "万泉镇"
+    slug: wangquan
+  - name: "石壁镇"
+    slug: shibi
+  - name: "中原镇"
+    slug: zhongyuanz
+  - name: "博鳌镇"
+    slug: boao
+  - name: "阳江镇"
+    slug: yangjiang
+  - name: "琼海周边"
+    slug: qionghaizb
+zz:
+  name: "郑州"
+  url: http://zz.58.com/
+  slug: zz
+  children:
+  - name: "中原"
+    slug: zhongyuan
+  - name: "二七"
+    slug: eqi
+  - name: "管城区"
+    slug: guancheng
+  - name: "金水"
+    slug: jinshui
+  - name: "上街"
+    slug: shangjiequzz
+  - name: "惠济"
+    slug: huiji
+  - name: "郑东新区"
+    slug: zhengdongxinqu
+  - name: "高新区"
+    slug: zzgaoxin
+  - name: "经开区"
+    slug: zzjingkaiq
+  - name: "航空港"
+    slug: zzhkg
+  - name: "郑州周边"
+    slug: zhengzhou
+luoyang:
+  name: "洛阳"
+  url: http://luoyang.58.com/
+  slug: luoyang
+  children:
+  - name: "偃师"
+    slug: yanshiqu
+  - name: "涧西"
+    slug: jianxi
+  - name: "西工"
+    slug: xigongqu
+  - name: "老城"
+    slug: laocheng
+  - name: "瀍河"
+    slug: chanhehuizu
+  - name: "洛龙"
+    slug: luolong
+  - name: "宜阳"
+    slug: lyyiyang
+  - name: "吉利"
+    slug: jiliqu
+  - name: "伊川"
+    slug: yichuan
+  - name: "伊滨"
+    slug: yibin
+  - name: "汝阳"
+    slug: ruyang
+  - name: "洛阳周边"
+    slug: luoyangshi
+xx:
+  name: "新乡"
+  url: http://xx.58.com/
+  slug: xx
+  children:
+  - name: "红旗"
+    slug: hongqi
+  - name: "卫滨"
+    slug: weibinqu
+  - name: "凤泉"
+    slug: fengquan
+  - name: "牧野"
+    slug: muye
+  - name: "卫辉"
+    slug: weihui
+  - name: "辉县"
+    slug: huixian
+  - name: "新乡县"
+    slug: xinxiangxian
+  - name: "长垣"
+    slug: changyuan
+  - name: "其他"
+    slug: xinxiang
+ny:
+  name: "南阳"
+  url: http://ny.58.com/
+  slug: ny
+  children:
+  - name: "卧龙"
+    slug: wolong
+  - name: "宛城"
+    slug: wancheng
+  - name: "油田"
+    slug: youtianqu
+  - name: "镇平"
+    slug: zhenpingxian
+  - name: "内乡"
+    slug: neixiangxian
+  - name: "西峡"
+    slug: xixiax
+  - name: "淅川"
+    slug: xichuanxian
+  - name: "邓州"
+    slug: dengzhou
+  - name: "新野"
+    slug: xinye
+  - name: "唐河"
+    slug: tanghe
+  - name: "桐柏"
+    slug: tongbaixian
+  - name: "社旗"
+    slug: sheqixian
+  - name: "方城"
+    slug: fangchengxian
+  - name: "南召"
+    slug: nanzhaoxian
+  - name: "其他"
+    slug: nanyang
+xc:
+  name: "许昌"
+  url: http://xc.58.com/
+  slug: xc
+  children:
+  - name: "长葛"
+    slug: changgeshi
+  - name: "魏都"
+    slug: weidou
+  - name: "禹州"
+    slug: yuzhoushi
+  - name: "许昌县"
+    slug: xuchang
+  - name: "鄢陵"
+    slug: yanlingxian
+  - name: "襄城"
+    slug: xiangchengxian
+  - name: "其他"
+    slug: xuchangshi
+pds:
+  name: "平顶山"
+  url: http://pds.58.com/
+  slug: pds
+  children:
+  - name: "新华"
+    slug: xinhuaqu
+  - name: "卫东"
+    slug: weidong
+  - name: "湛河"
+    slug: zhanhe
+  - name: "石龙"
+    slug: shilong
+  - name: "汝州"
+    slug: ruzhou
+  - name: "舞钢"
+    slug: wugang
+  - name: "平顶山周边"
+    slug: pingdingshan
+ay:
+  name: "安阳"
+  url: http://ay.58.com/
+  slug: ay
+  children:
+  - name: "文峰"
+    slug: wenfeng
+  - name: "北关"
+    slug: beiguan
+  - name: "殷都"
+    slug: yindou
+  - name: "龙安"
+    slug: longan
+  - name: "安阳"
+    slug: anyangxian
+  - name: "林州"
+    slug: linzhou
+  - name: "其他"
+    slug: anyangqita
+jiaozuo:
+  name: "焦作"
+  url: http://jiaozuo.58.com/
+  slug: jiaozuo
+  children:
+  - name: "解放"
+    slug: jiefangqu
+  - name: "山阳"
+    slug: shanyang
+  - name: "中站"
+    slug: zhongzhan
+  - name: "马村"
+    slug: macun
+  - name: "高新"
+    slug: gaoxin
+  - name: "孟州"
+    slug: mengzhou
+  - name: "沁阳"
+    slug: qinyang
+  - name: "温县"
+    slug: wenxian
+  - name: "武陟"
+    slug: wuzhixian
+  - name: "博爱"
+    slug: boaixian
+  - name: "修武"
+    slug: xiuwuxian
+  - name: "其他"
+    slug: jiaozuoqita
+sq:
+  name: "商丘"
+  url: http://sq.58.com/
+  slug: sq
+  children:
+  - name: "梁园"
+    slug: liangyuan
+  - name: "睢阳"
+    slug: suiyang
+  - name: "永城"
+    slug: yongcheng
+  - name: "宁陵"
+    slug: ningling
+  - name: "虞城"
+    slug: yucheng
+  - name: "民权"
+    slug: minquan
+  - name: "夏邑"
+    slug: xiayi
+  - name: "柘城"
+    slug: zhecheng
+  - name: "睢县"
+    slug: suixian
+  - name: "其他"
+    slug: shangqiu
+kaifeng:
+  name: "开封"
+  url: http://kaifeng.58.com/
+  slug: kaifeng
+  children:
+  - name: "鼓楼"
+    slug: gulouquyu
+  - name: "龙亭"
+    slug: longtingqu
+  - name: "顺河"
+    slug: shunhequ
+  - name: "禹王台"
+    slug: yuwangtai
+  - name: "金明"
+    slug: jinmingqu
+  - name: "杞县"
+    slug: qixianqu
+  - name: "通许"
+    slug: tongxuxian
+  - name: "尉氏"
+    slug: weishixian
+  - name: "开封县"
+    slug: kaifengxian
+  - name: "兰考"
+    slug: lankaoxian
+puyang:
+  name: "濮阳"
+  url: http://puyang.58.com/
+  slug: puyang
+  children:
+  - name: "华龙"
+    slug: hualongqu
+  - name: "高新区"
+    slug: gaoxinquyu
+  - name: "濮阳县"
+    slug: puyangxian
+  - name: "清丰"
+    slug: qingfengxian
+  - name: "南乐"
+    slug: nanlexian
+  - name: "范县"
+    slug: fanxian
+  - name: "台前"
+    slug: taiqianxian
+  - name: "其他"
+    slug: puyangqita
+zk:
+  name: "周口"
+  url: http://zk.58.com/
+  slug: zk
+  children:
+  - name: "川汇"
+    slug: chuanhui
+  - name: "项城"
+    slug: xiangchengshi
+  - name: "商水"
+    slug: shangshui
+  - name: "淮阳"
+    slug: huaiyang
+  - name: "太康"
+    slug: taikang
+  - name: "鹿邑"
+    slug: luyi
+  - name: "西华"
+    slug: xihua
+  - name: "扶沟"
+    slug: fugou
+  - name: "沈丘"
+    slug: shenqiu
+  - name: "郸城"
+    slug: dancheng
+  - name: "其他"
+    slug: zhoukou
+xy:
+  name: "信阳"
+  url: http://xy.58.com/
+  slug: xy
+  children:
+  - name: "信阳市区"
+    slug: xinyangshi
+  - name: "浉河"
+    slug: shihequ
+  - name: "平桥"
+    slug: pingqiaoqu
+  - name: "固始"
+    slug: gushixian
+  - name: "潢川"
+    slug: huangchuanxian
+  - name: "光山"
+    slug: guangshanxian
+  - name: "罗山"
+    slug: luoshanxian
+  - name: "淮滨"
+    slug: huaibinxian
+  - name: "新县"
+    slug: xinxian
+  - name: "息县"
+    slug: xixianqu
+  - name: "商城"
+    slug: shangchengquq
+zmd:
+  name: "驻马店"
+  url: http://zmd.58.com/
+  slug: zmd
+  children:
+  - name: "驿城"
+    slug: yichengqu
+  - name: "确山"
+    slug: queshan
+  - name: "新蔡"
+    slug: xincai
+  - name: "上蔡"
+    slug: shangcai
+  - name: "西平"
+    slug: xiping
+  - name: "泌阳"
+    slug: biyang
+  - name: "平舆"
+    slug: pingyu
+  - name: "汝南"
+    slug: runan
+  - name: "遂平"
+    slug: suiping
+  - name: "正阳"
+    slug: zhengyangxian
+  - name: "其他"
+    slug: zhumadian
+luohe:
+  name: "漯河"
+  url: http://luohe.58.com/
+  slug: luohe
+  children:
+  - name: "源汇"
+    slug: yuanhuiqu
+  - name: "郾城"
+    slug: yanchengqu
+  - name: "召陵"
+    slug: zhaolingqu
+  - name: "高新区"
+    slug: gaoxinqu
+  - name: "舞阳"
+    slug: wuyangxian
+  - name: "临颍"
+    slug: linyingxian
+smx:
+  name: "三门峡"
+  url: http://smx.58.com/
+  slug: smx
+  children:
+  - name: "湖滨"
+    slug: hubinqu
+  - name: "开发区"
+    slug: kaifaqu
+  - name: "陕县"
+    slug: shanxiansmx
+  - name: "灵宝"
+    slug: lingbaoshi
+  - name: "义马"
+    slug: yimashi
+  - name: "渑池"
+    slug: yingchixian
+  - name: "卢氏"
+    slug: lushixian
+hb:
+  name: "鹤壁"
+  url: http://hb.58.com/
+  slug: hb
+  children:
+  - name: "淇滨"
+    slug: qibinqu
+  - name: "山城"
+    slug: shanchengqu
+  - name: "鹤山"
+    slug: heshanqu
+  - name: "浚县"
+    slug: junxian
+  - name: "淇县"
+    slug: qixianq
+jiyuan:
+  name: "济源"
+  url: http://jiyuan.58.com/
+  slug: jiyuan
+  children:
+  - name: "双桥街道"
+    slug: shuangqiaojd
+  - name: "济水街道"
+    slug: jishuijd
+  - name: "北海街道"
+    slug: beihaijd
+  - name: "天坛街道"
+    slug: tiantanjd
+  - name: "龙泉街道"
+    slug: longquanjd
+  - name: "济源周边"
+    slug: jiyuanzb
+mg:
+  name: "明港"
+  url: http://mg.58.com/
+  slug: mg
+  children:
+  - name: "明港"
+    slug: minggangqu
+  - name: "甘岸"
+    slug: ganan
+  - name: "长台"
+    slug: changtaiqu
+  - name: "查山"
+    slug: chashan
+  - name: "刑集"
+    slug: xingji
+  - name: "兰店"
+    slug: landian
+  - name: "王岗"
+    slug: wanggang
+  - name: "肖店"
+    slug: xiaodianqu
+  - name: "平昌"
+    slug: pingchang
+yanling:
+  name: "鄢陵"
+  url: http://yanling.58.com/
+  slug: yanling
+  children:
+  - name: "安陵镇"
+    slug: anlingzhen
+  - name: "望田镇"
+    slug: wangtianzhen
+  - name: "张桥乡"
+    slug: zhangqiaoxiang
+  - name: "只乐乡"
+    slug: zhilexiang
+  - name: "陶城乡"
+    slug: taochengxiang
+  - name: "陈店乡"
+    slug: chendianxiang
+  - name: "彭店乡"
+    slug: pengdianxiang
+  - name: "大马乡"
+    slug: damaxiang
+  - name: "马坊乡"
+    slug: mafangxiang
+  - name: "南坞乡"
+    slug: nanwuxiang
+  - name: "柏梁镇"
+    slug: boliangzhen
+  - name: "马栏镇"
+    slug: malanzhen
+yuzhou:
+  name: "禹州"
+  url: http://yuzhou.58.com/
+  slug: yuzhou
+  children:
+  - name: "颍川办"
+    slug: yingchuanban
+  - name: "韩城办"
+    slug: hanchengban
+  - name: "钧台办"
+    slug: diaotaiban
+  - name: "夏都办"
+    slug: xiaduban
+  - name: "神后镇"
+    slug: shenhouzhen
+  - name: "方山镇"
+    slug: fangshanzhen
+  - name: "顺店镇"
+    slug: shundianzhen
+  - name: "无梁镇"
+    slug: wuliangzhen
+  - name: "鸿畅镇"
+    slug: hongchangzhen
+  - name: "梁北镇"
+    slug: liangbeizhen
+  - name: "古城镇"
+    slug: guchengzhenz
+  - name: "火龙镇"
+    slug: huolongzhen
+  - name: "文殊镇"
+    slug: wenshuzhen
+  - name: "其他"
+    slug: qitaa
+changge:
+  name: "长葛"
+  url: http://changge.58.com/
+  slug: changge
+  children:
+  - name: "长社路街道"
+    slug: changshelu
+  - name: "建设路街道"
+    slug: jianshelujd
+  - name: "长兴路街道"
+    slug: changxinglu
+  - name: "金桥路街道"
+    slug: jinqiaolu
+  - name: "长葛周边"
+    slug: changgezb
+yc:
+  name: "宜昌"
+  url: http://yc.58.com/
+  slug: yc
+  children:
+  - name: "葛洲坝"
+    slug: ycgzb
+  - name: "西陵"
+    slug: xiling
+  - name: "伍家岗"
+    slug: wujiagang
+  - name: "点军"
+    slug: dianjun
+  - name: "猇亭"
+    slug: xiaoting
+  - name: "夷陵"
+    slug: yiling
+  - name: "东山"
+    slug: dongs
+  - name: "宜都"
+    slug: yiduqu
+  - name: "远安"
+    slug: yuananxian
+  - name: "兴山"
+    slug: xingshanxian
+  - name: "秭归"
+    slug: ziguixian
+  - name: "五峰"
+    slug: wufengxian
+  - name: "当阳"
+    slug: dangyang
+  - name: "枝江"
+    slug: zhijiang
+  - name: "长阳"
+    slug: changyang
+  - name: "宜昌周边"
+    slug: yichangqita
+xf:
+  name: "襄阳"
+  url: http://xf.58.com/
+  slug: xf
+  children:
+  - name: "樊城"
+    slug: xfxiangcheng
+  - name: "襄城"
+    slug: xiangcheng
+  - name: "襄州"
+    slug: xiangyangqu
+  - name: "枣阳"
+    slug: zaoyang
+  - name: "宜城"
+    slug: yichengshi
+  - name: "老河口"
+    slug: laohekou
+  - name: "鱼梁洲"
+    slug: yuliangz
+  - name: "高新区"
+    slug: gaoxq
+  - name: "襄阳周边"
+    slug: xiangfan
+jingzhou:
+  name: "荆州"
+  url: http://jingzhou.58.com/
+  slug: jingzhou
+  children:
+  - name: "沙市"
+    slug: shashiqu
+  - name: "荆州"
+    slug: jingjingzhou
+  - name: "洪湖"
+    slug: honghu
+  - name: "石首"
+    slug: shishou
+  - name: "松滋"
+    slug: songzi
+  - name: "监利"
+    slug: jianli
+  - name: "公安"
+    slug: gongan
+  - name: "江陵"
+    slug: jiangling
+  - name: "其他"
+    slug: jingzhouqita
+shiyan:
+  name: "十堰"
+  url: http://shiyan.58.com/
+  slug: shiyan
+  children:
+  - name: "张湾"
+    slug: zhangwan
+  - name: "茅箭"
+    slug: maojian
+  - name: "丹江口"
+    slug: danjiangkou
+  - name: "武当山"
+    slug: sywds
+  - name: "白浪经济开发区"
+    slug: sybljjkfq
+  - name: "郧阳区"
+    slug: yunxian
+  - name: "竹山"
+    slug: zhushan
+  - name: "房县"
+    slug: fangxian
+  - name: "郧西"
+    slug: yunxixian
+  - name: "竹溪"
+    slug: zhuxi
+  - name: "十堰周边"
+    slug: shiyanshi
+hshi:
+  name: "黄石"
+  url: http://hshi.58.com/
+  slug: hshi
+  children:
+  - name: "黄石港"
+    slug: huangshigang
+  - name: "西塞山"
+    slug: xisaishan
+  - name: "团城山"
+    slug: tuanchengshan
+  - name: "下陆"
+    slug: xialu
+  - name: "铁山"
+    slug: tieshan
+  - name: "大冶"
+    slug: daye
+  - name: "阳新"
+    slug: hsyangxin
+  - name: "其它"
+    slug: huangshi
+  - name: "花湖"
+    slug: hshh
+xiaogan:
+  name: "孝感"
+  url: http://xiaogan.58.com/
+  slug: xiaogan
+  children:
+  - name: "孝南"
+    slug: xiaonan
+  - name: "汉川"
+    slug: hanchuan
+  - name: "孝昌"
+    slug: xiaochang
+  - name: "云梦"
+    slug: yunmeng
+  - name: "应城"
+    slug: yingcheng
+  - name: "大悟"
+    slug: dawu
+  - name: "安陆"
+    slug: anlu
+  - name: "其他"
+    slug: xiaoganqita
+hg:
+  name: "黄冈"
+  url: http://hg.58.com/
+  slug: hg
+  children:
+  - name: "黄州"
+    slug: huangzhouqu
+  - name: "武穴"
+    slug: wuxueshi
+  - name: "麻城"
+    slug: machengshi
+  - name: "浠水"
+    slug: xishuixian
+  - name: "黄梅"
+    slug: huangmeixian
+  - name: "蕲春"
+    slug: qichenxian
+  - name: "团风"
+    slug: tuanfengxian
+  - name: "红安"
+    slug: honganxian
+  - name: "罗田"
+    slug: luotianxian
+  - name: "英山"
+    slug: yingshanxian
+  - name: "龙感湖"
+    slug: longganhuqu
+es:
+  name: "恩施"
+  url: http://es.58.com/
+  slug: es
+  children:
+  - name: "恩施市"
+    slug: enshishi
+  - name: "利川"
+    slug: lichuanshi
+  - name: "建始"
+    slug: jianshixian
+  - name: "巴东"
+    slug: badongxian
+  - name: "咸丰"
+    slug: xianfengxian
+  - name: "宣恩"
+    slug: xuanenxian
+  - name: "来凤"
+    slug: laifengxian
+  - name: "鹤峰"
+    slug: hefengxian
+jingmen:
+  name: "荆门"
+  url: http://jingmen.58.com/
+  slug: jingmen
+  children:
+  - name: "京山"
+    slug: jingshanxian
+  - name: "沙洋"
+    slug: shayangxian
+  - name: "钟祥"
+    slug: zhongxiangshi
+  - name: "东宝"
+    slug: dongbaoqu
+  - name: "掇刀"
+    slug: duodaoqu
+  - name: "屈家岭管理区"
+    slug: qujialing
+xianning:
+  name: "咸宁"
+  url: http://xianning.58.com/
+  slug: xianning
+  children:
+  - name: "咸安"
+    slug: xiananqu
+  - name: "赤壁"
+    slug: chibishi
+  - name: "嘉鱼"
+    slug: jiayuxian
+  - name: "通城"
+    slug: tongchenxian
+  - name: "崇阳"
+    slug: chongyangxian
+  - name: "通山"
+    slug: tongshanxian
+  - name: "咸宁周边"
+    slug: xianningzb
+ez:
+  name: "鄂州"
+  url: http://ez.58.com/
+  slug: ez
+  children:
+  - name: "鄂城区"
+    slug: erchengqu
+  - name: "华容"
+    slug: huarongqu
+  - name: "梁子湖"
+    slug: liangzihuqu
+  - name: "鄂州周边"
+    slug: erzhouzb
+suizhou:
+  name: "随州"
+  url: http://suizhou.58.com/
+  slug: suizhou
+  children:
+  - name: "广水"
+    slug: guangshuishi
+  - name: "曾都"
+    slug: zengduqu
+  - name: "随县"
+    slug: suixia
+  - name: "随州周边"
+    slug: suizhouzb
+qianjiang:
+  name: "潜江"
+  url: http://qianjiang.58.com/
+  slug: qianjiang
+  children:
+  - name: "园林街道"
+    slug: yuanlinjiedao
+  - name: "泽口街道"
+    slug: zekoujiedao
+  - name: "广华街道"
+    slug: guanghuajd
+  - name: "周矶街道"
+    slug: zhoujijiedao
+  - name: "杨市街道"
+    slug: yangshijiedao
+  - name: "潜江周边"
+    slug: qianjiangzb
+tm:
+  name: "天门"
+  url: http://tm.58.com/
+  slug: tm
+  children:
+  - name: "竟陵街道"
+    slug: jinglingjiedao
+  - name: "岳口街道"
+    slug: yuekoujiedao
+  - name: "候口街道"
+    slug: houkoujiedao
+  - name: "杨林街道"
+    slug: yanglinjiedao
+  - name: "天门周边"
+    slug: tianmenzb
+xiantao:
+  name: "仙桃"
+  url: http://xiantao.58.com/
+  slug: xiantao
+  children:
+  - name: "市区"
+    slug: xtsq
+  - name: "郑场"
+    slug: zhengchang
+  - name: "毛嘴"
+    slug: maozui
+  - name: "剅河"
+    slug: douhe
+  - name: "三伏潭"
+    slug: sanfutan
+  - name: "长埫口"
+    slug: changshangkou
+  - name: "胡场"
+    slug: huchang
+  - name: "仙桃周边"
+    slug: xiantaozb
+snj:
+  name: "神农架"
+  url: http://snj.58.com/
+  slug: snj
+  children:
+  - name: "松柏镇"
+    slug: songbozhen
+  - name: "阳日镇"
+    slug: yangrizhen
+  - name: "红坪镇"
+    slug: hongpingzhen
+  - name: "木鱼镇"
+    slug: muyuzhen
+  - name: "神农架周边"
+    slug: shennongjiazb
+yidou:
+  name: "宜都"
+  url: http://yidou.58.com/
+  slug: yidou
+  children:
+  - name: "宜都市区"
+    slug: yidoushiqu
+  - name: "其它"
+    slug: yidouqita
+cs:
+  name: "长沙"
+  url: http://cs.58.com/
+  slug: cs
+  children:
+  - name: "望城"
+    slug: cswc
+  - name: "芙蓉"
+    slug: furong
+  - name: "岳麓"
+    slug: yuelu
+  - name: "雨花"
+    slug: csyuhua
+  - name: "天心"
+    slug: tianxinqu
+  - name: "星沙"
+    slug: xingsha
+  - name: "开福"
+    slug: kaifu
+  - name: "长沙周边"
+    slug: changsha
+zhuzhou:
+  name: "株洲"
+  url: http://zhuzhou.58.com/
+  slug: zhuzhou
+  children:
+  - name: "天元"
+    slug: tianyuan
+  - name: "荷塘"
+    slug: hetang
+  - name: "攸县"
+    slug: zzyouxian
+  - name: "石峰"
+    slug: shifeng
+  - name: "茶陵"
+    slug: chaling
+  - name: "芦淞"
+    slug: lusong
+  - name: "炎陵"
+    slug: yanlingxianx
+  - name: "醴陵"
+    slug: liling
+  - name: "株洲县"
+    slug: zhuzhouxian
+  - name: "其他"
+    slug: zhuzhoushi
+yiyang:
+  name: "益阳"
+  url: http://yiyang.58.com/
+  slug: yiyang
+  children:
+  - name: "赫山"
+    slug: heshanq
+  - name: "资阳"
+    slug: ziyangq
+  - name: "沅江"
+    slug: yuanjiangs
+  - name: "南县"
+    slug: nanxian
+  - name: "桃江"
+    slug: taojiang
+  - name: "安化"
+    slug: anhua
+  - name: "益阳周边"
+    slug: yiyangzhoubian
+changde:
+  name: "常德"
+  url: http://changde.58.com/
+  slug: changde
+  children:
+  - name: "武陵"
+    slug: wuling
+  - name: "鼎城"
+    slug: dingcheng
+  - name: "津市"
+    slug: jinshi
+  - name: "澧县"
+    slug: lixian
+  - name: "桃源"
+    slug: taoyuan
+  - name: "安乡"
+    slug: anxiang
+  - name: "石门"
+    slug: shimen
+  - name: "临澧"
+    slug: linli
+  - name: "汉寿"
+    slug: hanshou
+  - name: "其他"
+    slug: changdeshi
+hy:
+  name: "衡阳"
+  url: http://hy.58.com/
+  slug: hy
+  children:
+  - name: "蒸湘"
+    slug: zhengxiang
+  - name: "雁峰"
+    slug: yanfeng
+  - name: "石鼓"
+    slug: shigu
+  - name: "珠晖"
+    slug: zhuhui
+  - name: "南岳"
+    slug: nanyue
+  - name: "立新开发区"
+    slug: lixinkfq
+  - name: "华新开发区"
+    slug: huaxinkfq
+  - name: "衡阳周边"
+    slug: hengyang
+xiangtan:
+  name: "湘潭"
+  url: http://xiangtan.58.com/
+  slug: xiangtan
+  children:
+  - name: "雨湖"
+    slug: yuhu
+  - name: "岳塘"
+    slug: yuetang
+  - name: "九华经济开发区"
+    slug: jiuhuajingjikfq
+  - name: "韶山"
+    slug: shaoshan
+  - name: "湘潭县"
+    slug: xiangtanxian
+  - name: "湘乡"
+    slug: xiangxiang
+  - name: "湘潭周边"
+    slug: xiangtanqita
+yy:
+  name: "岳阳"
+  url: http://yy.58.com/
+  slug: yy
+  children:
+  - name: "岳阳楼"
+    slug: yueyanglou
+  - name: "云溪"
+    slug: yunxi
+  - name: "临湘"
+    slug: linxiang
+  - name: "汨罗"
+    slug: miluo
+  - name: "君山"
+    slug: junshan
+  - name: "其他"
+    slug: yueyang
+chenzhou:
+  name: "郴州"
+  url: http://chenzhou.58.com/
+  slug: chenzhou
+  children:
+  - name: "北湖"
+    slug: beihuqu
+  - name: "苏仙"
+    slug: suxian
+  - name: "资兴"
+    slug: zixing
+  - name: "桂阳"
+    slug: czguiyang
+  - name: "宜章"
+    slug: yizhang
+  - name: "永兴"
+    slug: yongxing
+  - name: "嘉禾"
+    slug: jiahe
+  - name: "临武"
+    slug: linwu
+  - name: "其它"
+    slug: chenzhoushi
+shaoyang:
+  name: "邵阳"
+  url: http://shaoyang.58.com/
+  slug: shaoyang
+  children:
+  - name: "双清"
+    slug: shuangqingqu
+  - name: "大祥"
+    slug: daxiangqu
+  - name: "北塔"
+    slug: beitaqu
+  - name: "武冈"
+    slug: wugangshi
+  - name: "邵东"
+    slug: shaodongxian
+  - name: "邵阳县"
+    slug: shaoyangxian
+  - name: "新邵"
+    slug: xinjunxian
+  - name: "隆回"
+    slug: longhuixian
+  - name: "洞口"
+    slug: dongkouxian
+  - name: "绥宁"
+    slug: suiningqu
+  - name: "新宁"
+    slug: xinningxian
+  - name: "城步县"
+    slug: shaoyangcbx
+hh:
+  name: "怀化"
+  url: http://hh.58.com/
+  slug: hh
+  children:
+  - name: "鹤城"
+    slug: hecheng
+  - name: "洪江"
+    slug: hongjiang
+  - name: "沅陵"
+    slug: yuanling
+  - name: "辰溪"
+    slug: chenxi
+  - name: "溆浦"
+    slug: xupuxian
+  - name: "中方"
+    slug: zhongfang
+  - name: "会同"
+    slug: huitong
+  - name: "其它"
+    slug: huaihua
+yongzhou:
+  name: "永州"
+  url: http://yongzhou.58.com/
+  slug: yongzhou
+  children:
+  - name: "冷水滩"
+    slug: lengshuitangqu
+  - name: "零陵"
+    slug: linglingqu
+  - name: "祁阳"
+    slug: qiyang
+  - name: "宁远"
+    slug: ningyuan
+  - name: "东安"
+    slug: donganxian
+  - name: "双牌"
+    slug: shuangpai
+  - name: "道县"
+    slug: daoxiang
+  - name: "江华"
+    slug: jianghua
+  - name: "江永"
+    slug: jiangyong
+  - name: "新田"
+    slug: xintian
+  - name: "蓝山"
+    slug: langshan
+ld:
+  name: "娄底"
+  url: http://ld.58.com/
+  slug: ld
+  children:
+  - name: "娄星"
+    slug: louxingqu
+  - name: "冷水江"
+    slug: lengshuijiangshi
+  - name: "涟源"
+    slug: lianyuanshi
+  - name: "双峰"
+    slug: shuangfengxian
+  - name: "新化"
+    slug: xinhuaxian
+  - name: "娄底周边"
+    slug: loudizb
+xiangxi:
+  name: "湘西"
+  url: http://xiangxi.58.com/
+  slug: xiangxi
+  children:
+  - name: "吉首"
+    slug: jishou
+  - name: "泸溪"
+    slug: luxix
+  - name: "凤凰"
+    slug: fenghuang
+  - name: "花垣"
+    slug: huayuanx
+  - name: "保靖"
+    slug: baojing
+  - name: "古丈"
+    slug: guzhang
+  - name: "永顺"
+    slug: yongshunx
+  - name: "龙山"
+    slug: longshanx
+  - name: "湘西周边"
+    slug: xiangxizhoubian
+zjj:
+  name: "张家界"
+  url: http://zjj.58.com/
+  slug: zjj
+  children:
+  - name: "永定"
+    slug: yongdingqu
+  - name: "武陵源"
+    slug: wulingyuanqu
+  - name: "慈利"
+    slug: cilixian
+  - name: "桑植"
+    slug: sangzhixian
+nc:
+  name: "南昌"
+  url: http://nc.58.com/
+  slug: nc
+  children:
+  - name: "东湖"
+    slug: donghu
+  - name: "西湖"
+    slug: xihu
+  - name: "新建区"
+    slug: xinjian
+  - name: "南昌县"
+    slug: nanchangxian
+  - name: "青云谱"
+    slug: qingyunpu
+  - name: "湾里"
+    slug: wailiqu
+  - name: "青山湖"
+    slug: qingshanhuqu
+  - name: "红谷滩新区"
+    slug: honggutanxin
+  - name: "高新开发区"
+    slug: gaoxinkfq
+  - name: "象湖"
+    slug: ncxianghu
+  - name: "小蓝经济开发区"
+    slug: ncxl
+  - name: "昌北经济开发区"
+    slug: nccbjjkfq
+  - name: "南昌周边"
+    slug: nanchang
+ganzhou:
+  name: "赣州"
+  url: http://ganzhou.58.com/
+  slug: ganzhou
+  children:
+  - name: "章贡"
+    slug: zhanggong
+  - name: "南康"
+    slug: nankang
+  - name: "瑞金"
+    slug: ruijin
+  - name: "赣县"
+    slug: ganxianq
+  - name: "信丰"
+    slug: xinfengq
+  - name: "大余"
+    slug: dayuq
+  - name: "上犹"
+    slug: shangyou
+  - name: "崇义"
+    slug: chongyi
+  - name: "安远"
+    slug: anyuanq
+  - name: "龙南"
+    slug: longnan
+  - name: "定南"
+    slug: dingnan
+  - name: "全南"
+    slug: quannan
+  - name: "兴国"
+    slug: xingguo
+  - name: "宁都"
+    slug: ningdu
+  - name: "于都"
+    slug: yudu
+  - name: "会昌"
+    slug: huichang
+  - name: "寻乌"
+    slug: xunwu
+  - name: "石城"
+    slug: shicheng
+  - name: "章江新区"
+    slug: ganzzjxq
+  - name: "开发区"
+    slug: ganzkfq
+  - name: "站北区"
+    slug: ganzzbq
+  - name: "健康路"
+    slug: gzjkl
+jj:
+  name: "九江"
+  url: http://jj.58.com/
+  slug: jj
+  children:
+  - name: "共青城"
+    slug: gongqing
+  - name: "九江市区"
+    slug: jiujiangshiqu
+  - name: "庐山"
+    slug: lushan
+  - name: "瑞昌"
+    slug: ruichang
+  - name: "九江县"
+    slug: jiujiangxian
+  - name: "武宁"
+    slug: wuningxian
+  - name: "修水"
+    slug: xiushuixian
+  - name: "永修"
+    slug: yongxiuxian
+  - name: "德安"
+    slug: dean
+  - name: "开发区"
+    slug: jjkaifaqu
+  - name: "九瑞大道"
+    slug: jjjrdd
+  - name: "星子"
+    slug: xingzixian
+  - name: "都昌"
+    slug: duchangxian
+  - name: "湖口"
+    slug: hukouxian
+  - name: "彭泽"
+    slug: pengzexian
+  - name: "浔阳区"
+    slug: xunyang
+  - name: "九江周边"
+    slug: jiujiangshi
+yichun:
+  name: "宜春"
+  url: http://yichun.58.com/
+  slug: yichun
+  children:
+  - name: "袁州"
+    slug: yuanzhou
+  - name: "丰城"
+    slug: fengchengshi
+  - name: "高安"
+    slug: gaoan
+  - name: "樟树"
+    slug: zhangshu
+  - name: "万载"
+    slug: wangzai
+  - name: "上高"
+    slug: shanggao
+  - name: "奉新"
+    slug: fengxin
+  - name: "宜丰"
+    slug: yifeng
+  - name: "其它"
+    slug: yichunshi
+ja:
+  name: "吉安"
+  url: http://ja.58.com/
+  slug: ja
+  children:
+  - name: "吉州"
+    slug: jizhouqu
+  - name: "青原"
+    slug: qingyuanqu
+  - name: "井冈山"
+    slug: jinggangshanshi
+  - name: "遂川"
+    slug: suichuanxian
+  - name: "吉安县"
+    slug: jianxian
+  - name: "吉水"
+    slug: jishuixian
+  - name: "峡江"
+    slug: xijiangxian
+  - name: "新干"
+    slug: xinganx
+  - name: "永丰"
+    slug: yongfengxian
+  - name: "泰和"
+    slug: taihexian
+  - name: "万安"
+    slug: wananxian
+  - name: "安福"
+    slug: anfuxian
+  - name: "永新"
+    slug: yongxinxian
+  - name: "庐陵新区"
+    slug: lulingxinqu
+sr:
+  name: "上饶"
+  url: http://sr.58.com/
+  slug: sr
+  children:
+  - name: "信州"
+    slug: xinzhouq
+  - name: "德兴"
+    slug: dexing
+  - name: "上饶县"
+    slug: shangraox
+  - name: "广丰"
+    slug: guangfeng
+  - name: "玉山"
+    slug: yushanx
+  - name: "鄱阳"
+    slug: poyang
+  - name: "余干"
+    slug: yugan
+  - name: "上饶周边"
+    slug: shangraozhoubian
+px:
+  name: "萍乡"
+  url: http://px.58.com/
+  slug: px
+  children:
+  - name: "安源"
+    slug: anyuan
+  - name: "芦溪"
+    slug: luxi
+  - name: "湘东"
+    slug: xiangdong
+  - name: "上栗"
+    slug: shangli
+  - name: "莲花"
+    slug: lianhuaxian
+  - name: "其它"
+    slug: pingxiang
+fuzhou:
+  name: "抚州"
+  url: http://fuzhou.58.com/
+  slug: fuzhou
+  children:
+  - name: "临川"
+    slug: linchuan
+  - name: "南城"
+    slug: nanchengx
+  - name: "东乡"
+    slug: dongxiang
+  - name: "崇仁"
+    slug: chongren
+  - name: "乐安"
+    slug: lean
+  - name: "抚州周边"
+    slug: fuzhouzhoubian
+jdz:
+  name: "景德镇"
+  url: http://jdz.58.com/
+  slug: jdz
+  children:
+  - name: "乐平"
+    slug: lepingshi
+  - name: "浮梁"
+    slug: fuliangxian
+  - name: "珠山"
+    slug: zhushanqu
+  - name: "昌江"
+    slug: changjiangqu
+xinyu:
+  name: "新余"
+  url: http://xinyu.58.com/
+  slug: xinyu
+  children:
+  - name: "渝水"
+    slug: yushui
+  - name: "仙女湖"
+    slug: xiannvhu
+  - name: "分宜"
+    slug: fenyi
+  - name: "新余周边"
+    slug: xinyuzhoubian
+yingtan:
+  name: "鹰潭"
+  url: http://yingtan.58.com/
+  slug: yingtan
+  children:
+  - name: "月湖"
+    slug: yuehu
+  - name: "贵溪"
+    slug: guixi
+  - name: "余江"
+    slug: yujiang
+  - name: "龙虎山"
+    slug: longhushan
+  - name: "其他"
+    slug: yingtanqita
+yxx:
+  name: "永新"
+  url: http://yxx.58.com/
+  slug: yxx
+  children:
+  - name: "永新县城"
+    slug: yxxchengqu
+  - name: "东路片乡镇"
+    slug: donglupianxz
+  - name: "西路片乡镇"
+    slug: xilupianxz
+  - name: "南路片乡镇"
+    slug: nanlupianxz
+  - name: "北路片乡镇"
+    slug: beilupianxz
+  - name: "永新县周边"
+    slug: yxxzhoubian
+sy:
+  name: "沈阳"
+  url: http://sy.58.com/
+  slug: sy
+  children:
+  - name: "和平"
+    slug: syheping
+  - name: "沈河"
+    slug: shenhe
+  - name: "皇姑"
+    slug: huanggu
+  - name: "大东"
+    slug: dadong
+  - name: "铁西"
+    slug: sytiexi
+  - name: "东陵"
+    slug: dongling
+  - name: "于洪"
+    slug: yuhong
+  - name: "沈北新区"
+    slug: xinchengzi
+  - name: "苏家屯"
+    slug: sujiatun
+  - name: "浑南新区"
+    slug: shenyangshi
+  - name: "沈阳周边"
+    slug: shenyang
+dl:
+  name: "大连"
+  url: http://dl.58.com/
+  slug: dl
+  children:
+  - name: "西岗"
+    slug: xigang
+  - name: "中山"
+    slug: zhongshanqu
+  - name: "沙河口"
+    slug: shahekou
+  - name: "甘井子"
+    slug: ganjingziqu
+  - name: "高新园"
+    slug: gaoxinyuanqu
+  - name: "旅顺"
+    slug: lvshunkou
+  - name: "金州"
+    slug: jinzhouqu
+  - name: "开发区"
+    slug: daliankfq
+  - name: "瓦房店"
+    slug: wafangdian
+  - name: "普兰店"
+    slug: dlpulandian
+  - name: "庄河"
+    slug: zhuanghe
+  - name: "大连周边"
+    slug: dalian
+as:
+  name: "鞍山"
+  url: http://as.58.com/
+  slug: as
+  children:
+  - name: "铁东"
+    slug: tiedong
+  - name: "铁西"
+    slug: tiexi
+  - name: "立山"
+    slug: lishan
+  - name: "海城"
+    slug: haicheng
+  - name: "千山"
+    slug: qianshan
+  - name: "岫岩"
+    slug: xiuyan
+  - name: "台安"
+    slug: taianxian
+  - name: "鞍山周边"
+    slug: anshan
+jinzhou:
+  name: "锦州"
+  url: http://jinzhou.58.com/
+  slug: jinzhou
+  children:
+  - name: "凌河"
+    slug: linghequ
+  - name: "古塔"
+    slug: gutaqu
+  - name: "太和"
+    slug: taihequ
+  - name: "松山新区"
+    slug: songshanxinqu
+  - name: "经济开发区"
+    slug: jingjikaifaq
+  - name: "凌海"
+    slug: linghaishi
+  - name: "北镇"
+    slug: beizhenshi
+  - name: "黑山"
+    slug: heishanshi
+  - name: "义县"
+    slug: yixian
+fushun:
+  name: "抚顺"
+  url: http://fushun.58.com/
+  slug: fushun
+  children:
+  - name: "顺城"
+    slug: shuncheng
+  - name: "新抚"
+    slug: xinfuqu
+  - name: "东洲"
+    slug: dongzhou
+  - name: "望花"
+    slug: wanghua
+  - name: "开发区"
+    slug: fskaifa
+  - name: "胜利"
+    slug: fsshengli
+  - name: "抚顺"
+    slug: fushunxian
+  - name: "新宾"
+    slug: xinbin
+  - name: "清原"
+    slug: fsqingyuan
+  - name: "其他"
+    slug: fushunshi
+yk:
+  name: "营口"
+  url: http://yk.58.com/
+  slug: yk
+  children:
+  - name: "站前"
+    slug: zhanqianqu
+  - name: "西市"
+    slug: xishi
+  - name: "鲅鱼圈"
+    slug: bayuquan
+  - name: "老边"
+    slug: laobian
+  - name: "盖州"
+    slug: gaizhou
+  - name: "大石桥"
+    slug: dashiqiao
+  - name: "其它"
+    slug: yingkou
+  - name: "熊岳镇"
+    slug: xiongyuezhen
+pj:
+  name: "盘锦"
+  url: http://pj.58.com/
+  slug: pj
+  children:
+  - name: "兴隆台"
+    slug: xinglongtai
+  - name: "双台子"
+    slug: shuangtaizi
+  - name: "盘山"
+    slug: panshan
+  - name: "大洼"
+    slug: dawa
+  - name: "其它"
+    slug: panjin
+cy:
+  name: "朝阳"
+  url: http://cy.58.com/
+  slug: cy
+  children:
+  - name: "双塔"
+    slug: shuangtaq
+  - name: "龙城"
+    slug: longcheng
+  - name: "北票"
+    slug: beipiao
+  - name: "凌源"
+    slug: lingyuan
+  - name: "朝阳县"
+    slug: chaoyangx
+  - name: "建平"
+    slug: jiangping
+  - name: "喀喇沁"
+    slug: kalaqin
+  - name: "朝阳周边"
+    slug: chaoyangzhoub
+dandong:
+  name: "丹东"
+  url: http://dandong.58.com/
+  slug: dandong
+  children:
+  - name: "振兴"
+    slug: zhenxing
+  - name: "元宝"
+    slug: yuanbao
+  - name: "振安"
+    slug: zhenan
+  - name: "东港"
+    slug: donggang
+  - name: "凤城"
+    slug: fengcheng
+  - name: "宽甸"
+    slug: kuandian
+  - name: "其他"
+    slug: dandongqita
+liaoyang:
+  name: "辽阳"
+  url: http://liaoyang.58.com/
+  slug: liaoyang
+  children:
+  - name: "白塔"
+    slug: baita
+  - name: "文圣"
+    slug: wensheng
+  - name: "宏伟"
+    slug: hongwei
+  - name: "太子河"
+    slug: taizihe
+  - name: "弓长岭"
+    slug: gongchangling
+  - name: "灯塔"
+    slug: dengta
+  - name: "辽阳县"
+    slug: liaoyangxian
+  - name: "其它"
+    slug: liaoyangshi
+benxi:
+  name: "本溪"
+  url: http://benxi.58.com/
+  slug: benxi
+  children:
+  - name: "平山"
+    slug: pingshanqu
+  - name: "溪湖"
+    slug: bxxihu
+  - name: "明山"
+    slug: mingshan
+  - name: "南芬"
+    slug: nanfen
+  - name: "本溪县"
+    slug: bxbenxi
+  - name: "桓仁"
+    slug: huanren
+  - name: "其它"
+    slug: benxishi
+hld:
+  name: "葫芦岛"
+  url: http://hld.58.com/
+  slug: hld
+  children:
+  - name: "龙港"
+    slug: longgangq
+  - name: "连山"
+    slug: lianshan
+  - name: "南票"
+    slug: nanpiao
+  - name: "兴城"
+    slug: xingcheng
+  - name: "绥中"
+    slug: suizhong
+  - name: "建昌"
+    slug: jianchang
+  - name: "开发区"
+    slug: hldkaifaqu
+  - name: "北港工业区"
+    slug: beiganggongye
+  - name: "葫芦岛周边"
+    slug: huludaozhoubian
+tl:
+  name: "铁岭"
+  url: http://tl.58.com/
+  slug: tl
+  children:
+  - name: "银州"
+    slug: yinzq
+  - name: "清河"
+    slug: qinghequ
+  - name: "调兵山"
+    slug: diaobingshan
+  - name: "开原"
+    slug: kaiyuan
+  - name: "铁岭县"
+    slug: tielingxian
+  - name: "西丰"
+    slug: xifengxian
+  - name: "昌图"
+    slug: changtuxian
+fx:
+  name: "阜新"
+  url: http://fx.58.com/
+  slug: fx
+  children:
+  - name: "海州"
+    slug: haizhouq
+  - name: "新邱"
+    slug: xinqiu
+  - name: "太平"
+    slug: taipingq
+  - name: "清河门"
+    slug: qinghemen
+  - name: "细河"
+    slug: xihe
+  - name: "彰武"
+    slug: zhangwu
+  - name: "阜新县"
+    slug: fuxinx
+  - name: "阜新周边"
+    slug: fuxinzhoubian
+pld:
+  name: "庄河"
+  url: http://pld.58.com/
+  slug: pld
+  children:
+  - name: "普兰店"
+    slug: pulandianshi
+  - name: "皮口镇"
+    slug: pikou
+  - name: "城子坦镇"
+    slug: chengzitan
+  - name: "大刘家镇"
+    slug: daliujia
+  - name: "杨树房镇"
+    slug: yangshufang
+  - name: "双塔镇"
+    slug: shuangtazhen
+  - name: "安波镇"
+    slug: anbo
+  - name: "其他"
+    slug: pulandian
+wfd:
+  name: "瓦房店"
+  url: http://wfd.58.com/
+  slug: wfd
+  children:
+  - name: "瓦房店"
+    slug: wafangdianshi
+  - name: "长兴岛"
+    slug: changxingdao
+  - name: "太阳街道"
+    slug: taiyangjie
+  - name: "老虎屯镇"
+    slug: laohutun
+  - name: "得利寺镇"
+    slug: delisi
+  - name: "复州城镇"
+    slug: fuzhoucheng
+  - name: "东岗镇"
+    slug: donggangzhen
+  - name: "其他"
+    slug: wafangdianqita
+hrb:
+  name: "哈尔滨"
+  url: http://hrb.58.com/
+  slug: hrb
+  children:
+  - name: "南岗"
+    slug: nangang
+  - name: "道里"
+    slug: daoli
+  - name: "道外"
+    slug: daowai
+  - name: "香坊"
+    slug: xiangfang
+  - name: "江北"
+    slug: hrbjiangbei
+  - name: "开发区"
+    slug: hrbkaifaqu
+  - name: "依兰"
+    slug: hebyilan
+  - name: "方正"
+    slug: hebfangz
+  - name: "宾县"
+    slug: hebbinxian
+  - name: "巴彦"
+    slug: hebbayan
+  - name: "木兰"
+    slug: hebmulan
+  - name: "通河"
+    slug: hebtonghe
+  - name: "哈尔滨周边"
+    slug: haerbin
+dq:
+  name: "大庆"
+  url: http://dq.58.com/
+  slug: dq
+  children:
+  - name: "萨尔图"
+    slug: saertu
+  - name: "让胡路"
+    slug: ranghulu
+  - name: "龙凤"
+    slug: longfeng
+  - name: "红岗"
+    slug: honggang
+  - name: "大同"
+    slug: datong
+  - name: "其他"
+    slug: daqing
+qqhr:
+  name: "齐齐哈尔"
+  url: http://qqhr.58.com/
+  slug: qqhr
+  children:
+  - name: "龙沙"
+    slug: longsha
+  - name: "建华"
+    slug: jianhua
+  - name: "铁锋"
+    slug: tiefeng
+  - name: "昂昂溪"
+    slug: angangxi
+  - name: "富拉尔基"
+    slug: fulaerji
+  - name: "碾子山"
+    slug: nianzishan
+  - name: "梅里斯"
+    slug: meilisi
+  - name: "讷河"
+    slug: nehe
+  - name: "泰来"
+    slug: tailai
+  - name: "其它"
+    slug: qqhe
+mdj:
+  name: "牡丹江"
+  url: http://mdj.58.com/
+  slug: mdj
+  children:
+  - name: "东安"
+    slug: dongan
+  - name: "西安"
+    slug: muxian
+  - name: "爱民"
+    slug: aimin
+  - name: "阳明"
+    slug: yangming
+  - name: "绥芬河"
+    slug: suifenhe
+  - name: "宁安"
+    slug: ninganshi
+  - name: "海林"
+    slug: hailin
+  - name: "穆棱"
+    slug: muling
+  - name: "东宁县"
+    slug: mdjdnx
+  - name: "林口县"
+    slug: mdjlkx
+  - name: "其他"
+    slug: mudanjiang
+suihua:
+  name: "绥化"
+  url: http://suihua.58.com/
+  slug: suihua
+  children:
+  - name: "北林"
+    slug: shbeilin
+  - name: "安达"
+    slug: shanda
+  - name: "肇东"
+    slug: shzhaodong
+  - name: "海伦"
+    slug: shhailun
+  - name: "望奎"
+    slug: shwangkui
+  - name: "兰西"
+    slug: shlanxi
+  - name: "青冈"
+    slug: shqinggang
+  - name: "庆安"
+    slug: shqingan
+  - name: "明水"
+    slug: shmingshui
+  - name: "绥棱"
+    slug: shsuileng
+jms:
+  name: "佳木斯"
+  url: http://jms.58.com/
+  slug: jms
+  children:
+  - name: "前进"
+    slug: qianjinqu
+  - name: "永红"
+    slug: yonghongqu
+  - name: "向阳"
+    slug: xiangyq
+  - name: "东风"
+    slug: dongfengqu
+  - name: "郊区"
+    slug: jiaoqu
+  - name: "同江"
+    slug: tongjiangshi
+  - name: "富锦"
+    slug: fujinshi
+  - name: "桦南"
+    slug: huananxian
+  - name: "桦川"
+    slug: huachuanxian
+  - name: "汤原"
+    slug: tangyuanxian
+  - name: "抚远"
+    slug: fuyuanxian
+jixi:
+  name: "鸡西"
+  url: http://jixi.58.com/
+  slug: jixi
+  children:
+  - name: "鸡冠"
+    slug: jiguanqu
+  - name: "恒山"
+    slug: hengshanqu
+  - name: "滴道"
+    slug: didaoqu
+  - name: "梨树"
+    slug: lishuqu
+  - name: "城子河"
+    slug: chengzihequ
+  - name: "麻山"
+    slug: mashanquxian
+  - name: "虎林"
+    slug: hulinshi
+  - name: "密山"
+    slug: mishanshi
+  - name: "鸡东"
+    slug: jidongxian
+sys:
+  name: "双鸭山"
+  url: http://sys.58.com/
+  slug: sys
+  children:
+  - name: "尖山"
+    slug: jianshan
+  - name: "岭东"
+    slug: lingdong
+  - name: "四方台"
+    slug: sifangtai
+  - name: "宝山"
+    slug: baoshanqu
+  - name: "集贤"
+    slug: jixian
+  - name: "友谊"
+    slug: youyix
+  - name: "宝清"
+    slug: baoqing
+  - name: "饶河"
+    slug: raohe
+  - name: "双鸭山周边"
+    slug: shuangyashanzb
+hegang:
+  name: "鹤岗"
+  url: http://hegang.58.com/
+  slug: hegang
+  children:
+  - name: "工农"
+    slug: gongnongqu
+  - name: "向阳"
+    slug: xiangyangquq
+  - name: "南山"
+    slug: nanshanquq
+  - name: "东山"
+    slug: dongshanqu
+  - name: "兴山"
+    slug: xingshanqu
+  - name: "兴安"
+    slug: xinganqu
+  - name: "绥滨"
+    slug: suibinxian
+  - name: "萝北"
+    slug: luobeixian
+heihe:
+  name: "黑河"
+  url: http://heihe.58.com/
+  slug: heihe
+  children:
+  - name: "爱辉"
+    slug: aihui
+  - name: "北安"
+    slug: beian
+  - name: "五大连池"
+    slug: wudalianchi
+  - name: "嫩江"
+    slug: nenjiang
+  - name: "逊克"
+    slug: xunke
+  - name: "孙吴"
+    slug: sunwu
+  - name: "黑河周边"
+    slug: heihezb
+yich:
+  name: "伊春"
+  url: http://yich.58.com/
+  slug: yich
+  children:
+  - name: "伊春"
+    slug: yichunqu
+  - name: "南岔"
+    slug: nanchaqu
+  - name: "友好"
+    slug: youhaoqu
+  - name: "西林"
+    slug: xilinqu
+  - name: "翠峦"
+    slug: cuiluanqu
+  - name: "新青"
+    slug: xinqingqu
+  - name: "伊春周边"
+    slug: yichunzb
+qth:
+  name: "七台河"
+  url: http://qth.58.com/
+  slug: qth
+  children:
+  - name: "桃山"
+    slug: taoshan
+  - name: "新兴"
+    slug: xinxing
+  - name: "茄子河"
+    slug: qiezihe
+  - name: "勃利"
+    slug: boli
+  - name: "七台河周边"
+    slug: qitaihezb
+dxal:
+  name: "大兴安岭"
+  url: http://dxal.58.com/
+  slug: dxal
+  children:
+  - name: "呼玛"
+    slug: huma
+  - name: "塔河"
+    slug: tahe
+  - name: "漠河"
+    slug: mohe
+  - name: "加格达奇"
+    slug: jiagedaqi
+  - name: "松岭"
+    slug: songling
+  - name: "新林"
+    slug: xinlin
+  - name: "呼中"
+    slug: huzhong
+  - name: "大兴安岭周边"
+    slug: daxinganlingzb
+cc:
+  name: "长春"
+  url: http://cc.58.com/
+  slug: cc
+  children:
+  - name: "朝阳"
+    slug: chaoyangqu
+  - name: "南关"
+    slug: nanguan
+  - name: "绿园"
+    slug: lvyuan
+  - name: "宽城"
+    slug: kuancheng
+  - name: "二道"
+    slug: erdao
+  - name: "双阳"
+    slug: shuangyang
+  - name: "经开"
+    slug: jingkai
+  - name: "高新"
+    slug: ccgaoxin
+  - name: "汽车城"
+    slug: qichecheng
+  - name: "净月"
+    slug: jingyue
+  - name: "九台"
+    slug: jiutai
+  - name: "榆树"
+    slug: yushu
+  - name: "德惠"
+    slug: dehui
+  - name: "农安"
+    slug: nongan
+  - name: "长春周边"
+    slug: changchun
+jl:
+  name: "吉林"
+  url: http://jl.58.com/
+  slug: jl
+  children:
+  - name: "船营"
+    slug: chuanying
+  - name: "昌邑"
+    slug: changyi
+  - name: "龙潭"
+    slug: longtan
+  - name: "丰满"
+    slug: fengman
+  - name: "桦甸"
+    slug: huadian
+  - name: "磐石"
+    slug: panshi
+  - name: "舒兰"
+    slug: shulan
+  - name: "蛟河"
+    slug: jiaohe
+  - name: "永吉"
+    slug: yongj
+  - name: "吉林周边"
+    slug: jljilin
+sp:
+  name: "四平"
+  url: http://sp.58.com/
+  slug: sp
+  children:
+  - name: "铁西"
+    slug: tiexiq
+  - name: "铁东"
+    slug: tiedongq
+  - name: "双辽"
+    slug: shuangliao
+  - name: "公主岭"
+    slug: gongzhuling
+  - name: "梨树县"
+    slug: lishu
+  - name: "伊通县"
+    slug: yitong
+  - name: "孤家子镇"
+    slug: spgjz
+  - name: "榆树台镇"
+    slug: spystz
+  - name: "四平周边"
+    slug: sipingzhoubian
+yanbian:
+  name: "延边"
+  url: http://yanbian.58.com/
+  slug: yanbian
+  children:
+  - name: "延吉"
+    slug: yanji
+  - name: "敦化"
+    slug: dunhua
+  - name: "珲春"
+    slug: huichun
+  - name: "和龙"
+    slug: helong
+  - name: "图们"
+    slug: tumen
+  - name: "龙井"
+    slug: longjing
+  - name: "汪清"
+    slug: wangqing
+  - name: "安图"
+    slug: antu
+  - name: "其他"
+    slug: yanbianshi
+songyuan:
+  name: "松原"
+  url: http://songyuan.58.com/
+  slug: songyuan
+  children:
+  - name: "前郭"
+    slug: guoerls
+  - name: "长岭"
+    slug: changlingxian
+  - name: "扶余"
+    slug: fuyuxian
+  - name: "乾安"
+    slug: qiananxian
+  - name: "宁江"
+    slug: ningjiangxian
+  - name: "经济技术开发区"
+    slug: jingjijs
+  - name: "农业高新产业开发区"
+    slug: nongyequ
+bc:
+  name: "白城"
+  url: http://bc.58.com/
+  slug: bc
+  children:
+  - name: "白城"
+    slug: baichengshi
+  - name: "洮北"
+    slug: taobei
+  - name: "洮南"
+    slug: taonan
+  - name: "大安"
+    slug: daanshi
+  - name: "镇赉"
+    slug: zhenlaixian
+  - name: "通榆"
+    slug: tongyuxian
+  - name: "白城周边"
+    slug: bcqita
+th:
+  name: "通化"
+  url: http://th.58.com/
+  slug: th
+  children:
+  - name: "东昌"
+    slug: dongchang
+  - name: "二道江"
+    slug: erdaojiang
+  - name: "梅河口"
+    slug: meihekou
+  - name: "集安"
+    slug: jian
+  - name: "通化"
+    slug: tonghuax
+  - name: "辉南"
+    slug: huinanx
+  - name: "柳河"
+    slug: liuhe
+  - name: "通化周边"
+    slug: tonghuazhoubian
+baishan:
+  name: "白山"
+  url: http://baishan.58.com/
+  slug: baishan
+  children:
+  - name: "八道江"
+    slug: badaojiang
+  - name: "江源"
+    slug: jiangyuan
+  - name: "临江"
+    slug: linjiangs
+  - name: "抚松"
+    slug: fusong
+  - name: "靖宇"
+    slug: jingyux
+  - name: "长白"
+    slug: changbaix
+  - name: "白山周边"
+    slug: baishanzhoubian
+liaoyuan:
+  name: "辽源"
+  url: http://liaoyuan.58.com/
+  slug: liaoyuan
+  children:
+  - name: "龙山"
+    slug: longshan
+  - name: "西安区"
+    slug: liaoyuanxaq
+  - name: "东丰"
+    slug: dongfengxian
+  - name: "东辽"
+    slug: dongliao
+  - name: "其它"
+    slug: liaoyuanqita
+mianyang:
+  name: "绵阳"
+  url: http://mianyang.58.com/
+  slug: mianyang
+  children:
+  - name: "涪城"
+    slug: fuchengqu
+  - name: "游仙"
+    slug: youxian
+  - name: "江油"
+    slug: jiangyou
+  - name: "高新区"
+    slug: mygaoxinqu
+  - name: "经开区"
+    slug: jingkaiqu
+  - name: "科创园区"
+    slug: kechuangyuanqu
+  - name: "三台县"
+    slug: santaixian
+  - name: "绵阳周边"
+    slug: mianyangshi
+deyang:
+  name: "德阳"
+  url: http://deyang.58.com/
+  slug: deyang
+  children:
+  - name: "旌阳"
+    slug: jingyangqu
+  - name: "广汉"
+    slug: guanghanshi
+  - name: "什邡"
+    slug: shenfangshi
+  - name: "绵竹"
+    slug: mianzhushi
+  - name: "罗江"
+    slug: luojiangxian
+  - name: "中江"
+    slug: zhongjiangxian
+  - name: "德阳周边"
+    slug: deyangzb
+nanchong:
+  name: "南充"
+  url: http://nanchong.58.com/
+  slug: nanchong
+  children:
+  - name: "顺庆"
+    slug: shunqingqu
+  - name: "高坪"
+    slug: gaopingqu
+  - name: "嘉陵"
+    slug: jialingqu
+  - name: "阆中"
+    slug: langzhongshi
+  - name: "仪陇"
+    slug: yilongxian
+  - name: "南部"
+    slug: nanbuxian
+  - name: "蓬安"
+    slug: penganxian
+  - name: "营山"
+    slug: yingshanxianq
+  - name: "西充"
+    slug: xichongxian
+  - name: "南充周边"
+    slug: nanchongzb
+yb:
+  name: "宜宾"
+  url: http://yb.58.com/
+  slug: yb
+  children:
+  - name: "翠屏"
+    slug: cuipingqu
+  - name: "宜宾县"
+    slug: yibinxian
+  - name: "南溪"
+    slug: nanxixian
+  - name: "江安"
+    slug: jianganxian
+  - name: "长宁"
+    slug: changningx
+  - name: "高县"
+    slug: gaoxian
+  - name: "筠连"
+    slug: junlianxian
+  - name: "珙县"
+    slug: gongxian
+  - name: "兴文"
+    slug: xingwenxian
+  - name: "屏山"
+    slug: pingshanxian
+zg:
+  name: "自贡"
+  url: http://zg.58.com/
+  slug: zg
+  children:
+  - name: "自流井"
+    slug: ziliujing
+  - name: "大安"
+    slug: daanqu
+  - name: "贡井"
+    slug: gongjingqu
+  - name: "沿滩"
+    slug: yantanqu
+  - name: "荣县"
+    slug: rongxian
+  - name: "富顺"
+    slug: fsx
+  - name: "自贡周边"
+    slug: zigongzb
+ls:
+  name: "乐山"
+  url: http://ls.58.com/
+  slug: ls
+  children:
+  - name: "市中区"
+    slug: lsshizhong
+  - name: "五通桥"
+    slug: wutongqiao
+  - name: "沙湾"
+    slug: shawan
+  - name: "峨眉山"
+    slug: emeishan
+  - name: "犍为"
+    slug: jianwei
+  - name: "井研"
+    slug: jingyan
+  - name: "夹江"
+    slug: jiaj
+  - name: "马边"
+    slug: mab
+  - name: "沐川"
+    slug: muchuan
+  - name: "峨边"
+    slug: ebian
+  - name: "乐山周边"
+    slug: leshan
+luzhou:
+  name: "泸州"
+  url: http://luzhou.58.com/
+  slug: luzhou
+  children:
+  - name: "江阳"
+    slug: jiangyangqu
+  - name: "龙马潭"
+    slug: longmatanqu
+  - name: "纳溪"
+    slug: naxiqu
+  - name: "泸县"
+    slug: luxian
+  - name: "合江"
+    slug: hejiangxian
+  - name: "叙永"
+    slug: xuyongxian
+  - name: "古蔺"
+    slug: gulinxian
+  - name: "泸州周边"
+    slug: luzhouzb
+dazhou:
+  name: "达州"
+  url: http://dazhou.58.com/
+  slug: dazhou
+  children:
+  - name: "通川"
+    slug: tongchuanqu
+  - name: "万源"
+    slug: wanyuanshi
+  - name: "达县"
+    slug: daxian
+  - name: "宣汉"
+    slug: xuanhan
+  - name: "开江"
+    slug: kaijiang
+  - name: "大竹"
+    slug: dazu
+  - name: "渠县"
+    slug: qux
+  - name: "达州周边"
+    slug: dazhouzhoubian
+scnj:
+  name: "内江"
+  url: http://scnj.58.com/
+  slug: scnj
+  children:
+  - name: "东兴"
+    slug: dongxing
+  - name: "市中区"
+    slug: shizhong
+  - name: "威远"
+    slug: weiyuan
+  - name: "资中"
+    slug: zizhong
+  - name: "隆昌"
+    slug: longchang
+  - name: "其它"
+    slug: neijiangshi
+suining:
+  name: "遂宁"
+  url: http://suining.58.com/
+  slug: suining
+  children:
+  - name: "船山"
+    slug: chuanshanqu
+  - name: "安居"
+    slug: anjuqu
+  - name: "蓬溪"
+    slug: pengxixian
+  - name: "射洪"
+    slug: shehongxian
+  - name: "大英"
+    slug: dayingxian
+  - name: "遂宁周边"
+    slug: suiningzb
+panzhihua:
+  name: "攀枝花"
+  url: http://panzhihua.58.com/
+  slug: panzhihua
+  children:
+  - name: "东区"
+    slug: dongq
+  - name: "西区"
+    slug: xiq
+  - name: "仁和"
+    slug: renhequ
+  - name: "米易"
+    slug: miyixian
+  - name: "盐边"
+    slug: yanbianxian
+ms:
+  name: "眉山"
+  url: http://ms.58.com/
+  slug: ms
+  children:
+  - name: "东坡"
+    slug: dongpoqu
+  - name: "洪雅"
+    slug: hongyaxian
+  - name: "仁寿"
+    slug: renshouxian
+  - name: "丹棱"
+    slug: danlingxian
+  - name: "彭山"
+    slug: pengshanxian
+  - name: "青神"
+    slug: qingshenxian
+  - name: "眉山周边"
+    slug: meishanzhoubian
+ga:
+  name: "广安"
+  url: http://ga.58.com/
+  slug: ga
+  children:
+  - name: "广安"
+    slug: guangan
+  - name: "广安城南"
+    slug: guanganchengnan
+  - name: "广安城北"
+    slug: guanganchengbei
+  - name: "岳池"
+    slug: yuechixian
+  - name: "华蓥"
+    slug: huayingshi
+  - name: "邻水"
+    slug: linshuixian
+  - name: "武胜"
+    slug: wushengxian
+  - name: "其他"
+    slug: qitaq
+zy:
+  name: "资阳"
+  url: http://zy.58.com/
+  slug: zy
+  children:
+  - name: "雁江"
+    slug: yanjiangqu
+  - name: "安岳"
+    slug: anyuexian
+  - name: "乐至"
+    slug: lezhixian
+  - name: "简阳"
+    slug: jianyangshi
+liangshan:
+  name: "凉山"
+  url: http://liangshan.58.com/
+  slug: liangshan
+  children:
+  - name: "西昌"
+    slug: xichangshi
+  - name: "会东"
+    slug: huid
+  - name: "德昌"
+    slug: dechang
+  - name: "布拖"
+    slug: butuo
+  - name: "甘洛"
+    slug: ganluo
+  - name: "会理"
+    slug: huili
+  - name: "凉山周边"
+    slug: liangshanzhoubian
+guangyuan:
+  name: "广元"
+  url: http://guangyuan.58.com/
+  slug: guangyuan
+  children:
+  - name: "利州"
+    slug: lizhouqu
+  - name: "元坝"
+    slug: yuanbaqu
+  - name: "朝天"
+    slug: chaotianqu
+  - name: "旺苍"
+    slug: wangcangqu
+  - name: "青川"
+    slug: qingchuanxian
+  - name: "剑阁"
+    slug: jiangexian
+  - name: "苍溪"
+    slug: cangxixian
+  - name: "广元周边"
+    slug: guangyuanzhoubian
+ya:
+  name: "雅安"
+  url: http://ya.58.com/
+  slug: ya
+  children:
+  - name: "雨城"
+    slug: yuchengqu
+  - name: "芦山"
+    slug: lusx
+  - name: "名山"
+    slug: mingshanxian
+  - name: "天全"
+    slug: tianquanxian
+  - name: "荥经"
+    slug: xingjingxian
+  - name: "宝兴"
+    slug: baoxingxian
+  - name: "汉源"
+    slug: hanyuanxian
+  - name: "石棉"
+    slug: shimianxian
+  - name: "雅安周边"
+    slug: yaanzhoubian
+bazhong:
+  name: "巴中"
+  url: http://bazhong.58.com/
+  slug: bazhong
+  children:
+  - name: "巴州"
+    slug: bazhouqu
+  - name: "通江"
+    slug: tongjiangxian
+  - name: "南江"
+    slug: nanjiangxian
+  - name: "平昌"
+    slug: pingchangxian
+  - name: "恩阳"
+    slug: enyang
+  - name: "巴中周边"
+    slug: bazhongzhoubian
+ab:
+  name: "阿坝"
+  url: http://ab.58.com/
+  slug: ab
+  children:
+  - name: "马尔康"
+    slug: maerkangxian
+  - name: "汶川县"
+    slug: wenchuanxian
+  - name: "小金"
+    slug: xiaojinxian
+  - name: "茂县"
+    slug: maoxian
+  - name: "松潘"
+    slug: songpanxian
+  - name: "九寨沟"
+    slug: jiuzhaigouxian
+  - name: "阿坝周边"
+    slug: abazhoubian
+ganzi:
+  name: "甘孜"
+  url: http://ganzi.58.com/
+  slug: ganzi
+  children:
+  - name: "康定"
+    slug: kangdingxian
+  - name: "丹巴"
+    slug: danbaxian
+  - name: "泸定"
+    slug: ludingxian
+  - name: "德格"
+    slug: degexian
+  - name: "甘孜县"
+    slug: ganzixian
+  - name: "甘孜周边"
+    slug: ganzizhoubian
+km:
+  name: "昆明"
+  url: http://km.58.com/
+  slug: km
+  children:
+  - name: "盘龙"
+    slug: panlong
+  - name: "官渡"
+    slug: guandu
+  - name: "五华"
+    slug: wuhua
+  - name: "西山"
+    slug: xishan
+  - name: "安宁"
+    slug: anningshi
+  - name: "呈贡"
+    slug: chenggong
+  - name: "昆明周边"
+    slug: kunming
+qj:
+  name: "曲靖"
+  url: http://qj.58.com/
+  slug: qj
+  children:
+  - name: "麒麟"
+    slug: qilinqu
+  - name: "沾益"
+    slug: zhanyixian
+  - name: "宣威"
+    slug: xuanwushi
+  - name: "会泽"
+    slug: huizexian
+  - name: "罗平"
+    slug: luopingxian
+  - name: "富源"
+    slug: qjfuyuanxian
+  - name: "师宗"
+    slug: shizongxian
+  - name: "陆良"
+    slug: luliangxian
+  - name: "马龙"
+    slug: malongxian
+dali:
+  name: "大理"
+  url: http://dali.58.com/
+  slug: dali
+  children:
+  - name: "大理市"
+    slug: dalishi
+  - name: "漾濞"
+    slug: yangxianzizhi
+  - name: "祥云"
+    slug: xiangyunxian
+  - name: "宾川"
+    slug: binchuanxian
+  - name: "弥渡"
+    slug: miduxian
+  - name: "南涧"
+    slug: nanjianzizhi
+  - name: "巍山"
+    slug: weishanzizhi
+  - name: "永平"
+    slug: yongpingxian
+  - name: "云龙"
+    slug: yunlongxian
+  - name: "洱源"
+    slug: eryuanxian
+  - name: "剑川"
+    slug: jianchuanxian
+  - name: "鹤庆"
+    slug: heqingxian
+honghe:
+  name: "红河"
+  url: http://honghe.58.com/
+  slug: honghe
+  children:
+  - name: "蒙自"
+    slug: mengzixian
+  - name: "个旧"
+    slug: gejiushi
+  - name: "开远"
+    slug: kaiyuanshi
+  - name: "绿春"
+    slug: lvchunxian
+  - name: "建水"
+    slug: jianshuixian
+  - name: "石屏"
+    slug: shipingxian
+  - name: "弥勒"
+    slug: milexian
+  - name: "泸西"
+    slug: luxixian
+  - name: "元阳"
+    slug: yuanyangxian
+  - name: "红河县"
+    slug: honghexian
+  - name: "金平"
+    slug: jinpingxian
+  - name: "河口"
+    slug: hekouxian
+  - name: "屏边"
+    slug: pingbianxian
+yx:
+  name: "玉溪"
+  url: http://yx.58.com/
+  slug: yx
+  children:
+  - name: "红塔"
+    slug: hongta
+  - name: "华宁"
+    slug: huaning
+  - name: "澄江"
+    slug: chengjiang
+  - name: "易门"
+    slug: yimen
+  - name: "通海"
+    slug: tonghai
+  - name: "江川"
+    slug: jiangchuan
+  - name: "元江"
+    slug: yuanjiang
+  - name: "峨山"
+    slug: eshanxian
+  - name: "新平"
+    slug: xinpingxian
+  - name: "其它"
+    slug: yuxi
+lj:
+  name: "丽江"
+  url: http://lj.58.com/
+  slug: lj
+  children:
+  - name: "古城"
+    slug: guchengqu
+  - name: "永胜"
+    slug: yongshengxian
+  - name: "华坪"
+    slug: huapingxian
+  - name: "玉龙"
+    slug: yulongxian
+  - name: "宁蒗"
+    slug: ninglangxian
+ws:
+  name: "文山"
+  url: http://ws.58.com/
+  slug: ws
+  children:
+  - name: "文山"
+    slug: wenshanxian
+  - name: "砚山"
+    slug: yanshanqu
+  - name: "西畴"
+    slug: xichouxian
+  - name: "麻栗坡"
+    slug: malipo
+  - name: "马关"
+    slug: maguanxian
+  - name: "丘北"
+    slug: qiubeixian
+  - name: "广南"
+    slug: guangnanxian
+  - name: "富宁"
+    slug: funingqu
+cx:
+  name: "楚雄"
+  url: http://cx.58.com/
+  slug: cx
+  children:
+  - name: "楚雄"
+    slug: chuxiongshi
+  - name: "南华"
+    slug: nanhuaxian
+  - name: "禄丰"
+    slug: lufengxian
+  - name: "大姚"
+    slug: dayaoxian
+  - name: "姚安"
+    slug: yaoanxian
+  - name: "永仁"
+    slug: yongrenxian
+  - name: "牟定"
+    slug: moudingxian
+  - name: "元谋"
+    slug: yuanmouxian
+  - name: "双柏"
+    slug: shuangbaixian
+  - name: "武定"
+    slug: wudingxian
+bn:
+  name: "西双版纳"
+  url: http://bn.58.com/
+  slug: bn
+  children:
+  - name: "景洪"
+    slug: jinggongshi
+  - name: "勐海"
+    slug: menghaixian
+  - name: "勐腊"
+    slug: menglaxian
+  - name: "西双版纳周边"
+    slug: xishuangbannazhoubian
+zt:
+  name: "昭通"
+  url: http://zt.58.com/
+  slug: zt
+  children:
+  - name: "昭阳"
+    slug: zhaoyangqu
+  - name: "巧家"
+    slug: qiaojiaxian
+  - name: "鲁甸"
+    slug: ludianxian
+  - name: "永善"
+    slug: yongshanxian
+  - name: "大关"
+    slug: daguanxian
+  - name: "彝良"
+    slug: yiliangxian
+  - name: "昭通周边"
+    slug: zhaotongzhoubian
+dh:
+  name: "德宏"
+  url: http://dh.58.com/
+  slug: dh
+  children:
+  - name: "芒市"
+    slug: dhms
+  - name: "潞西"
+    slug: luxishi
+  - name: "瑞丽"
+    slug: ruilishi
+  - name: "陇川"
+    slug: longchuanxian
+  - name: "梁河"
+    slug: lianghexian
+  - name: "盈江"
+    slug: yingjiangxian
+  - name: "德宏周边"
+    slug: dehongzhoubian
+pe:
+  name: "普洱"
+  url: http://pe.58.com/
+  slug: pe
+  children:
+  - name: "思茅"
+    slug: simaoqu
+  - name: "宁洱"
+    slug: ningerxian
+  - name: "墨江"
+    slug: mojiangxian
+  - name: "景东"
+    slug: jingdongxian
+  - name: "景谷"
+    slug: jingguxian
+  - name: "镇沅"
+    slug: zhenyuanxian
+  - name: "普洱周边"
+    slug: puerzhoubian
+bs:
+  name: "保山"
+  url: http://bs.58.com/
+  slug: bs
+  children:
+  - name: "隆阳"
+    slug: longyangqu
+  - name: "昌宁"
+    slug: changningxian
+  - name: "施甸"
+    slug: shidianxian
+  - name: "龙陵"
+    slug: longlingxian
+  - name: "腾冲"
+    slug: tengchongxian
+lincang:
+  name: "临沧"
+  url: http://lincang.58.com/
+  slug: lincang
+  children:
+  - name: "临翔"
+    slug: linx
+  - name: "云县"
+    slug: yunx
+  - name: "凤庆"
+    slug: fengqing
+  - name: "永德"
+    slug: yongde
+  - name: "镇康"
+    slug: zhentang
+  - name: "耿马"
+    slug: gengma
+  - name: "沧源"
+    slug: cangyuan
+  - name: "双江"
+    slug: shuanjiang
+  - name: "临沧周边"
+    slug: lincangzhoubian
+diqing:
+  name: "迪庆"
+  url: http://diqing.58.com/
+  slug: diqing
+  children:
+  - name: "香格里拉"
+    slug: xianggelilaxian
+  - name: "德钦"
+    slug: deqinxian
+  - name: "维西傈"
+    slug: weixilixian
+  - name: "迪庆周边"
+    slug: diqingzhoubian
+nujiang:
+  name: "怒江"
+  url: http://nujiang.58.com/
+  slug: nujiang
+  children:
+  - name: "泸水"
+    slug: lushuixian
+  - name: "碧江"
+    slug: bijiangxian
+  - name: "福贡"
+    slug: fugongxian
+  - name: "贡山"
+    slug: gongshanxian
+  - name: "兰坪县"
+    slug: nujianglpx
+  - name: "怒江周边"
+    slug: nujiangzhoubian
+gy:
+  name: "贵阳"
+  url: http://gy.58.com/
+  slug: gy
+  children:
+  - name: "云岩"
+    slug: yunyan
+  - name: "南明"
+    slug: nanming
+  - name: "花溪"
+    slug: huaxi
+  - name: "白云"
+    slug: baiyunqv
+  - name: "小河"
+    slug: xiaohequ
+  - name: "乌当"
+    slug: wudang
+  - name: "金阳新区"
+    slug: jinyangxinqu
+  - name: "清镇"
+    slug: qingzhen
+  - name: "小河片"
+    slug: xiaohepian
+  - name: "贵阳周边"
+    slug: guiyang
+zunyi:
+  name: "遵义"
+  url: http://zunyi.58.com/
+  slug: zunyi
+  children:
+  - name: "红花岗"
+    slug: honghuagangqu
+  - name: "汇川"
+    slug: huichuanqu
+  - name: "赤水"
+    slug: chishuishi
+  - name: "仁怀"
+    slug: renhuaishi
+  - name: "南白"
+    slug: zunyixian
+  - name: "桐梓"
+    slug: tongzixian
+  - name: "绥阳"
+    slug: suiyangxian
+  - name: "正安"
+    slug: zhenganxian
+  - name: "湄潭"
+    slug: meitanxian
+  - name: "凤冈"
+    slug: fenggangxian
+  - name: "余庆"
+    slug: yuqingxian
+  - name: "习水"
+    slug: xishuix
+  - name: "道真"
+    slug: daozhenxian
+  - name: "务川"
+    slug: wuchuanxian
+qdn:
+  name: "黔东南"
+  url: http://qdn.58.com/
+  slug: qdn
+  children:
+  - name: "凯里"
+    slug: kaili
+  - name: "黄平"
+    slug: huangping
+  - name: "镇远"
+    slug: zhenyuan
+  - name: "三穗"
+    slug: sansui
+  - name: "台江"
+    slug: taijiangx
+  - name: "剑河"
+    slug: jianhe
+  - name: "岑巩"
+    slug: cengong
+  - name: "锦屏"
+    slug: jinpingx
+  - name: "从江"
+    slug: congjiang
+  - name: "榕江"
+    slug: rongjiang
+  - name: "黎平"
+    slug: liping
+  - name: "丹寨"
+    slug: danzhai
+  - name: "天柱"
+    slug: tianzhux
+  - name: "麻江"
+    slug: majiang
+  - name: "雷山"
+    slug: leishan
+  - name: "施秉"
+    slug: shibing
+  - name: "黔东南周边"
+    slug: qdnzhoubian
+qn:
+  name: "黔南"
+  url: http://qn.58.com/
+  slug: qn
+  children:
+  - name: "都匀"
+    slug: duyun
+  - name: "福泉"
+    slug: fuquan
+  - name: "荔波"
+    slug: libo
+  - name: "贵定"
+    slug: guiding
+  - name: "独山"
+    slug: dushan
+  - name: "瓮安"
+    slug: wengan
+  - name: "平塘"
+    slug: pingtang
+  - name: "罗甸"
+    slug: luodian
+  - name: "长顺"
+    slug: changshun
+  - name: "龙里"
+    slug: longli
+  - name: "惠水"
+    slug: huishui
+  - name: "三都"
+    slug: sandushuizu
+  - name: "黔南周边"
+    slug: qiannanzb
+lps:
+  name: "六盘水"
+  url: http://lps.58.com/
+  slug: lps
+  children:
+  - name: "钟山"
+    slug: zhongshanq
+  - name: "六枝特区"
+    slug: liuzhi
+  - name: "盘县"
+    slug: panx
+  - name: "水城"
+    slug: shuicheng
+  - name: "六盘水周边"
+    slug: liupanshuizb
+bijie:
+  name: "毕节"
+  url: http://bijie.58.com/
+  slug: bijie
+  children:
+  - name: "大方"
+    slug: dafang
+  - name: "黔西"
+    slug: qianxi
+  - name: "金沙"
+    slug: jinshax
+  - name: "织金"
+    slug: zhijin
+  - name: "纳雍"
+    slug: nayong
+  - name: "赫章"
+    slug: hezhang
+  - name: "威宁"
+    slug: weining
+  - name: "七星关"
+    slug: bjqxg
+  - name: "百里杜鹃"
+    slug: bjbldj
+  - name: "毕节周边"
+    slug: bijiezhoubian
+tr:
+  name: "铜仁"
+  url: http://tr.58.com/
+  slug: tr
+  children:
+  - name: "万山"
+    slug: wangshan
+  - name: "江口"
+    slug: jiangkou
+  - name: "碧江"
+    slug: trbj
+  - name: "石阡"
+    slug: shiqian
+  - name: "思南"
+    slug: sinan
+  - name: "德江"
+    slug: dejiang
+  - name: "松桃"
+    slug: songtao
+  - name: "玉屏"
+    slug: yuping
+  - name: "印江"
+    slug: yinjiang
+  - name: "沿河"
+    slug: yanhe
+  - name: "铜仁周边"
+    slug: tongrenzb
+anshun:
+  name: "安顺"
+  url: http://anshun.58.com/
+  slug: anshun
+  children:
+  - name: "西秀"
+    slug: xixiuqu
+  - name: "平坝"
+    slug: pingbaxian
+  - name: "普定县"
+    slug: pudingxian
+  - name: "关岭"
+    slug: asguanling
+  - name: "紫云"
+    slug: asziyun
+  - name: "镇宁"
+    slug: aszhenning
+  - name: "安顺周边"
+    slug: anshunzhoubian
+qxn:
+  name: "黔西南"
+  url: http://qxn.58.com/
+  slug: qxn
+  children:
+  - name: "兴义"
+    slug: xingyi
+  - name: "兴仁"
+    slug: xingren
+  - name: "晴隆"
+    slug: qinglongx
+  - name: "贞丰"
+    slug: zhenfeng
+  - name: "望谟"
+    slug: wangmo
+  - name: "册亨"
+    slug: ceheng
+  - name: "安龙"
+    slug: anlong
+  - name: "普安"
+    slug: puan
+  - name: "黔西南周边"
+    slug: qianxinanzb
+lasa:
+  name: "拉萨"
+  url: http://lasa.58.com/
+  slug: lasa
+  children:
+  - name: "城关"
+    slug: chengguan
+  - name: "尼木"
+    slug: nimu
+  - name: "林周"
+    slug: linzhouxian
+  - name: "达孜"
+    slug: dazi
+  - name: "曲水"
+    slug: qushui
+  - name: "当雄"
+    slug: dangxiong
+  - name: "墨竹工卡"
+    slug: mozhugongka
+  - name: "堆龙德庆"
+    slug: duilongdeqing
+  - name: "其它"
+    slug: lasaqita
+rkz:
+  name: "日喀则"
+  url: http://rkz.58.com/
+  slug: rkz
+  children:
+  - name: "日喀则市"
+    slug: rkzrkzs
+  - name: "昂仁"
+    slug: angrenxian
+  - name: "白朗"
+    slug: bailangxian
+  - name: "定结"
+    slug: dingjiexian
+  - name: "定日"
+    slug: dingrixian
+  - name: "岗巴"
+    slug: gangbaxian
+  - name: "日喀则周边"
+    slug: rikezezhoubian
+sn:
+  name: "山南"
+  url: http://sn.58.com/
+  slug: sn
+  children:
+  - name: "乃东"
+    slug: naidongxian
+  - name: "扎囊"
+    slug: zhanangxian
+  - name: "贡嘎"
+    slug: gonggaxian
+  - name: "桑日"
+    slug: sangrixian
+  - name: "琼结"
+    slug: qiongjiexian
+  - name: "山南周边"
+    slug: shannanzhoubian
+linzhi:
+  name: "林芝"
+  url: http://linzhi.58.com/
+  slug: linzhi
+  children:
+  - name: "八一镇"
+    slug: bayizhen
+  - name: "林芝"
+    slug: linzhixian
+  - name: "墨脱"
+    slug: motuoxian
+  - name: "朗县"
+    slug: langxian
+  - name: "察隅"
+    slug: chayuxian
+  - name: "波密"
+    slug: bomixian
+  - name: "工布江达"
+    slug: gongbujiangdax
+  - name: "米林"
+    slug: milinxian
+  - name: "林芝周边"
+    slug: linzhizb
+changdu:
+  name: "昌都"
+  url: http://changdu.58.com/
+  slug: changdu
+  children:
+  - name: "昌都"
+    slug: changduxian
+  - name: "江达"
+    slug: jiangdaxian
+  - name: "贡觉"
+    slug: gongjuexian
+  - name: "类乌齐"
+    slug: leiwuqixian
+  - name: "丁青"
+    slug: dingqingxian
+  - name: "昌都周边"
+    slug: changduzhoubian
+nq:
+  name: "那曲"
+  url: http://nq.58.com/
+  slug: nq
+  children:
+  - name: "那曲镇"
+    slug: naquzhen
+  - name: "罗玛镇"
+    slug: luomazhen
+  - name: "古露镇"
+    slug: guluzhen
+  - name: "比如县"
+    slug: nqbrx
+  - name: "嘉黎县"
+    slug: nqjlx
+  - name: "安多县"
+    slug: nqadx
+  - name: "聂荣县"
+    slug: nqnrx
+  - name: "申扎县"
+    slug: nqszx
+  - name: "索县"
+    slug: nqsx
+  - name: "班戈县"
+    slug: nqbgx
+  - name: "巴青县"
+    slug: nqbqx
+  - name: "尼玛县"
+    slug: nqnmx
+  - name: "那曲周边"
+    slug: naquzhoubian
+al:
+  name: "阿里"
+  url: http://al.58.com/
+  slug: al
+  children:
+  - name: "改则"
+    slug: aligaize
+  - name: "普兰"
+    slug: pulanxian
+  - name: "日土区"
+    slug: rituqu
+  - name: "札达"
+    slug: zhadaxian
+  - name: "噶尔"
+    slug: gaerxian
+  - name: "革吉"
+    slug: gejixian
+  - name: "措勤"
+    slug: cuoqinxian
+  - name: "阿里周边"
+    slug: alizhoubian
+sjz:
+  name: "石家庄"
+  url: http://sjz.58.com/
+  slug: sjz
+  children:
+  - name: "桥西"
+    slug: qiaoxi
+  - name: "桥东"
+    slug: qiaodong
+  - name: "裕华"
+    slug: yuhua
+  - name: "长安"
+    slug: changan
+  - name: "新华"
+    slug: sjzxinhua
+  - name: "井陉矿区"
+    slug: jingjingkuangqu
+  - name: "正定"
+    slug: zhengdingxian
+  - name: "开发区"
+    slug: sjzkaifaqu
+  - name: "栾城"
+    slug: luanchengxian
+  - name: "藁城"
+    slug: gaocheng
+  - name: "鹿泉"
+    slug: luquan
+  - name: "石家庄周边"
+    slug: shijiazhuang
+bd:
+  name: "保定"
+  url: http://bd.58.com/
+  slug: bd
+  children:
+  - name: "高开"
+    slug: gaokaiqu
+  - name: "新市"
+    slug: xinshiqu
+  - name: "北市"
+    slug: beishi
+  - name: "南市"
+    slug: nanshiqu
+  - name: "安国"
+    slug: anguo
+  - name: "涿州"
+    slug: zhuozhou
+  - name: "高碑店"
+    slug: gaobeidian
+  - name: "定州"
+    slug: dingzhoushi
+  - name: "白沟"
+    slug: bdbg
+  - name: "保定周边"
+    slug: baoding
+ts:
+  name: "唐山"
+  url: http://ts.58.com/
+  slug: ts
+  children:
+  - name: "路北"
+    slug: lubei
+  - name: "路南"
+    slug: lunan
+  - name: "遵化市"
+    slug: zunhua
+  - name: "开平"
+    slug: kaiping
+  - name: "迁安市"
+    slug: qianan
+  - name: "迁西"
+    slug: qianxixian
+  - name: "古冶"
+    slug: guye
+  - name: "丰南"
+    slug: fengnan
+  - name: "丰润"
+    slug: fengrun
+  - name: "高新区"
+    slug: gxq
+  - name: "南堡开发区"
+    slug: nanbaoqu
+  - name: "曹妃甸"
+    slug: caofeidian
+  - name: "海港开发区"
+    slug: haigangqu
+  - name: "其他"
+    slug: tangshan
+lf:
+  name: "廊坊"
+  url: http://lf.58.com/
+  slug: lf
+  children:
+  - name: "广阳"
+    slug: lfguangyang
+  - name: "安次"
+    slug: anci
+  - name: "开发区"
+    slug: lfkaifaqu
+  - name: "三河"
+    slug: sanhe
+  - name: "霸州"
+    slug: bazhou
+  - name: "固安"
+    slug: lfguan
+  - name: "燕郊"
+    slug: lfyanjiao
+  - name: "香河"
+    slug: xianghe
+  - name: "永清"
+    slug: yongqing
+  - name: "大厂"
+    slug: dachang
+  - name: "文安"
+    slug: lfwenan
+  - name: "大城"
+    slug: dachengxian
+  - name: "其他"
+    slug: langfang
+hd:
+  name: "邯郸"
+  url: http://hd.58.com/
+  slug: hd
+  children:
+  - name: "丛台"
+    slug: congtai
+  - name: "邯山"
+    slug: hanshan
+  - name: "复兴"
+    slug: fuxing
+  - name: "高开区"
+    slug: gkq
+  - name: "峰峰矿区"
+    slug: fengfengkuang
+  - name: "武安"
+    slug: wuan
+  - name: "邯郸县"
+    slug: handanxian
+  - name: "魏县"
+    slug: weix
+  - name: "成安县"
+    slug: cax
+  - name: "大名县"
+    slug: dmx
+  - name: "涉县"
+    slug: shexian
+  - name: "肥乡县"
+    slug: feixx
+  - name: "永年县"
+    slug: yongnian
+  - name: "临漳县"
+    slug: linzhang
+  - name: "磁县"
+    slug: cixian
+  - name: "邯郸周边"
+    slug: handan
+qhd:
+  name: "秦皇岛"
+  url: http://qhd.58.com/
+  slug: qhd
+  children:
+  - name: "海港"
+    slug: haigang
+  - name: "北戴河"
+    slug: beidaihe
+  - name: "山海关"
+    slug: shanhaiguan
+  - name: "昌黎"
+    slug: changli
+  - name: "抚宁"
+    slug: funing
+  - name: "卢龙"
+    slug: lulong
+  - name: "青龙"
+    slug: qinglong
+  - name: "开发区"
+    slug: kfq
+  - name: "其他"
+    slug: qinhuangdao
+cangzhou:
+  name: "沧州"
+  url: http://cangzhou.58.com/
+  slug: cangzhou
+  children:
+  - name: "新华"
+    slug: czxinhua
+  - name: "沧县"
+    slug: cangxian
+  - name: "运河"
+    slug: yunhe
+  - name: "南皮"
+    slug: nanpi
+  - name: "任丘"
+    slug: renqiu
+  - name: "青县"
+    slug: qingxian
+  - name: "河间"
+    slug: hejian
+  - name: "肃宁"
+    slug: suning
+  - name: "黄骅"
+    slug: huanghua
+  - name: "东光"
+    slug: dongguang
+  - name: "泊头"
+    slug: botou
+  - name: "海兴"
+    slug: haixing
+  - name: "盐山"
+    slug: yanshanxian
+  - name: "吴桥"
+    slug: wuqiao
+  - name: "孟村"
+    slug: mengcun
+  - name: "其他"
+    slug: cangzhoushi
+  - name: "献县"
+    slug: czxianxian
+xt:
+  name: "邢台"
+  url: http://xt.58.com/
+  slug: xt
+  children:
+  - name: "桥东"
+    slug: qiaodongqu
+  - name: "桥西"
+    slug: qiaoxiqu
+  - name: "南宫"
+    slug: nangong
+  - name: "沙河"
+    slug: shaheshi
+  - name: "清河"
+    slug: xtqinghe
+  - name: "南和"
+    slug: nanhe
+  - name: "平乡"
+    slug: pingxiangxian
+  - name: "邢台县"
+    slug: xingtaixian
+  - name: "其他"
+    slug: xingtai
+hs:
+  name: "衡水"
+  url: http://hs.58.com/
+  slug: hs
+  children:
+  - name: "桃城"
+    slug: taocheng
+  - name: "深州"
+    slug: hsshenzhou
+  - name: "冀州"
+    slug: jizhou
+  - name: "安平"
+    slug: anping
+  - name: "故城"
+    slug: guchengxian
+  - name: "阜城"
+    slug: fucheng
+  - name: "枣强"
+    slug: zaoqiang
+  - name: "景县"
+    slug: jingxian
+  - name: "武强"
+    slug: wuqiang
+  - name: "饶阳"
+    slug: raoyang
+  - name: "开发区"
+    slug: kaifq
+  - name: "武邑县"
+    slug: hswy
+  - name: "其他"
+    slug: hengshui
+zjk:
+  name: "张家口"
+  url: http://zjk.58.com/
+  slug: zjk
+  children:
+  - name: "桥东"
+    slug: zjkqiaodong
+  - name: "桥西"
+    slug: zjkqiaoxi
+  - name: "宣化区"
+    slug: xuanhua
+  - name: "高新区"
+    slug: zjkgaoxin
+  - name: "张北县"
+    slug: zhangbeixian
+  - name: "怀来"
+    slug: huailai
+  - name: "万全"
+    slug: wanquanxian
+  - name: "蔚县"
+    slug: weixian
+  - name: "宣化县"
+    slug: xuanhuaxian
+  - name: "其他"
+    slug: zhangjiakou
+chengde:
+  name: "承德"
+  url: http://chengde.58.com/
+  slug: chengde
+  children:
+  - name: "承德市"
+    slug: chengdeshi
+  - name: "双桥"
+    slug: cdshuangqiao
+  - name: "承德县"
+    slug: chengdexian
+  - name: "滦平"
+    slug: luanpingxian
+  - name: "围场"
+    slug: weichangxian
+  - name: "兴隆"
+    slug: xinglongxian
+  - name: "丰宁"
+    slug: fengningxian
+  - name: "平泉"
+    slug: pingquanxian
+  - name: "隆化"
+    slug: longhuaxian
+  - name: "宽城"
+    slug: kuanchengxian
+  - name: "双滦"
+    slug: shuangluan
+  - name: "营子"
+    slug: yingzi
+  - name: "开发区"
+    slug: cdkaifaqu
+  - name: "承德周边"
+    slug: chengdezb
+dingzhou:
+  name: "定州"
+  url: http://dingzhou.58.com/
+  slug: dingzhou
+  children:
+  - name: "北城"
+    slug: beichengqu
+  - name: "南城"
+    slug: nanchengqu
+  - name: "西城"
+    slug: xichengqu
+  - name: "其他"
+    slug: dingzhouqita
+gt:
+  name: "馆陶"
+  url: http://gt.58.com/
+  slug: gt
+  children:
+  - name: "馆陶"
+    slug: guantaoxian
+  - name: "馆陶镇"
+    slug: guantaozhen
+  - name: "魏僧寨镇"
+    slug: weizengzhai
+  - name: "柴堡镇"
+    slug: chaibuzhen
+  - name: "房寨镇"
+    slug: fangzhaizhen
+  - name: "王桥乡"
+    slug: wangqiaoxiang
+  - name: "寿山寺乡"
+    slug: shoushansi
+  - name: "南徐村乡"
+    slug: nanxucun
+  - name: "路桥乡"
+    slug: luqiaoxiang
+zhangbei:
+  name: "张北"
+  url: http://zhangbei.58.com/
+  slug: zhangbei
+  children:
+  - name: "张北"
+    slug: zhangbeizhen
+  - name: "公会"
+    slug: gonghui
+  - name: "二台"
+    slug: ertai
+  - name: "大囫囵"
+    slug: dahulun
+  - name: "台路沟"
+    slug: tailugou
+  - name: "油篓沟"
+    slug: youlougou
+  - name: "馒头营"
+    slug: mantouying
+  - name: "二泉井"
+    slug: erquanjing
+  - name: "单晶河"
+    slug: danjinghe
+  - name: "大河"
+    slug: dahe
+  - name: "海流图"
+    slug: hailiutu
+  - name: "两面井"
+    slug: liangmianjing
+  - name: "张北周边"
+    slug: zhangbeizb
+zx:
+  name: "赵县"
+  url: http://zx.58.com/
+  slug: zx
+  children:
+  - name: "赵州镇"
+    slug: zhaozhouzhen
+  - name: "范庄镇"
+    slug: fanzhuangzhen
+  - name: "北王里镇"
+    slug: beiwanglizhen
+  - name: "新寨店镇"
+    slug: xinzhaidianzhen
+  - name: "韩村镇"
+    slug: hancunzhen
+  - name: "南柏舍镇"
+    slug: nanbaishezhen
+  - name: "沙河店镇"
+    slug: shahedianzhen
+  - name: "前大章乡"
+    slug: qiandazhangxiang
+  - name: "谢庄乡"
+    slug: xiezhuangxiang
+  - name: "高村乡"
+    slug: gaocunxiang
+  - name: "王西章乡"
+    slug: wangxizhangxiang
+zd:
+  name: "正定"
+  url: http://zd.58.com/
+  slug: zd
+  children:
+  - name: "正定镇"
+    slug: zhengding
+  - name: "新城铺镇"
+    slug: xinchengpu
+  - name: "诸福屯镇"
+    slug: zhufutun
+  - name: "新安镇"
+    slug: xinan
+  - name: "南楼乡"
+    slug: nanlou
+  - name: "北早现乡"
+    slug: beizaoxian
+  - name: "曲阳桥乡"
+    slug: quyangqiao
+  - name: "南牛乡"
+    slug: nanniu
+  - name: "其他"
+    slug: zhengdingshi
+ty:
+  name: "太原"
+  url: http://ty.58.com/
+  slug: ty
+  children:
+  - name: "小店"
+    slug: xiaodian
+  - name: "迎泽"
+    slug: yingze
+  - name: "杏花岭"
+    slug: xinghualing
+  - name: "万柏林"
+    slug: wanbolin
+  - name: "尖草坪"
+    slug: jiancaoping
+  - name: "晋源"
+    slug: jinyuan
+  - name: "太原周边"
+    slug: taiyuan
+linfen:
+  name: "临汾"
+  url: http://linfen.58.com/
+  slug: linfen
+  children:
+  - name: "尧都"
+    slug: yaodou
+  - name: "侯马"
+    slug: houma
+  - name: "霍州"
+    slug: huozhou
+  - name: "曲沃"
+    slug: quwo
+  - name: "翼城"
+    slug: lfyicheng
+  - name: "襄汾"
+    slug: xiangfen
+  - name: "洪洞"
+    slug: hongdong
+  - name: "古县"
+    slug: lfguxian
+  - name: "其它"
+    slug: linfenshi
+dt:
+  name: "大同"
+  url: http://dt.58.com/
+  slug: dt
+  children:
+  - name: "天镇"
+    slug: tianzhenxian
+  - name: "广灵"
+    slug: guanglingxian
+  - name: "灵丘"
+    slug: lingqiuxian
+  - name: "大同"
+    slug: datongqu
+  - name: "阳高"
+    slug: yanggaoxian
+  - name: "左云"
+    slug: zuoyunxian
+  - name: "浑源"
+    slug: hunyuanxian
+  - name: "城区"
+    slug: chengquxian
+  - name: "南郊"
+    slug: nanjiaoqu
+  - name: "矿区"
+    slug: kuangqu
+  - name: "新荣"
+    slug: xinrongqu
+yuncheng:
+  name: "运城"
+  url: http://yuncheng.58.com/
+  slug: yuncheng
+  children:
+  - name: "盐湖"
+    slug: yanhu
+  - name: "河津"
+    slug: hejin
+  - name: "永济"
+    slug: yongji
+  - name: "芮城"
+    slug: ruicheng
+  - name: "临猗"
+    slug: yclinyi
+  - name: "万荣"
+    slug: wanrong
+  - name: "稷山"
+    slug: jishan
+  - name: "闻喜"
+    slug: wenxi
+  - name: "新绛"
+    slug: xinjiangxian
+  - name: "其它"
+    slug: yunchengshi
+jz:
+  name: "晋中"
+  url: http://jz.58.com/
+  slug: jz
+  children:
+  - name: "榆次"
+    slug: yuciqu
+  - name: "介休"
+    slug: jiexiushi
+  - name: "开发区"
+    slug: kaifaquq
+  - name: "太谷"
+    slug: taiguxian
+  - name: "祁县"
+    slug: qixian
+  - name: "平遥"
+    slug: pingyaoxian
+  - name: "灵石"
+    slug: lingshixian
+  - name: "寿阳"
+    slug: shouyangxian
+  - name: "昔阳"
+    slug: xiyangxian
+  - name: "和顺"
+    slug: heshunxian
+  - name: "左权"
+    slug: zuoquanxian
+  - name: "榆社"
+    slug: yushexian
+changzhi:
+  name: "长治"
+  url: http://changzhi.58.com/
+  slug: changzhi
+  children:
+  - name: "郊区"
+    slug: jiaoqushi
+  - name: "城区"
+    slug: chengqushi
+  - name: "潞城"
+    slug: luchengshi
+  - name: "长治县"
+    slug: changzhixian
+  - name: "襄垣"
+    slug: xiangyuanxian
+  - name: "屯留"
+    slug: tunliuxian
+  - name: "平顺"
+    slug: pingshunxian
+  - name: "黎城"
+    slug: lichengxian
+  - name: "壶关"
+    slug: huguanxian
+  - name: "长子"
+    slug: zhangzixian
+  - name: "武乡"
+    slug: wuxiangxian
+  - name: "沁县"
+    slug: qinxian
+  - name: "沁源"
+    slug: qinyuanxian
+jincheng:
+  name: "晋城"
+  url: http://jincheng.58.com/
+  slug: jincheng
+  children:
+  - name: "城区"
+    slug: chengqu
+  - name: "高平"
+    slug: gaoping
+  - name: "开发区"
+    slug: kaifa
+  - name: "泽州"
+    slug: zezhou
+  - name: "阳城"
+    slug: yangcheng
+  - name: "陵川"
+    slug: lingchuan
+  - name: "沁水"
+    slug: qinshui
+  - name: "其他"
+    slug: jinchengshi
+yq:
+  name: "阳泉"
+  url: http://yq.58.com/
+  slug: yq
+  children:
+  - name: "城区"
+    slug: chengquq
+  - name: "矿区"
+    slug: kuangquq
+  - name: "郊区"
+    slug: jiaoquq
+  - name: "平定"
+    slug: pingdingxian
+  - name: "盂县"
+    slug: yuxian
+  - name: "市辖区"
+    slug: yqsxq
+lvliang:
+  name: "吕梁"
+  url: http://lvliang.58.com/
+  slug: lvliang
+  children:
+  - name: "离石"
+    slug: lishi
+  - name: "孝义"
+    slug: xiaoyi
+  - name: "汾阳"
+    slug: fenyang
+  - name: "柳林"
+    slug: liulin
+  - name: "文水"
+    slug: wenshui
+  - name: "交城"
+    slug: jiaocheng
+  - name: "中阳"
+    slug: zhongyang
+  - name: "兴县"
+    slug: lvliangxx
+  - name: "临县"
+    slug: lvlianglx
+  - name: "石楼县"
+    slug: lvliangslx
+  - name: "方山县"
+    slug: lvliangfsx
+  - name: "交口县"
+    slug: lvliangjkx
+  - name: "岚县"
+    slug: lvlianglanxian
+  - name: "其他"
+    slug: lvliangshi
+xinzhou:
+  name: "忻州"
+  url: http://xinzhou.58.com/
+  slug: xinzhou
+  children:
+  - name: "忻府"
+    slug: xinfu
+  - name: "定襄"
+    slug: dingxiang
+  - name: "原平"
+    slug: yuanping
+  - name: "五台"
+    slug: wutaixian
+  - name: "代县"
+    slug: daixian
+  - name: "繁峙"
+    slug: fanzhi
+  - name: "宁武"
+    slug: ningwu
+  - name: "静乐"
+    slug: jingle
+  - name: "其他"
+    slug: xinzhouqita
+shuozhou:
+  name: "朔州"
+  url: http://shuozhou.58.com/
+  slug: shuozhou
+  children:
+  - name: "朔城"
+    slug: shuocheng
+  - name: "平鲁"
+    slug: pingluq
+  - name: "山阴"
+    slug: shanyin
+  - name: "应县"
+    slug: yingx
+  - name: "右玉"
+    slug: youyu
+  - name: "怀仁"
+    slug: huairen
+  - name: "朔州周边"
+    slug: shuozhouzhoubian
+linyixian:
+  name: "临猗"
+  url: http://linyixian.58.com/
+  slug: linyixian
+  children:
+  - name: "猗氏镇"
+    slug: yishizhen
+  - name: "嵋阳镇"
+    slug: emeizhen
+  - name: "楚候乡"
+    slug: chuhouxiang
+  - name: "庙上乡"
+    slug: miaoshangxiang
+  - name: "七级镇"
+    slug: qijizhen
+  - name: "临晋镇"
+    slug: linjinzhen
+  - name: "东张镇"
+    slug: dongzhangzhen
+  - name: "角杯乡"
+    slug: jiaobeixiang
+  - name: "孙吉镇"
+    slug: sunjizhen
+  - name: "北辛乡"
+    slug: beixinxiang
+  - name: "耽子镇"
+    slug: danzizhen
+  - name: "北景乡"
+    slug: beijingxiang
+  - name: "三管镇"
+    slug: sanguanzhen
+qingxu:
+  name: "清徐"
+  url: http://qingxu.58.com/
+  slug: qingxu
+  children:
+  - name: "清源镇"
+    slug: qingyuanzhen
+  - name: "徐沟镇"
+    slug: xugouzhen
+  - name: "东于镇"
+    slug: dongyuzhen
+  - name: "盂封镇"
+    slug: yufengzhen
+  - name: "马峪乡"
+    slug: mayuxiang
+  - name: "柳杜乡"
+    slug: liuduxiang
+  - name: "西谷乡"
+    slug: xiguxiang
+  - name: "王答乡"
+    slug: wangdaxiang
+  - name: "集义乡"
+    slug: jiyixiang
+  - name: "杨房乡"
+    slug: yangfangxiang
+  - name: "高花乡"
+    slug: gaohuaxiang
+  - name: "清徐周边"
+    slug: qingxuzb
+hu:
+  name: "呼和浩特"
+  url: http://hu.58.com/
+  slug: hu
+  children:
+  - name: "新城"
+    slug: xinchengqu
+  - name: "赛罕"
+    slug: saihan
+  - name: "回民"
+    slug: huimin
+  - name: "玉泉"
+    slug: yuquan
+  - name: "如意开发区"
+    slug: ruyi
+  - name: "金桥开发区"
+    slug: jinqiaokfq
+  - name: "金川开发区"
+    slug: jinchuan
+  - name: "金山开发区"
+    slug: jinshankfq
+  - name: "土默特左"
+    slug: tmtz
+  - name: "托克托"
+    slug: tkt
+  - name: "和林格尔"
+    slug: hlge
+  - name: "清水河"
+    slug: qsh
+  - name: "武川"
+    slug: wc
+  - name: "呼和浩特周边"
+    slug: huhehaote
+bt:
+  name: "包头"
+  url: http://bt.58.com/
+  slug: bt
+  children:
+  - name: "昆都仑区"
+    slug: kundoulun
+  - name: "青山"
+    slug: qingshanqu
+  - name: "东河"
+    slug: donghe
+  - name: "达尔罕茂明安联合旗"
+    slug: daerhanqi
+  - name: "九原"
+    slug: jiuyuan
+  - name: "白云矿区"
+    slug: baiyunkuang
+  - name: "石拐"
+    slug: shiguai
+  - name: "固阳"
+    slug: guy
+  - name: "土默特右旗"
+    slug: tmtyq
+  - name: "滨河新区"
+    slug: btbhx
+  - name: "稀土高新区"
+    slug: xitgxq
+  - name: "包头周边"
+    slug: baotou
+chifeng:
+  name: "赤峰"
+  url: http://chifeng.58.com/
+  slug: chifeng
+  children:
+  - name: "红山"
+    slug: hshan
+  - name: "元宝山"
+    slug: yuanbaoshan
+  - name: "松山"
+    slug: songshan
+  - name: "翁牛特旗"
+    slug: wengniuteqi
+  - name: "喀喇沁旗"
+    slug: keciqinqi
+  - name: "宁城"
+    slug: ningchengxian
+  - name: "敖汉旗"
+    slug: aohanqi
+  - name: "林西"
+    slug: linxi
+  - name: "新城区"
+    slug: cfxinchengqu
+  - name: "其他"
+    slug: cfqita
+erds:
+  name: "鄂尔多斯"
+  url: http://erds.58.com/
+  slug: erds
+  children:
+  - name: "东胜"
+    slug: dongshengqu
+  - name: "达拉特旗"
+    slug: dalateqi
+  - name: "准格尔旗"
+    slug: zhungeerqi
+  - name: "鄂托克旗"
+    slug: etuokeqi
+  - name: "鄂托克前旗"
+    slug: etuokeqianqi
+  - name: "杭锦旗"
+    slug: hangjinqi
+  - name: "乌审旗"
+    slug: wushenqi
+  - name: "伊金霍洛旗"
+    slug: yijinhuoluoqi
+  - name: "康巴什区"
+    slug: kangbsq
+  - name: "其它"
+    slug: eerduosi
+tongliao:
+  name: "通辽"
+  url: http://tongliao.58.com/
+  slug: tongliao
+  children:
+  - name: "科尔沁"
+    slug: keerqinqu
+  - name: "霍林郭勒"
+    slug: huolinguole
+  - name: "开鲁"
+    slug: kailu
+  - name: "科尔沁左翼中旗"
+    slug: keerqinyouyizhongq
+  - name: "科尔沁左翼后旗"
+    slug: keerqinyouyihouqi
+  - name: "库伦旗"
+    slug: kulunqi
+  - name: "奈曼旗"
+    slug: naimanqi
+  - name: "扎鲁特旗"
+    slug: zaluteqi
+  - name: "通辽周边"
+    slug: tongliaozhoubian
+hlbe:
+  name: "呼伦贝尔"
+  url: http://hlbe.58.com/
+  slug: hlbe
+  children:
+  - name: "海拉尔"
+    slug: hailaerq
+  - name: "满洲里"
+    slug: manzhouli
+  - name: "扎兰屯"
+    slug: zalantun
+  - name: "牙克石"
+    slug: yakeshi
+  - name: "根河"
+    slug: genhe
+  - name: "额尔古纳"
+    slug: eerguna
+  - name: "呼伦贝尔周边"
+    slug: hulunbeierzhoubian
+bycem:
+  name: "巴彦淖尔市"
+  url: http://bycem.58.com/
+  slug: bycem
+  children:
+  - name: "临河"
+    slug: linheq
+  - name: "五原"
+    slug: wuyuan
+  - name: "磴口"
+    slug: dengkou
+  - name: "乌拉特前旗"
+    slug: wulateqianqi
+  - name: "乌拉特中旗"
+    slug: wulatezhongqi
+  - name: "乌拉特后旗"
+    slug: wulatehouqi
+  - name: "杭锦后旗"
+    slug: hangjinhouqi
+  - name: "巴彦周边"
+    slug: bayanzhoubian
+wlcb:
+  name: "乌兰察布"
+  url: http://wlcb.58.com/
+  slug: wlcb
+  children:
+  - name: "集宁"
+    slug: jiningq
+  - name: "丰镇"
+    slug: fengzhen
+  - name: "卓资"
+    slug: zuozhi
+  - name: "化德"
+    slug: huade
+  - name: "商都"
+    slug: sangdu
+  - name: "兴和"
+    slug: xinghe
+  - name: "凉城"
+    slug: liangchengx
+  - name: "乌兰察布周边"
+    slug: wulanchabuzhoubian
+xl:
+  name: "锡林郭勒盟"
+  url: http://xl.58.com/
+  slug: xl
+  children:
+  - name: "二连浩特"
+    slug: erlianhaoteshi
+  - name: "锡林浩特"
+    slug: xilinhaoteshi
+  - name: "阿巴嘎旗"
+    slug: abagaqi
+  - name: "苏尼特左旗"
+    slug: sunitezuoqi
+  - name: "苏尼特右旗"
+    slug: suniteyouqi
+  - name: "东乌珠穆沁旗"
+    slug: dwzmqq
+  - name: "西乌珠穆沁旗"
+    slug: xwzmqq
+  - name: "太仆寺旗"
+    slug: taipusiqi
+  - name: "镶黄旗"
+    slug: xianghuangqi
+  - name: "正镶白旗"
+    slug: zhengxiangbaiqi
+  - name: "正蓝旗"
+    slug: zhenglanqi
+  - name: "多伦"
+    slug: duolunxian
+  - name: "东县"
+    slug: dongxian
+xam:
+  name: "兴安盟"
+  url: http://xam.58.com/
+  slug: xam
+  children:
+  - name: "阿尔山"
+    slug: aershan
+  - name: "乌兰浩特"
+    slug: wulanhaote
+  - name: "突泉"
+    slug: tuquan
+  - name: "扎赉特旗"
+    slug: zalanteqi
+  - name: "科尔沁右翼中旗"
+    slug: keerqinyouyizhongqi
+  - name: "科尔沁右翼前旗"
+    slug: keerqinyouyiqianqi
+  - name: "兴安盟周边"
+    slug: xinganmengzhoubian
+wuhai:
+  name: "乌海"
+  url: http://wuhai.58.com/
+  slug: wuhai
+  children:
+  - name: "海勃湾"
+    slug: haibowan
+  - name: "海南"
+    slug: hainanqu
+  - name: "乌达"
+    slug: wudaqu
+  - name: "滨河东区"
+    slug: wuhaibhdq
+  - name: "滨河西区"
+    slug: wuhaibhxq
+alsm:
+  name: "阿拉善盟"
+  url: http://alsm.58.com/
+  slug: alsm
+  children:
+  - name: "阿拉善左旗"
+    slug: alashanzuoqi
+  - name: "阿拉善右旗"
+    slug: alashanyouqi
+  - name: "额济纳旗"
+    slug: ejinaqi
+  - name: "阿拉善盟周边"
+    slug: alashanmengzhoubian
+hlr:
+  name: "海拉尔"
+  url: http://hlr.58.com/
+  slug: hlr
+  children:
+  - name: "海拉尔城区"
+    slug: hailaercheng
+  - name: "其他"
+    slug: hailaer
+xa:
+  name: "西安"
+  url: http://xa.58.com/
+  slug: xa
+  children:
+  - name: "雁塔"
+    slug: yanta
+  - name: "碑林"
+    slug: beilin
+  - name: "莲湖"
+    slug: lianhu
+  - name: "新城"
+    slug: xaxincheng
+  - name: "未央"
+    slug: weiyang
+  - name: "长安"
+    slug: changanlu
+  - name: "灞桥"
+    slug: baqiao
+  - name: "临潼"
+    slug: lintong
+  - name: "阎良"
+    slug: yanliang
+  - name: "高新区"
+    slug: xagx
+  - name: "沣渭新区"
+    slug: fengweixinq
+  - name: "曲江新区"
+    slug: qujiangxinq
+  - name: "杨凌"
+    slug: yangling
+  - name: "西安周边"
+    slug: xianzhoubian
+xianyang:
+  name: "咸阳"
+  url: http://xianyang.58.com/
+  slug: xianyang
+  children:
+  - name: "秦都"
+    slug: qinduqu
+  - name: "渭城"
+    slug: weichengquyu
+  - name: "兴平"
+    slug: sanpingshi
+  - name: "三原"
+    slug: sanyuanxian
+  - name: "泾阳"
+    slug: jingyangxian
+  - name: "乾县"
+    slug: qianxian
+  - name: "礼泉"
+    slug: liquanxian
+  - name: "永寿"
+    slug: yongshouxian
+  - name: "彬县"
+    slug: xybinxian
+  - name: "长武"
+    slug: changwuxian
+  - name: "旬邑"
+    slug: xunyixian
+  - name: "淳化"
+    slug: chunhuaxian
+  - name: "武功"
+    slug: wugongxian
+baoji:
+  name: "宝鸡"
+  url: http://baoji.58.com/
+  slug: baoji
+  children:
+  - name: "渭滨"
+    slug: weibin
+  - name: "金台"
+    slug: jintai
+  - name: "陈仓"
+    slug: chencang
+  - name: "岐山"
+    slug: qishanxian
+  - name: "凤县"
+    slug: fengxian
+  - name: "眉县"
+    slug: meixian
+  - name: "其它"
+    slug: baojishi
+wn:
+  name: "渭南"
+  url: http://wn.58.com/
+  slug: wn
+  children:
+  - name: "临渭"
+    slug: linwei
+  - name: "韩城"
+    slug: hancheng
+  - name: "华阴"
+    slug: huayin
+  - name: "华县"
+    slug: wnhuaxian
+  - name: "潼关"
+    slug: tongguan
+  - name: "大荔"
+    slug: dalixian
+  - name: "合阳"
+    slug: heyang
+  - name: "蒲城"
+    slug: pucheng
+  - name: "富平"
+    slug: fuping
+  - name: "白水"
+    slug: baishui
+  - name: "澄城"
+    slug: chengcheng
+  - name: "渭南周边"
+    slug: weinan
+hanzhong:
+  name: "汉中"
+  url: http://hanzhong.58.com/
+  slug: hanzhong
+  children:
+  - name: "汉台"
+    slug: hantai
+  - name: "城固"
+    slug: chenggu
+  - name: "南郑"
+    slug: nanzheng
+  - name: "洋县"
+    slug: yangxian
+  - name: "勉县"
+    slug: mianxian
+  - name: "西乡"
+    slug: xixiang
+  - name: "略阳"
+    slug: lueyang
+  - name: "宁强县"
+    slug: hanzhongnqx
+  - name: "镇巴县"
+    slug: hanzhongzbx
+  - name: "留坝县"
+    slug: hanzhonglbx
+  - name: "佛坪县"
+    slug: hanzhongfpx
+  - name: "其他"
+    slug: hanzhongshi
+yl:
+  name: "榆林"
+  url: http://yl.58.com/
+  slug: yl
+  children:
+  - name: "榆阳"
+    slug: yuyang
+  - name: "神木"
+    slug: shenmu
+  - name: "府谷"
+    slug: fugu
+  - name: "横山"
+    slug: hengshanx
+  - name: "靖边"
+    slug: jingbian
+  - name: "定边"
+    slug: dingbian
+  - name: "绥德"
+    slug: suide
+  - name: "米脂"
+    slug: mizhi
+  - name: "佳县"
+    slug: sxjx
+  - name: "其它"
+    slug: yls
+yanan:
+  name: "延安"
+  url: http://yanan.58.com/
+  slug: yanan
+  children:
+  - name: "宝塔"
+    slug: baotaqu
+  - name: "子长"
+    slug: zichangxian
+  - name: "吴起"
+    slug: wuqixian
+  - name: "志丹"
+    slug: zhidanxian
+  - name: "安塞"
+    slug: anzaixian
+  - name: "延川"
+    slug: yanchuanxian
+  - name: "延长"
+    slug: yanchangxian
+  - name: "甘泉"
+    slug: ganquanxian
+  - name: "富县"
+    slug: fuxian
+  - name: "洛川"
+    slug: luochuanxian
+  - name: "黄陵"
+    slug: huanglingxian
+  - name: "宜川"
+    slug: yichuanxian
+  - name: "黄龙"
+    slug: huanglongxian
+ankang:
+  name: "安康"
+  url: http://ankang.58.com/
+  slug: ankang
+  children:
+  - name: "汉滨"
+    slug: hanbin
+  - name: "紫阳"
+    slug: ziyang
+  - name: "岚皋"
+    slug: langao
+  - name: "旬阳"
+    slug: xunyangxian
+  - name: "镇坪"
+    slug: zhenping
+  - name: "汉阴县"
+    slug: ankanghyx
+  - name: "石泉县"
+    slug: ankangsqx
+  - name: "宁陕县"
+    slug: ankangnsx
+  - name: "平利县"
+    slug: ankangplx
+  - name: "白河县"
+    slug: ankangbhx
+  - name: "其他"
+    slug: ankangshi
+sl:
+  name: "商洛"
+  url: http://sl.58.com/
+  slug: sl
+  children:
+  - name: "商州"
+    slug: shangzhou
+  - name: "洛南"
+    slug: luonan
+  - name: "丹凤"
+    slug: danfeng
+  - name: "商南"
+    slug: sangnan
+  - name: "山阳"
+    slug: shanyangx
+  - name: "镇安"
+    slug: zhenanx
+  - name: "柞水"
+    slug: zuoshui
+  - name: "商洛周边"
+    slug: sangluozhoubian
+tc:
+  name: "铜川"
+  url: http://tc.58.com/
+  slug: tc
+  children:
+  - name: "王益"
+    slug: wangyiqu
+  - name: "印台"
+    slug: yintaiqu
+  - name: "耀州"
+    slug: yaozhouqu
+  - name: "宜君"
+    slug: yijunxian
+  - name: "开发区"
+    slug: tckaifa
+  - name: "铜川周边"
+    slug: tongchuanzhoubian
+xj:
+  name: "乌鲁木齐"
+  url: http://xj.58.com/
+  slug: xj
+  children:
+  - name: "天山"
+    slug: tianshan
+  - name: "沙依巴克"
+    slug: shayibake
+  - name: "新市"
+    slug: wlmqxinshi
+  - name: "乌鲁木齐县"
+    slug: wulumuqixian
+  - name: "达坂城"
+    slug: dabancheng
+  - name: "水磨沟"
+    slug: shuitanggou
+  - name: "头屯河"
+    slug: toutunhequ
+  - name: "开发区"
+    slug: kaifaarea
+  - name: "米东区"
+    slug: midongdistrict
+  - name: "乌鲁木齐周边"
+    slug: wlmqzb
+changji:
+  name: "昌吉"
+  url: http://changji.58.com/
+  slug: changji
+  children:
+  - name: "昌吉"
+    slug: changjishi
+  - name: "阜康"
+    slug: fukangshi
+  - name: "玛纳斯"
+    slug: manasixian
+  - name: "呼图壁"
+    slug: hutubishi
+  - name: "奇台"
+    slug: qitaixian
+  - name: "木垒"
+    slug: muleixian
+  - name: "吉木萨尔"
+    slug: jimusaerxian
+bygl:
+  name: "巴音郭楞"
+  url: http://bygl.58.com/
+  slug: bygl
+  children:
+  - name: "库尔勒"
+    slug: kuerleshi
+  - name: "轮台"
+    slug: luntx
+  - name: "尉犁"
+    slug: weilx
+  - name: "焉耆"
+    slug: yanqx
+  - name: "和静"
+    slug: hejx
+  - name: "若羌"
+    slug: byglrq
+  - name: "博湖"
+    slug: byglbh
+  - name: "和硕"
+    slug: byglhs
+  - name: "且末"
+    slug: bygljm
+  - name: "巴州周边"
+    slug: bazhouzhoubian
+yili:
+  name: "伊犁"
+  url: http://yili.58.com/
+  slug: yili
+  children:
+  - name: "奎屯"
+    slug: kuitunshi
+  - name: "伊宁"
+    slug: yiningshi
+  - name: "塔城"
+    slug: tachengshi
+  - name: "乌苏"
+    slug: wusushi
+  - name: "阿勒泰"
+    slug: aletaishi
+  - name: "伊犁周边"
+    slug: yilizhoubian
+aks:
+  name: "阿克苏"
+  url: http://aks.58.com/
+  slug: aks
+  children:
+  - name: "阿克苏市"
+    slug: aksakss
+  - name: "库车"
+    slug: kuchexian
+  - name: "新和"
+    slug: xinhexian
+  - name: "沙雅"
+    slug: shayaxian
+  - name: "拜城"
+    slug: baichengxian
+  - name: "温宿"
+    slug: wensuxian
+  - name: "阿瓦提"
+    slug: awatixian
+  - name: "乌什"
+    slug: wushixian
+  - name: "柯坪"
+    slug: kepingxian
+  - name: "阿克苏周边"
+    slug: akeshuzhoubian
+ks:
+  name: "喀什"
+  url: http://ks.58.com/
+  slug: ks
+  children:
+  - name: "喀什"
+    slug: kashishi
+  - name: "巴楚"
+    slug: bachuxian
+  - name: "泽普"
+    slug: zepuxian
+  - name: "伽师"
+    slug: jiashixian
+  - name: "叶城"
+    slug: yechengxian
+  - name: "岳普湖"
+    slug: yuepuhuxian
+  - name: "疏勒"
+    slug: shulexian
+  - name: "麦盖提"
+    slug: maigaitixian
+  - name: "英吉沙"
+    slug: yingjishaxian
+  - name: "莎车"
+    slug: shachexian
+  - name: "疏附"
+    slug: shufuxian
+  - name: "塔什库尔干"
+    slug: tashikuergan
+  - name: "喀什周边"
+    slug: kashizhoubian
+hami:
+  name: "哈密"
+  url: http://hami.58.com/
+  slug: hami
+  children:
+  - name: "哈密"
+    slug: hamishi
+  - name: "巴里坤"
+    slug: balilkunzzx
+  - name: "伊吾"
+    slug: yiwuxian
+klmy:
+  name: "克拉玛依"
+  url: http://klmy.58.com/
+  slug: klmy
+  children:
+  - name: "克拉玛依区"
+    slug: kelamayiqu
+  - name: "独山子"
+    slug: dushanzi
+  - name: "白碱滩"
+    slug: baijiantan
+  - name: "乌尔禾"
+    slug: wuerhe
+  - name: "其它"
+    slug: kelamayi
+betl:
+  name: "博尔塔拉"
+  url: http://betl.58.com/
+  slug: betl
+  children:
+  - name: "博乐"
+    slug: boleshi
+  - name: "温泉"
+    slug: wenquanxian
+  - name: "精河"
+    slug: jinghexian
+  - name: "博州周边"
+    slug: bozhouzb
+tlf:
+  name: "吐鲁番"
+  url: http://tlf.58.com/
+  slug: tlf
+  children:
+  - name: "老城路"
+    slug: laochenglu
+  - name: "高昌路"
+    slug: gaochanglu
+  - name: "七泉湖镇"
+    slug: qiquanhuzhen
+  - name: "大河沿镇"
+    slug: daheyanzhen
+  - name: "托克逊县"
+    slug: tlftkxx
+  - name: "鄯善县"
+    slug: tlfssx
+  - name: "吐鲁番周边"
+    slug: tulufanzhoubian
+ht:
+  name: "和田"
+  url: http://ht.58.com/
+  slug: ht
+  children:
+  - name: "和田县"
+    slug: hetianxian
+  - name: "墨玉"
+    slug: moyuxian
+  - name: "皮山"
+    slug: pishanxian
+  - name: "洛浦"
+    slug: luopuxian
+  - name: "于田"
+    slug: yutx
+  - name: "策勒"
+    slug: celexian
+  - name: "民丰"
+    slug: minfengxian
+  - name: "和田周边"
+    slug: hetianzhoubian
+shz:
+  name: "石河子"
+  url: http://shz.58.com/
+  slug: shz
+  children:
+  - name: "老街"
+    slug: laojie
+  - name: "红山"
+    slug: hongshans
+  - name: "新城"
+    slug: xinchengs
+  - name: "向阳"
+    slug: xiangyangs
+  - name: "东城"
+    slug: dongchengs
+  - name: "石河子周边"
+    slug: shihezizb
+kzls:
+  name: "克孜勒苏"
+  url: http://kzls.58.com/
+  slug: kzls
+  children:
+  - name: "阿图什"
+    slug: atushishi
+  - name: "乌恰"
+    slug: wuqiaxian
+  - name: "阿合奇"
+    slug: aheqixian
+  - name: "克孜勒苏周边"
+    slug: kezileshuzhoubian
+ale:
+  name: "阿拉尔"
+  url: http://ale.58.com/
+  slug: ale
+  children:
+  - name: "幸福路"
+    slug: xingfulu
+  - name: "金银川路"
+    slug: jinyinchuanlu
+  - name: "青松路"
+    slug: qingsonglu
+  - name: "南口"
+    slug: nankoua
+  - name: "团场"
+    slug: tuanchang
+  - name: "阿拉尔周边"
+    slug: alaerzhoubian
+wjq:
+  name: "五家渠"
+  url: http://wjq.58.com/
+  slug: wjq
+  children:
+  - name: "军垦路"
+    slug: junkenlu
+  - name: "青湖路"
+    slug: qinghulu
+  - name: "人民路"
+    slug: renml
+  - name: 101团
+    slug: yilingyituan
+  - name: 102团
+    slug: yilingertuan
+  - name: 103团
+    slug: yilingsantuan
+  - name: "五家渠周边"
+    slug: wujiaquzhoubian
+tmsk:
+  name: "图木舒克"
+  url: http://tmsk.58.com/
+  slug: tmsk
+  children:
+  - name: "金墩"
+    slug: jindun
+  - name: "盖米里克"
+    slug: gaimilike
+  - name: "其盖麦旦"
+    slug: qigaimaidan
+  - name: "图木休克"
+    slug: tumuxiuke
+  - name: "皮恰克松地"
+    slug: piqiakesongdi
+  - name: "图木舒克周边"
+    slug: tumushukezb
+lz:
+  name: "兰州"
+  url: http://lz.58.com/
+  slug: lz
+  children:
+  - name: "城关"
+    slug: chengguanqv
+  - name: "七里河"
+    slug: qilihe
+  - name: "安宁"
+    slug: anning
+  - name: "西固"
+    slug: xigu
+  - name: "红古"
+    slug: honggu
+  - name: "新区"
+    slug: lzxq
+  - name: "兰州周边"
+    slug: lanzhou
+tianshui:
+  name: "天水"
+  url: http://tianshui.58.com/
+  slug: tianshui
+  children:
+  - name: "天水"
+    slug: tianshuishi
+  - name: "秦州"
+    slug: qinzhouqu
+  - name: "麦积"
+    slug: maijiqu
+  - name: "清水"
+    slug: qingshuixian
+  - name: "秦安"
+    slug: qinanxian
+  - name: "甘谷"
+    slug: ganguxin
+  - name: "武山"
+    slug: wushanxian
+  - name: "张家川"
+    slug: zhangjiachun
+by:
+  name: "白银"
+  url: http://by.58.com/
+  slug: by
+  children:
+  - name: "白银"
+    slug: baiyin
+  - name: "平川"
+    slug: pingchuan
+  - name: "靖远"
+    slug: jingyuan
+  - name: "会宁"
+    slug: huining
+  - name: "景泰"
+    slug: jingtan
+  - name: "白银周边"
+    slug: baiyinzhoubian
+qingyang:
+  name: "庆阳"
+  url: http://qingyang.58.com/
+  slug: qingyang
+  children:
+  - name: "西峰"
+    slug: xifengq
+  - name: "环县"
+    slug: huanx
+  - name: "华池"
+    slug: huachi
+  - name: "庆城"
+    slug: qingcheng
+  - name: "镇原"
+    slug: zheny
+  - name: "宁县"
+    slug: ningx
+  - name: "正宁"
+    slug: zhengning
+  - name: "合水"
+    slug: heshui
+  - name: "庆阳周边"
+    slug: qingyangzhoubian
+pl:
+  name: "平凉"
+  url: http://pl.58.com/
+  slug: pl
+  children:
+  - name: "崆峒"
+    slug: kongtongqu
+  - name: "庄浪"
+    slug: zhuanglangxian
+  - name: "静宁"
+    slug: jingningxian
+  - name: "泾川"
+    slug: jingchuanxian
+  - name: "灵台"
+    slug: lingtaixian
+  - name: "崇信"
+    slug: chongxinxian
+  - name: "华亭"
+    slug: huatingxian
+jq:
+  name: "酒泉"
+  url: http://jq.58.com/
+  slug: jq
+  children:
+  - name: "酒泉"
+    slug: jiuquan
+  - name: "玉门"
+    slug: yumen
+  - name: "敦煌"
+    slug: dunhuang
+  - name: "金塔"
+    slug: jinta
+  - name: "安西"
+    slug: anxi
+  - name: "肃北"
+    slug: subei
+  - name: "阿克塞"
+    slug: akesai
+  - name: "酒泉周边"
+    slug: jiuquanzhoubian
+zhangye:
+  name: "张掖"
+  url: http://zhangye.58.com/
+  slug: zhangye
+  children:
+  - name: "临泽"
+    slug: linzhe
+  - name: "高台"
+    slug: gaotai
+  - name: "山丹"
+    slug: shandan
+  - name: "民乐"
+    slug: minle
+  - name: "肃南"
+    slug: sunan
+  - name: "张掖周边"
+    slug: zhangyezhoubian
+wuwei:
+  name: "武威"
+  url: http://wuwei.58.com/
+  slug: wuwei
+  children:
+  - name: "凉州"
+    slug: liangzhou
+  - name: "民勤"
+    slug: minqin
+  - name: "古浪"
+    slug: gulang
+  - name: "天祝"
+    slug: tianzx
+  - name: "武威周边"
+    slug: wuweizhoubian
+dx:
+  name: "定西"
+  url: http://dx.58.com/
+  slug: dx
+  children:
+  - name: "安定"
+    slug: anding
+  - name: "通渭"
+    slug: tongwei
+  - name: "临洮"
+    slug: lintao
+  - name: "漳县"
+    slug: zhangxian
+  - name: "岷县"
+    slug: minxian
+  - name: "渭源"
+    slug: weiyuanx
+  - name: "陇西"
+    slug: longxix
+  - name: "定西周边"
+    slug: dingxizhoubian
+jinchang:
+  name: "金昌"
+  url: http://jinchang.58.com/
+  slug: jinchang
+  children:
+  - name: "永昌"
+    slug: yongchangxian
+  - name: "河西堡"
+    slug: hexibao
+  - name: "金川"
+    slug: jinchangshiqu
+ln:
+  name: "陇南"
+  url: http://ln.58.com/
+  slug: ln
+  children:
+  - name: "武都"
+    slug: wudu
+  - name: "成县"
+    slug: chengx
+  - name: "徽县"
+    slug: huix
+  - name: "两当"
+    slug: liangdang
+  - name: "宕昌"
+    slug: dangchang
+  - name: "文县"
+    slug: wenx
+  - name: "陇南周边"
+    slug: longnanzhoubian
+linxia:
+  name: "临夏"
+  url: http://linxia.58.com/
+  slug: linxia
+  children:
+  - name: "东乡"
+    slug: dongxiangxian
+  - name: "广河"
+    slug: guanghexian
+  - name: "临夏市"
+    slug: linxialxs
+  - name: "和政"
+    slug: hezhengxian
+  - name: "积石"
+    slug: jishixian
+  - name: "康乐"
+    slug: kanglexian
+  - name: "临夏"
+    slug: linxiaxian
+  - name: "永靖"
+    slug: yongjingxian
+jyg:
+  name: "嘉峪关"
+  url: http://jyg.58.com/
+  slug: jyg
+  children:
+  - name: "五一"
+    slug: wuyi
+  - name: "新华"
+    slug: xinhua
+  - name: "前进"
+    slug: qianj
+  - name: "胜利"
+    slug: shengl
+  - name: "建设"
+    slug: jians
+  - name: "镜铁山矿区"
+    slug: jingtieshan
+  - name: "嘉峪关周边"
+    slug: jiayuguanzhoubian
+gn:
+  name: "甘南"
+  url: http://gn.58.com/
+  slug: gn
+  children:
+  - name: "合作"
+    slug: hezuo
+  - name: "临潭"
+    slug: lintan
+  - name: "卓尼"
+    slug: zuoni
+  - name: "舟曲"
+    slug: zhouqu
+  - name: "迭部"
+    slug: diebu
+  - name: "玛曲"
+    slug: maqu
+  - name: "碌曲"
+    slug: luqu
+  - name: "夏河"
+    slug: xiahe
+  - name: "甘南周边"
+    slug: gannanzhoubian
+yinchuan:
+  name: "银川"
+  url: http://yinchuan.58.com/
+  slug: yinchuan
+  children:
+  - name: "兴庆"
+    slug: xingqing
+  - name: "金凤"
+    slug: jinfeng
+  - name: "西夏"
+    slug: xixia
+  - name: "贺兰"
+    slug: helan
+  - name: "灵武"
+    slug: lingwu
+  - name: "永宁"
+    slug: yongningxian
+  - name: "其它"
+    slug: yinchuanqita
+wuzhong:
+  name: "吴忠"
+  url: http://wuzhong.58.com/
+  slug: wuzhong
+  children:
+  - name: "利通"
+    slug: litong
+  - name: "青铜峡"
+    slug: qingtongxia
+  - name: "盐池"
+    slug: yanchi
+  - name: "同心"
+    slug: tongxin
+  - name: "红寺堡"
+    slug: hongsipu
+  - name: "太阳山"
+    slug: taiyangshan
+  - name: "吴忠周边"
+    slug: wuzhongzhoubian
+szs:
+  name: "石嘴山"
+  url: http://szs.58.com/
+  slug: szs
+  children:
+  - name: "大武口"
+    slug: dawukou
+  - name: "惠农"
+    slug: huinong
+  - name: "平罗"
+    slug: pingluo
+  - name: "石嘴山周边"
+    slug: shizuishanzhoubian
+zw:
+  name: "中卫"
+  url: http://zw.58.com/
+  slug: zw
+  children:
+  - name: "沙坡头"
+    slug: shapotou
+  - name: "中宁"
+    slug: zhongning
+  - name: "海原"
+    slug: haiyuan
+  - name: "中卫周边"
+    slug: zhongweizhoubian
+guyuan:
+  name: "固原"
+  url: http://guyuan.58.com/
+  slug: guyuan
+  children:
+  - name: "固原"
+    slug: guyuanshi
+  - name: "原州"
+    slug: yuanzhouqu
+  - name: "西吉"
+    slug: xijixian
+  - name: "隆德"
+    slug: longdexian
+  - name: "彭阳"
+    slug: pengyangxian
+  - name: "泾源"
+    slug: jingyuanxian
+  - name: "海原"
+    slug: haiyuanxian
+  - name: "经济开发区"
+    slug: jingjikaifa
+xn:
+  name: "西宁"
+  url: http://xn.58.com/
+  slug: xn
+  children:
+  - name: "城西"
+    slug: chengxi
+  - name: "城中"
+    slug: chengzhong
+  - name: "城东"
+    slug: chengdong
+  - name: "城北"
+    slug: chengbeiqu
+  - name: "湟源"
+    slug: huangyuan
+  - name: "大通"
+    slug: datongxian
+  - name: "湟中"
+    slug: huangzhong
+  - name: "其它"
+    slug: xining
+hx:
+  name: "海西"
+  url: http://hx.58.com/
+  slug: hx
+  children:
+  - name: "德令哈"
+    slug: delinghashi
+  - name: "格尔木"
+    slug: geermushi
+  - name: "都兰"
+    slug: dulan
+  - name: "乌兰"
+    slug: wulan
+  - name: "天峻"
+    slug: tianjun
+  - name: "海西周边"
+    slug: haixizhoubian
+haibei:
+  name: "海北"
+  url: http://haibei.58.com/
+  slug: haibei
+  children:
+  - name: "海晏"
+    slug: haiyanx
+  - name: "祁连"
+    slug: qilian
+  - name: "刚察"
+    slug: gangcha
+  - name: "门源"
+    slug: menyuan
+  - name: "海北周边"
+    slug: haibeizhoubian
+guoluo:
+  name: "果洛"
+  url: http://guoluo.58.com/
+  slug: guoluo
+  children:
+  - name: "玛沁"
+    slug: maqin
+  - name: "班玛"
+    slug: banma
+  - name: "甘德"
+    slug: gande
+  - name: "达日"
+    slug: dari
+  - name: "久治"
+    slug: jiuzhi
+  - name: "玛多"
+    slug: maduo
+  - name: "果洛周边"
+    slug: guoluozhoubian
+haidong:
+  name: "海东"
+  url: http://haidong.58.com/
+  slug: haidong
+  children:
+  - name: "平安"
+    slug: pingan
+  - name: "乐都"
+    slug: ledu
+  - name: "民和"
+    slug: minhe
+  - name: "互助"
+    slug: huzhu
+  - name: "化隆"
+    slug: lualong
+  - name: "循化"
+    slug: xunhua
+  - name: "海东周边"
+    slug: haidongzhoubian
+huangnan:
+  name: "黄南"
+  url: http://huangnan.58.com/
+  slug: huangnan
+  children:
+  - name: "同仁"
+    slug: tongren
+  - name: "尖扎"
+    slug: jianzha
+  - name: "泽库"
+    slug: zeku
+  - name: "河南县"
+    slug: henanx
+  - name: "黄南周边"
+    slug: huangnanzhoubian
+ys:
+  name: "玉树"
+  url: http://ys.58.com/
+  slug: ys
+  children:
+  - name: "玉树"
+    slug: yushux
+  - name: "杂多"
+    slug: zaduo
+  - name: "称多"
+    slug: chengduo
+  - name: "治多"
+    slug: zhiduo
+  - name: "囊谦"
+    slug: nangqian
+  - name: "曲麻莱"
+    slug: qumalai
+  - name: "玉树周边"
+    slug: yushuzhoubian
+hainan:
+  name: "海南"
+  url: http://hainan.58.com/
+  slug: hainan
+  children:
+  - name: "共和"
+    slug: gonghexian
+  - name: "同德"
+    slug: tongdexian
+  - name: "贵德"
+    slug: guidexian
+  - name: "兴海"
+    slug: xinghaixian
+  - name: "贵南"
+    slug: guinanxian
+  - name: "海南周边"
+    slug: hainanzhoubian
