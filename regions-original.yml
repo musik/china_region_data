@@ -5830,9 +5830,9 @@
         枝江市:
           pinyin: zhijiang
           pinyin_abbr: zj
-    襄樊市:
-      pinyin: xiangfan
-      pinyin_abbr: xf
+    襄阳市:
+      pinyin: xiangyang
+      pinyin_abbr: xy
       zip_code: '441000'
       level: 4
       districts:
@@ -5842,8 +5842,8 @@
         樊城区:
           pinyin: fancheng
           pinyin_abbr: fc
-        襄阳区:
-          pinyin: xiangyang
+        襄州区:
+          pinyin: xiangzhou
           pinyin_abbr: xy
         南漳县:
           pinyin: nanzhang
