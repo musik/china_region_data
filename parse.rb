@@ -24,16 +24,16 @@ def parse_city k,val
     val[:nicename] = k.sub(/(省|特别行政区|地区|市|区|县)$/,'')
     # p [val[:nicename],k,val[:pinyin],val[:pinyin_abbr]]
   end
+  if rewrite_pinyin
+    val[:pinyin] = Pinyin.t(k,splitter: '')
+    val[:pinyin_abbr] = Pinyin.t(k){|l| l[0]}
+    # p [k,val[:nicename],val[:pinyin],val[:pinyin_abbr]]
+  end
   #特殊处理 
   if $custom.key?(k)
     val[:pinyin] = $custom[k]["pinyin"]
     val[:pinyin_abbr] = $custom[k]["abbr"]
     val[:name] = $custom[k]["name"] if $custom[k].key? "name"
-  end
-  if rewrite_pinyin
-    val[:pinyin] = Pinyin.t(k,splitter: '')
-    val[:pinyin_abbr] = Pinyin.t(k){|l| l[0]}
-    # p [k,val[:nicename],val[:pinyin],val[:pinyin_abbr]]
   end
   val
 end
