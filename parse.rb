@@ -28,6 +28,7 @@ def parse_city k,val
   if $custom.key?(k)
     val[:pinyin] = $custom[k]["pinyin"]
     val[:pinyin_abbr] = $custom[k]["abbr"]
+    val[:name] = $custom[k]["name"] if $custom[k].key? "name"
   end
   if rewrite_pinyin
     val[:pinyin] = Pinyin.t(k,splitter: '')
@@ -54,7 +55,9 @@ def parse_nicename name
 end
 def parse_cities hash
   hash.each do |k,v|
-    hash[k] = parse_city k.to_s,v
+    data = parse_city k.to_s,v
+    name = data.delete(:name) || k
+    hash[k] = data
   end
   hash
 end

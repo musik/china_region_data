@@ -7595,9 +7595,9 @@
           pinyin_abbr: zj
           nicename: "枝江"
       nicename: "宜昌"
-    "襄樊市":
-      pinyin: xiangfan
-      pinyin_abbr: xf
+    "襄阳市":
+      pinyin: xiangyang
+      pinyin_abbr: xy
       zip_code: '441000'
       level: 4
       districts:
@@ -7609,10 +7609,10 @@
           pinyin: fancheng
           pinyin_abbr: fc
           nicename: "樊城"
-        "襄阳区":
-          pinyin: xiangyang
+        "襄州区":
+          pinyin: xiangzhou
           pinyin_abbr: xy
-          nicename: "襄阳"
+          nicename: "襄州"
         "南漳县":
           pinyin: nanzhang
           pinyin_abbr: nz
@@ -7637,7 +7637,7 @@
           pinyin: yicheng
           pinyin_abbr: yc
           nicename: "宜城"
-      nicename: "襄樊"
+      nicename: "襄阳"
     "鄂州市":
       pinyin: ezhou
       pinyin_abbr: ez
